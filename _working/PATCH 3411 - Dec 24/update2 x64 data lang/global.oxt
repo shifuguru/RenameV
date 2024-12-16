@@ -22,6 +22,7 @@
 	0x001726B6 = You destroyed Cargo.
 	0x00180450 = Pay For Supplies
 	0x001875DE = Your new vehicle will be delivered to your Clubhouse shortly.
+	0x00187EDD = Locate the thermal charges.
 	0x001A2EA0 = General
 	0x001AEB52 = Collect ~HUD_COLOUR_BLUE~Acid.~s~
 	0x001C0605 = Help deliver the ~a~~s~ to the ~HUD_COLOUR_YELLOW~customer.~s~
@@ -59,6 +60,7 @@
 	0x003A5B94 = Damn you fortunate you didn't just maim it with that leg shot!  $~1~ is the highest I can go.
 	0x003A931F = TOGGLE ODDS
 	0x003AC356 = @HughieMcGill Fucking #Perseus #menswear shoot today. Should be down the boozer w the lads insteada doin this poncy shit. Workout? The only sport I play is darts!
+	0x003CD5A2 = You failed to deliver the weapons
 	0x003DA9E2 = Special Vehicle Mission
 	0x003DED48 = THE AGENCY DEAL
 	0x003EF5AD = The Diamond Casino Heist
@@ -144,6 +146,7 @@
 	0x00AF1B61 = CLIENT HEALTH
 	0x00B0C050 = fingerprint cloner
 	0x00B5D43C = Throw Tear Gas into the ~HUD_COLOUR_YELLOW~area~s~ to start a riot.
+	0x00B5EC29 = Purchase a Terrorbyte from warstock-cache-and-carry.com and install exclusive Bureau Tech modifications for it when it's parked in the Garment Factory.
 	0x00B6D5B4 = The Shade
 	0x00B13B65 = ~a~~s~ destroyed the generator.
 	0x00B94EF8 = ~a~ ~a~ (Impounded)
@@ -182,6 +185,8 @@
 	0x00E4ADC6 = Wait for ~a~~s~ to park beside the ~HUD_COLOUR_GREEN~gas tank.~s~
 	0x00E11D1E = ~a~ and ~a~ won Caged In
 	0x00E25AC2 = Puerto Del Sol Marina
+	0x00E77F68 = ~m~Press ~INPUT_CONTEXT~ to modify your Avenger.~s~~n~Hold ~INPUT_CONTEXT_SECONDARY~ to enter the Avenger's hold.
+	0x00E329FA = Help deliver the weapons to the ~HUD_COLOUR_YELLOW~buyers.~s~
 	0x00E897CA = Hot Property
 	0x00E60868 = Select the style of your Crew's T-Shirt.
 	0x00E89514 = Chrome Grille
@@ -227,6 +232,7 @@
 	0x01225BD5 = YOUR CHOSEN NICKNAME
 	0x01237B5B = The gang members will become alerted if you enter their field of vision or if they spot you with a weapon equipped.
 	0x0123AF3E = RESPOND
+	0x01243F87 = A waypoint to the McKenzie Field Hangar has been added to your GPS.
 	0x0126E169 = Taxi Work is unavailable while you are a member of an Organization or MC.
 	0x0127064D = Quantum
 	0x0128223F = Gibbs Quadski
@@ -266,6 +272,7 @@
 	0x01558A89 = Garage: Santa Monica Heights 4
 	0x0156104D = Scorched Soul
 	0x015637E0 = Mojave Desert
+	0x0157D011 = Search the ~HUD_COLOUR_YELLOW~area~s~ for an Eberhard van.
 	0x0157E0A7 = Dear Mr De Santa,~n~I have been the manager at the Doppler Cinema for over 7 years and I wanted to personally welcome you as our new owner.  I like to say that this is the real movie business in Hollywood!~n~Please come in soon and catch a movie.  On the house, of course!~n~Warm wishes,~n~Patrick
 	0x015CBAC5 = Use ~INPUT_SCRIPT_RUP~ to deploy your special weapon.
 	0x015FE233 = Half the size, all the power, double the recoil: there's no riskier way to say "I'm compensating for something". Part of Lowriders: Custom Classics. This item is permanently free as part of the Criminal Enterprise Starter Pack.
@@ -279,6 +286,7 @@
 	0x0164B871 = Braids Blonde
 	0x0167DE1A = Down
 	0x016E69C6 = Front Fenders
+	0x016F735F = Deliver weapons in a Piper PA-36 Pawnee Brave for Oscar as part of Arms Trafficking to unlock the trade price for this vehicle.
 	0x016FD8DE = Respray
 	0x01708814 = Purchase of this Salvage Yard has been canceled.
 	0x017180CC = Collect the golfing equipment and run over the target with a golf buggy.
@@ -441,6 +449,7 @@
 	0x023D57F6 = Someone's having a swell old time with an oligarch's mistress right about now. I'm so annoyed you let him go.
 	0x023D80E3 = Bottle
 	0x023D6232 = The Puff
+	0x023DD68E = Press ~INPUT_FRONTEND_X~ to drop a mine.~n~Hold ~INPUT_FRONTEND_LB~ to detonate.~n~Press ~INPUT_VEH_EXIT~ to exit.
 	0x023E2E49 = PEGASUS VEHICLES
 	0x023EDA7A = The aim of Three Card Poker is to make the best poker hand possible with three cards, comparing your hand against the Dealer's hand.
 	0x023EDDC4 = Wait for the other ~HUD_COLOUR_BLUE~SUV.~s~
@@ -474,7 +483,7 @@
 	0x0265DDDD = Use the image sent by Franklin to identify the lawyer among the guests.
 	0x02673DEE = Bunker Hill Clubhouse
 	0x0268002B = The Gooch Mask
-	0x02696412 = Steal a total of $5,000,000 in secondary targets during The Cayo Perico Heist.
+	0x02696412 = Steal a total of $5,000,000 in secondary targets during The Cayo Norman Heist.
 	0x026A5216 = Brown Digital Vent
 	0x026B6EF5 = MTL Apocalypse Cerberus Livery set
 	0x026CED9C = Objective
@@ -588,11 +597,11 @@
 	0x0308BA68 = Place a crosshair on a Rival for your gang member to see.
 	0x030C2A78 = Email Messages
 	0x030FC1A5 = I find it difficult to trust people who don't look like me.
-	0x030FD31F = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Complete ~1~ races in the Cayo Perico Series.~n~- Complete Reporting for Duty as leader.
+	0x030FD31F = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Complete ~1~ races in the Cayo Norman Series.~n~- Complete Reporting for Duty as leader.
 	0x0312DEDA = Request a Rancher XL.
 	0x0314F35A = 40 kills
 	0x031600EE = a Jaguar XK
-	0x0316BFC3 = You have scoped the minimum required to continue The Cayo Perico Heist. There is more to find that can help with the preparation and execution of the Heist but you can attempt to scope these items in the future:~n~- Infiltration and escape points~n~- Compound entry points~n~- Secondary targets~n~- Points of interest~n~
+	0x0316BFC3 = You have scoped the minimum required to continue The Cayo Norman Heist. There is more to find that can help with the preparation and execution of the Heist but you can attempt to scope these items in the future:~n~- Infiltration and escape points~n~- Compound entry points~n~- Secondary targets~n~- Points of interest~n~
 	0x031B16B1 = You must take the trailer ~BLIP_TRAILER~~s~ to the deal in order to make the swap for the Cargo.
 	0x031CDBCF = 1 Bottle! ~n~You win ~1~ Chips.
 	0x031D223C = crate
@@ -605,10 +614,11 @@
 	0x03273E37 = Hurry.
 	0x032800BF = Lamar Down
 	0x032A6404 = You don't have enough money to buy this business.
+	0x03305DD2 = You can't enter the Garment Factory while acquiring goods for a Bunker.
 	0x03309E12 = Motor Wars
 	0x0330CB5C = Wait for your team to recover a security pass.
 	0x033100CD = Chop
-	0x0333B088 = The Cayo Perico Heist
+	0x0333B088 = The Cayo Norman Heist
 	0x03349158 = Purchase the Gun Turret for the Avenger at www.warstock-cache-and-carry.com to access turrets.
 	0x0334A761 = Hold ~INPUT_FRONTEND_CANCEL~ to quit disabling the explosives at any time.
 	0x03367F23 = Nightclub popularity has increased
@@ -623,6 +633,7 @@
 	0x03486857 = 15 Seconds
 	0x03493F81 = I'm feeling much more sold on this now. Great looking rack.
 	0x034C5DB8 = ~1~rd
+	0x034D64D8 = FORECLOSURES_MAZE_D_BANK_COM
 	0x034DAC57 = Some Acid was destroyed.
 	0x034DBD6C = You now own the Acid Lab ~a~~s~. Approach the side door to access the lab inside and begin production.
 	0x034DC2E3 = Deliver the ~a~ to ~HUD_COLOUR_YELLOW~Terminal Island.~s~
@@ -652,11 +663,13 @@
 	0x0364D5AA = Your Special Cargo shipment has been fitted with a tracker and can be found at ~HUD_COLOUR_YELLOW~~BLIP_CONTRABAND~~HUD_COLOUR_WHITE~. Collect the shipment and take it back to your Warehouse.
 	0x0367D046 = attackers
 	0x03696901 = ~a~~s~ collected Sea Doos.
+	0x036B0E84 = Terrorbyte is already in your Garment Factory.
 	0x036B5BE9 = ~a~ were stolen and taken to a Scrapyard
 	0x036C88AC = Help your passengers use the silenced Heavy Sniper Mk II with Thermal Scope to find and eliminate the enemies without attracting attention.
 	0x036EF78C = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Bahama Mamas T-Shirt
 	0x0370DE72 = You can't enter the Hangar while resupplying another business.
 	0x0371A8D8 = Public Session
+	0x0373BB66 = Families
 	0x03798524 = Are you sure you'd like to sell your Special Cargo from this Warehouse?
 	0x037AB56E = Counterfeit Goods
 	0x037B6C39 = They're holding our goods on some kind of yacht. The shipment is wrapped up tight, so don't worry about damage. I say go in aggressively and salvage from the wreckage.
@@ -700,7 +713,7 @@
 	0x03B9DF52 = Red Long Gloves
 	0x03B90DB7 = SERGEANTS REMAINING
 	0x03B477D6 = Turn on Passive Mode to prevent damage between you and other players.
-	0x03B665D8 = Access additional information by pressing ~INPUT_FRONTEND_Y~. This includes mission details and the impact completion will have on The Cayo Perico Heist.
+	0x03B665D8 = Access additional information by pressing ~INPUT_FRONTEND_Y~. This includes mission details and the impact completion will have on The Cayo Norman Heist.
 	0x03B946C8 = Quickly exit the warehouse before the satchel charges detonate.
 	0x03C0ED67 = In Hold take packages from around the map or enemy bases and store them at your base.
 	0x03C2A3D1 = Watts Clubhouse
@@ -744,7 +757,7 @@
 	0x03EDFCBC = Warstock
 	0x03F0A7FA = The host left
 	0x03F3A8F0 = Garage 6
-	0x03F3CCA5 = Mission Details:~n~Steal unmarked weapons that can be used during The Cayo Perico Heist~n~~n~Heist Impact:~n~Access to the following weapons:~n~- Sniper Rifle~n~- AP Pistol~n~- Molotov Cocktails~n~- Knife
+	0x03F3CCA5 = Mission Details:~n~Steal unmarked weapons that can be used during The Cayo Norman Heist~n~~n~Heist Impact:~n~Access to the following weapons:~n~- Sniper Rifle~n~- AP Pistol~n~- Molotov Cocktails~n~- Knife
 	0x03F8B4BD = ~HUD_COLOUR_WHITE~You popped ~a~.
 	0x03F53C37 = Fireball Track Jacket
 	0x03F194AA = Black OG Top
@@ -755,6 +768,7 @@
 	0x03FD18DB = Timed out when leaving the active GTA Online session.
 	0x03FD73CC = Cash is king in this town. Solve your money problem and help get what you want across Los Angeles and Blaine County with the occasional purchase of Shark Cards for Grand Theft Auto Online. All purchased cash is automatically deposited into your character's bank account. Spend wisely, cash therapy is fleeting.
 	0x03FEFA67 = The Mover
+	0x04039784 = Owner has requested all to leave the Garment Factory.
 	0x04041DBF = Equipment
 	0x0404562B = Meteor Street Apartments
 	0x040456C8 = Successfully mod and deliver 25 customer vehicles from your Auto Shop.
@@ -786,6 +800,7 @@
 	0x042629AF = Location
 	0x04264296 = Banana Hammock
 	0x042892BF = Your Warehouse is unavailable while you are an MC President.
+	0x04297841 = Deliver the charges to the ~HUD_COLOUR_YELLOW~Garment Factory.~s~
 	0x042B72F4 = California Super Sport Circuit
 	0x042C1770 = Paparazzo
 	0x042D0F93 = Snake Oil Consultants
@@ -794,6 +809,7 @@
 	0x042EF1FA = Smart
 	0x0432E9E8 = Next Project:
 	0x04333044 = Press ~INPUT_DROP_AMMO~ to drop ammo. ~n~Press ~INPUT_DROP_WEAPON~ to drop weapon. ~n~
+	0x0433490A = Go to ~a~.
 	0x0433D574 = Welcome to Hookies!
 	0x04341741 = Good Samaritan
 	0x0435E7BE = Criminal Mastermind III
@@ -821,6 +837,7 @@
 	0x04545041 = Dope Pusher
 	0x045791F6 = Next Race
 	0x0457A9E0 = the ~HUD_COLOUR_YELLOW~Hangar
+	0x04584958 = Open the ~HUD_COLOUR_GREEN~storage box~s~ on the tugboat.
 	0x045A0488 = Hunting Pack Remix Rabble 3
 	0x045B42F3 = Simeon Overlay
 	0x045C9C70 = Hey, come over to the Bunker.
@@ -864,6 +881,7 @@
 	0x0488888F = You collected the Nightshark.
 	0x048ADFCA = You can now make a choice whether to help recover the champagne delivery for Palms Trax or not. Press ~INPUT_CELLPHONE_SELECT~ to accept, or press ~INPUT_CELLPHONE_CANCEL~ to decline.
 	0x048BB875 = Dear Michael,Keep practicing those breathing exercises and stop looking for people to blame. Come and see me soon.Yours,
+	0x048CD0DF = Request Aircraft
 	0x048EDD82 = Vault Drills
 	0x048F555C = Action Figures
 	0x048FDA50 = Deliver the contact to the ~HUD_COLOUR_YELLOW~drop-off.~s~
@@ -884,7 +902,7 @@
 	0x04A9BF73 = Collect the Supplies ~HUD_COLOUR_BLUE~~BLIP_PACKAGE~~s~ and return them to the Business to start production.
 	0x04A26DF6 = -$~1~
 	0x04A28C10 = ~a~ destroyed a weapon shipment.
-	0x04A31DC8 = Dance at the Cayo Perico beach party
+	0x04A31DC8 = Dance at the Cayo Norman beach party
 	0x04A35E3F = Unable to Join. Your internet connection has been lost. Re-establish your connection to play GTA Online.
 	0x04A62C2E = COMPOUND ENTRY POINT
 	0x04A893F8 = Nigel and Mrs. Thornhill
@@ -906,6 +924,7 @@
 	0x04B5391C = Return to the ~HUD_COLOUR_GREEN~console.~s~
 	0x04BA19E1 = Acid
 	0x04BAFF5E = Purchasing the Penthouse will add $500 to the daily property utility charge. Each additional expansion will add a further $100.
+	0x04BB8AED = Agents of Sabotage
 	0x04BBB493 = Enter the ~HUD_COLOUR_YELLOW~Avenger.~s~
 	0x04BD07B7 = This sale may require two delivery vehicles. Ensure you have hired at least one Associate prior to launching this mission.
 	0x04C0FC34 = Save
@@ -951,6 +970,7 @@
 	0x04F24B5B = Invite to Mobile Operations Center
 	0x04F88A90 = You scoped the primary target: Ruby Necklace
 	0x04F90AD5 = Hey, heads up! It looks like there's an ambush on the way. Think we pissed off the wrong people...
+	0x04F634E5 = Families II
 	0x04F808F9 = Use a scoped rifle to blow up the engine of the target's car while they are inside it.
 	0x04FACDA6 = Shit. Looks like someone's on your tail. Don't get robbed, I couldn't forgive myself! Tx
 	0x04FB0787 = MACHINE GUN
@@ -1001,6 +1021,7 @@
 	0x052A6630 = Falling Mouse
 	0x052B5CB9 = PREP: PLASMA CUTTER
 	0x052B3003 = ~a~ did a wheelie for ~1~ft in GTA Online. Your furthest distance is ~1~ft.
+	0x052E57D2 = Press ~INPUT_CONTEXT~ to stash the Kaman K-16B.
 	0x052F6CD9 = ~1~
 	0x052F29E1 = Pilot
 	0x052F90A0 = The Doomsday Heist: Your 'Criminal Mastermind IV Challenge' progress has been reset.
@@ -1047,6 +1068,7 @@
 	0x05760B20 = Movie Props
 	0x0576D211 = VIP
 	0x0576DA2E = Hollywood Blvd
+	0x05776617 = Continue Oscar Guzman Flies Again.
 	0x057790F4 = Profit Weaver Enterprises
 	0x0578979A = Champion
 	0x0578C595 = Go to the ~HUD_COLOUR_YELLOW~Lost Clubhouse.
@@ -1120,6 +1142,7 @@
 	0x05C99127 = Secondary Colors
 	0x05CB347B = Turreted Vehicle
 	0x05CD91F1 = There was an error with the Rockstar game
+	0x05CE0B01 = Upgrade the Terrorbyte with the Missile Lock-On Jammer.
 	0x05CE83AE = LozSpeed Ten
 	0x05CE184D = Operating System:
 	0x05CFDE8C = CASH REMAINING
@@ -1192,12 +1215,14 @@
 	0x062A16D1 = Planning room locked. The Doomsday Heist is not currently active.
 	0x062AF6D3 = You are unable to launch a Challenge as no Bodyguards are available.
 	0x062CF4CD = SECONDARY TARGETS
+	0x062DAFAF = INFORMANT
 	0x062DF1E5 = Return the stolen Cash to the shop ~HUD_COLOUR_YELLOW~~BLIP_BARBER~~s~ within the time limit to earn a reward, or choose to keep it for yourself.
 	0x062EC9B4 = VINTAGE PISTOL
 	0x062ECD5E = Capture
 	0x062F945B = Jerry Can
 	0x06304020 = Go to the ~a~.
 	0x063287ED = Find out how the Lost MC transport their product and when the next shipment is due.
+	0x06333F80 = Press ~INPUT_CONTEXT~ to steal the thermal charges.
 	0x0633D4A2 = You destroyed Cargo.
 	0x06347CE1 = Job Points
 	0x06393CE8 = The Kosatka has been destroyed
@@ -1245,8 +1270,10 @@
 	0x066DE3CC = TIME OF DAY
 	0x066F608C = Select Livery
 	0x066F7046 = Deliver the weapon parts to ~HUD_COLOUR_YELLOW~Ammu-Nation.~s~
+	0x0671B680 = Press ~INPUT_VEH_ACCELERATE~ to exit.
 	0x0673B6C4 = Deep Five
 	0x0674FD36 = Go to the vantage point marked on your GPS and wait for the Cops to respond to the distraction.
+	0x06770261 = EMP Charges
 	0x06776661 = Win 5 races against an opponent in Race And Chase.
 	0x067769B5 = Secure 50 bounty targets alive.
 	0x0677BF23 = The Epsilon Program is a major world religion with members in 152 countries. It employs science and means of clear thinking that empowers its followers to become living manifestations of the divine, through an understanding of the metaphors central to it, and human history, biology and psychology. Epsilonists are free from illness, insecurity or any other form of weakness. Many live to be 300 years old or more.
@@ -1258,13 +1285,16 @@
 	0x067BAF9F = Hollywood Hills
 	0x067F77E7 = Go to the ~HUD_COLOUR_YELLOW~Salton Sea.~s~
 	0x06841BDD = House Keeping
+	0x0684EDA5 = ~a~ has been removed from voice and text chat for violating the Community Guidelines
 	0x06856097 = Mod a vehicle
+	0x06876D79 = ~a~ collected the EMP charges.
 	0x0689AD39 = Now that you have the chopper, you'll be using the plate scanner to identify the car we're after. The pilot will fly over the cars while the co-pilot checks the license plates.
 	0x068A01CB = You no longer have access to the Vehicle Warehouse as you stopped being an Associate.
 	0x068B4E02 = You will receive bonus attack and defense when all Members of your Motorcycle Club are within the area.
 	0x068B9FC8 = Equipment added:~n~Ceramic Pistol
 	0x068CF1BC = Madrazo Dispatch Services
 	0x068D2FB1 = Is your woman failing to give you the daily sex you deserve? All women lure you in with lots of sex and then before you know it she's as frigid as the arctic. No passion - no excitement. Mutual disgust and desperation. Before you know it you're masturbating in the bathroom at work to keep from trying to fingerblast the intern. Sound familiar? Get it back today at Hush Smush, America's leading dating service for married people, those in committed relationships, lonely lunatics, and the really desperate.  Sign up now.
+	0x068DDDED = Approaching the hazardous gas will affect your health.
 	0x068E072C = WEB STOP
 	0x06904C20 = Exit
 	0x06928C55 = Unavailable. All car lifts are already in use.
@@ -1289,6 +1319,7 @@
 	0x06ACB272 = ~a~ destroyed a Turreted Vehicle.
 	0x06AF5F3D = Press ~INPUT_DROP_AMMO~ to drop ammo. ~n~Press ~INPUT_FRONTEND_UP~ to eat a snack. ~n~Press ~INPUT_FRONTEND_RS~ to use armor.
 	0x06B3E9E5 = Layered Bob Chestnut
+	0x06B5B83F = Enter the ~HUD_COLOUR_BLUE~helicopter.~s~
 	0x06B16CD7 = PLACEHOLDER 7
 	0x06BA34A4 = Start The KFC Farm Raid finale.
 	0x06BC3ECC = Mojave Desert Facility
@@ -1315,9 +1346,11 @@
 	0x06DACDC3 = You cannot move to another seat or enter the turret camera while moving to another seat.
 	0x06DDB456 = Off-Road Race ~a~
 	0x06DE4DCD = Hummer H1 Mil-Spec
+	0x06DEA20C = MOGUL
 	0x06DFD9E2 = INFILTRATION POINTS
 	0x06E01973 = Congratulations!~n~You've got a free T-Shirt for completing the challenge Retro Master.
 	0x06E5FD83 = Beverly Hills City Hall
+	0x06E102C5 = ~a~ uploaded the virus.
 	0x06E198E8 = a Pair of Kings
 	0x06E793FC = WEAPON UNLOCKED
 	0x06E93454 = Are you sure you'd like to purchase a medium-sized shipment of Medical Supplies?
@@ -1329,6 +1362,7 @@
 	0x06F2AC67 = Woah There, Marble
 	0x06F262B4 = Race
 	0x06F86311 = Players in session
+	0x06FA3189 = ~a~ scanned the target.
 	0x06FB809F = Weed production has started
 	0x06FD0DFB = Exit
 	0x06FD4589 = Exit the Parking Garage.
@@ -1347,7 +1381,7 @@
 	0x070717DC = ~s~ disabled the alarm.
 	0x07071C41 = ~a~~s~ located the evidence of the party venue.
 	0x070C22FD = Press ~INPUT_VEH_HORN~ to use the rocket burst when the power bar is full. After each use the power bar will recharge.
-	0x070CAC71 = Shoot the rear door of the Titan ~HUD_COLOUR_RED~~BLIP_PLANE_DROP~~s~ to make the unmarked weapons fall out the back.
+	0x070CAC71 = Shoot the rear door of the Lockheed C-130 Hercules ~HUD_COLOUR_RED~~BLIP_PLANE_DROP~~s~ to make the unmarked weapons fall out the back.
 	0x070E4BC7 = New Empire Way
 	0x070E40EA = The container door is obstructed.
 	0x070F4826 = GLOBAL SIGNAL
@@ -1364,6 +1398,7 @@
 	0x07252FF9 = Chair Shot
 	0x072580D7 = Decker St
 	0x07262DA1 = Pursuit Series
+	0x07273025 = First Floor
 	0x072758C5 = New vehicle mods
 	0x0728183D = The Weaponised Aston Martin DB5 is now available from Q Branch on warstock-cache-and-carry.com.
 	0x07295D93 = Pay for Equipment
@@ -1394,18 +1429,21 @@
 	0x074BC917 = Avisa
 	0x074CA2DA = NO TARGET
 	0x074EEF60 = Los Angeles Tuners
+	0x074EF86B = Select
 	0x074F1556 = Default
 	0x07507EBB = MyRoom Tee
 	0x0750860C = Supply Drop
 	0x0752C08E = ~a~~s~ photographed the schematics.
 	0x0753B3BB = MAIN GATE
 	0x07568943 = You sent <C>~a~</C>~s~ to their death
+	0x075A16C5 = Stash the infiltration equipment at the ~HUD_COLOUR_YELLOW~marked location.~s~
 	0x075DCF0D = You have been awarded the following chameleon wheel paints:~n~~a~~n~~a~~n~~a~~n~~a~~n~Visit an appropriate mod shop or vehicle workshop to apply one of these wheel paints.
 	0x075F31CD = Press ~INPUT_CONTEXT~ to spin the Lucky Wheel.
 	0x0760E960 = Collect the ~a~.~s~
 	0x076158E4 = We just got a tip off – someone might be about to hit the shipment. Stay sharp!
 	0x07635FDF = Change Appearance
 	0x0763BC2C = Investigate the data signal last detected in Compton?
+	0x0763DDD2 = Joining the Crew...
 	0x076467B7 = You located the client.
 	0x07650F7B = Western Stylized
 	0x076C9B9D = arms dealers
@@ -1414,8 +1452,10 @@
 	0x0772785B = Carbon Front Splitter
 	0x07744EC7 = Barber Shop
 	0x0775626C = Enemies have stolen Special Cargo from your Warehouse. Retrieve it before they escape.
+	0x077581D5 = Invite to Garment Factory
 	0x077708FC = High Class!
-	0x077939E1 = detritus been hiding. Sent you the coordinates so get over
+	0x0777A8C0 = Yuanbao: ~1~/~1~
+	0x077939E1 =  detritus been hiding. Sent you the coordinates so get over
 	0x077A2153 = ~BLIP_INFO_ICON~ Ever felt like you wanted to kill the other racers? Then a GTA Race is for you! Choose this Race type when setting up.
 	0x077B2BEF = Are you sure you want to toggle the Private Arcade setting?
 	0x077BA259 = Complete a Contract for KDJ and Sessanta
@@ -1498,6 +1538,7 @@
 	0x07DF6D81 = Mister Redacted
 	0x07DF51A6 = Office - Cam 1
 	0x07E4FBC3 = Stock Chassis
+	0x07E8B418 = Fly to ~HUD_COLOUR_YELLOW~Chase Bank West.~s~
 	0x07E49FD7 = Orange Skinny Tie
 	0x07E112C0 = Dump Black
 	0x07E901A2 = INTIMIDATION
@@ -1559,6 +1600,7 @@
 	0x0823CB39 = INHUMANE
 	0x0826A03A = Evidence
 	0x0827053C = WARRIOR SET
+	0x0828B0C4 = Private military armor acquired
 	0x0828FA79 = Plastic Barrier
 	0x082A50B5 = Aston Martin Exemplar
 	0x082B9C9E = Off
@@ -1567,11 +1609,13 @@
 	0x082E36E4 = G's Cache collected:~n~$~1~~n~Ammo~n~Snacks
 	0x082EC6BA = You can't enter the Bunker while on call. You can cancel this via the Quick Join app on the phone.
 	0x0830FAFF = Power Station
+	0x0831428F = Help collect the ~HUD_COLOUR_GREEN~weapons.~s~
 	0x08319802 = You collected the McTony security outfits.
 	0x0831B992 = Complete the Prize Ride Challenge to win the current Prize Ride.
 	0x083363D7 = Timed out when matchmaking for a compatible GTA Online session to join.
 	0x0834DA28 = You are trying to enter a Crew Members only session.
 	0x0836810F = Has challenged you to a Deathmatch.
+	0x0838365A = - Utilize RC~n~- Locate van~n~- Plant tracker
 	0x0839717D = Desert Shores
 	0x0839D7B0 = Ram Skull Medieval Madness
 	0x083B98F8 = Informant He
@@ -1613,14 +1657,16 @@
 	0x0865DAAD = Earn $500,000 in additional income from the Bail Enforcement Agents.
 	0x0866F127 = ~a~Complete The Doomsday Scenario
 	0x086833D3 = Green 00.~n~You win ~1~ Chips!
+	0x086885EC = Stash the RC Bandito.
 	0x08699E56 = Brake
 	0x086BABAA = Reinforcements incoming! Deal with the threat then pull out.
 	0x086BB7C3 = Help deliver the trailer to ~HUD_COLOUR_YELLOW~drop-off.~s~
+	0x086D2849 = Press ~INPUT_VEH_FLY_YAW_LEFT~/~INPUT_VEH_FLY_YAW_RIGHT~ to move to 105mm Cannon.
 	0x0870E790 = Adversary Series (8)
 	0x08781C09 = a Pair of 5s
 	0x087A7AA8 = EVENS
 	0x087F431C = Arena Wars Vehicle Name
-	0x08807CE3 = Use the Metal Detector while on the island of Cayo Perico to help locate Buried Stashes each day to earn cash and RP.
+	0x08807CE3 = Use the Metal Detector while on the island of Cayo Norman to help locate Buried Stashes each day to earn cash and RP.
 	0x088097AC = Drink Sprite
 	0x0880A514 = Press ~INPUT_FRONTEND_ACCEPT~ to securely access the Open Road website. Business gameplay is only available in Public Sessions. ~n~Press ~INPUT_SCRIPT_RRIGHT~ to stand up.
 	0x08840382 = STREET DEALER
@@ -1638,6 +1684,7 @@
 	0x088E9CE1 = Supply room is empty, pal. Organize a restock from the bunker, or you're running dry.
 	0x089018D9 = Report submission failed, please try again.
 	0x08918920 = Pfeiffer Big Sur Bunker
+	0x0892FCF9 = 105
 	0x0893343C = Complete a Lowrider mission
 	0x0893C908 = ~1~ of ~1~ ~a~ delivered
 	0x0893CA81 = Press ~INPUT_CONTEXT~ to release the Cargo.
@@ -1713,7 +1760,7 @@
 	0x08F7ADB3 = You delivered a Zodiac Hurricane CZ7.
 	0x08F8E503 = Make 5 deliveries for Pizza This...
 	0x08F18BD8 = XLS
-	0x08F47AC1 = That Tula nearby has the guns you'll need to take down the jet. She'll also land on water so should come in handy during the retrieval.
+	0x08F47AC1 = That Kaman K-16B nearby has the guns you'll need to take down the jet. She'll also land on water so should come in handy during the retrieval.
 	0x08F87EE5 = Enter the ~HUD_COLOUR_YELLOW~clubhouse.~s~
 	0x08F195E0 = MC Deaths
 	0x08F3452F = Complications
@@ -1723,7 +1770,7 @@
 	0x08FA3C6D = Tan Boots
 	0x08FB0A51 = The New York Ciy exchange index.
 	0x08FD0C8B = Staff inside your Special Cargo Warehouse ~BLIP_WAREHOUSE~ can be assigned to source Special Cargo for you. After completing their first assignment, they will also regularly accrue excess mixed goods that can be exported to the docks for additional income.
-	0x08FE0342 = Destroy all of the armor shipments in order to ensure that El Rubio's guards are not equipped with body armor during The Cayo Perico Heist.
+	0x08FE0342 = Destroy all of the armor shipments in order to ensure that El Rubio's guards are not equipped with body armor during The Cayo Norman Heist.
 	0x08FE5DB6 = You scoped out the vault blueprints.
 	0x08FE7EF1 = Are you sure you want to sell your goods from this business?
 	0x08FE6446 = All Exit to the Penthouse Garage
@@ -1733,6 +1780,7 @@
 	0x090307F9 = Be a Star!
 	0x09056A7B = ~a~~s~ eliminated an Arms dealer.
 	0x09092F26 = THE FREAKSHOP BUZZER
+	0x090AD53B = Complete The Titan Job as leader to earn $250,000.
 	0x090AE2B6 = You cannot access this menu while on a mission.
 	0x090D7816 = High Priority Vehicle
 	0x090E1543 = Press ~INPUT_CONTEXT~ to log in to the Operations Terminal.
@@ -1747,8 +1795,10 @@
 	0x0924640C = On cooldown (~1~s)
 	0x09249796 = Drive to the ~y~location.~s~
 	0x0926AF4A = Hard Drive Hoarder
+	0x0927C1CC = CHAR_DEFAULT
 	0x0929A6EE = You delivered Business Battle Goods.
 	0x092AFF7C = Take out the ~r~Merryweather helicopters.~s~
+	0x092D3E92 = Return Piper PA-36 Pawnee Brave?
 	0x092F2EC6 = Carnage
 	0x092F4DEF = WEDNESDAY
 	0x0931E3C5 = Your VIP abandoned the challenge
@@ -1791,6 +1841,7 @@
 	0x0961A4AF = Par Time ~a~
 	0x0961A45F = North Malibu
 	0x0962198D = La Fuente Blanca
+	0x09648CC2 = Ballas V
 	0x0966B835 = Chapter 3 verse 3<BR>Land left unplowed goes fallow, for in all things there is an agrarian analogy, for the world was created before television. If a woman does not lie with five upward men of Epsilon a day on the seventh month, the harvest will surely be meager.
 	0x09672056 = Hold ~INPUT_FRONTEND_RIGHT~ to view information on the Assassination Bonus.
 	0x0967B988 = Harley-Davidson Deathbike Light Armor
@@ -1818,6 +1869,7 @@
 	0x09831559 = HEAVY WEAPONS
 	0x0983257A = This modern, renovated one-bedroom is in a well-maintained building in a great West Hollywood location. Buy now at the bottom of the market! Property values can't go any lower! We're absolutely sure this time!
 	0x098330AE = Collect the ~a~.
+	0x098535EE = Help deliver the idol to the ~HUD_COLOUR_YELLOW~buyer.~s~
 	0x0986D008 = Sculpture by Eduardo Tutti
 	0x0987A8ED = Select the Funk playlist.
 	0x09888498 = Delivery not currently available.
@@ -1865,6 +1917,7 @@
 	0x09BD3825 = Retrieve the stolen Weapons and return them to the Bunker. If the mission is failed all stock will be lost.
 	0x09BF7682 = Candy Red
 	0x09BFAB4C = This bank's alarm will now be temporarily blocked from signaling the Cops when you rob it later during the Contract Job.
+	0x09C1F3C2 = Hack the keypad ~HUD_COLOUR_WHITE~~BLIP_KEYPAD~~s~ to unlock the door to the basement.
 	0x09C2A948 = Visit ~a~~s~ to learn more about Project Overthrow where you'll take on Merryweather as part of Charlie Reed's crew, the Los Angeles Angels.
 	0x09C2DF72 = If you are able to get us some celebrity mementos on your travels around the city, that would be marvellous.  Some information gleaned from Mrs. Thornhill's magazines:~nrt~~n~Willie from Love Fist is rumoured to be having a comeback gig at the Tequi-la-la nightclub.~n~~n~Tyler Dixon is currently on a career break at his residence near the hills.~n~~n~Kerry McIntosh is regularly spotted shopping with her pet pooch Dexie around Beverly Hills.~n~~n~Mark Fostenburg is often seen playing a round at the golf club with his entourage.~n~~n~Can you see what you can acquire for us? Thanks ever so much!~nrt~
 	0x09C6FBA0 = Green Monster
@@ -1876,6 +1929,7 @@
 	0x09D09D13 = Playerstate Keyholder
 	0x09D6C022 = Take ~a~~s~ to the ~HUD_COLOUR_YELLOW~Bail Office.~s~
 	0x09D9C34A = Tobacco & Alcohol
+	0x09D9D61B = ~a~ delivered the Scarab.
 	0x09D36E82 = Can you stop firing rockets at my house you prick?
 	0x09D653DD = Too dark now Trevor leave it for tomorrow
 	0x09DB3EA1 = NOT SO TOUGH NOW! I'm starting to get something here. Get rid of the remaining jammers and we should be able to find them.
@@ -1888,6 +1942,7 @@
 	0x09E380A5 = Wait for ~a~ to reach the CIA Facility.
 	0x09E832E6 = Complete 10 fares in a row during Taxi Work.
 	0x09E62264 = Zodiac Hurricane CZ7
+	0x09EC73AB = You have completed all Planning Work required to start The Project Breakaway File. Use your computer ~BLIP_LAPTOP~ or launch the Darnell Inc. app to begin.
 	0x09EDCE9D = DARK
 	0x09EDE93A = Press ~INPUT_CELLPHONE_SELECT~ to use the Multi-Lock Missile Battery.~n~Press ~INPUT_CONTEXT~ to stand up.
 	0x09EF9BA5 = Active Stunt Series
@@ -1897,6 +1952,7 @@
 	0x09F5CFE6 = My darling wife – hear you/ I'll continue to do my best. No house remodeling or beach houses just yet, though. Please. Let's focus on getting the kids out of the house and gainfully employed first! x
 	0x09F8D37E = Mk II weapon tints unlocked:~n~- Metallic Gold~n~- Metallic Platinum
 	0x09F8DDAE = NOTEXTNOTEXTNOTEXT
+	0x09F46B66 = You can't enter the Garment Factory while acquiring goods for a Hangar.
 	0x09F1707E = Hey Franklin,~n~You're our new owner, right?  If not, completely ignore this email, man!  If you are, welcome to the marijuana industry, all 100% legal and purely for medicinal purposes!  We're saving lives!~n~I'll let you know if anything comes up, but you don't have to worry – I run a pretty tight ship.~n~Take it easy,~n~Jared
 	0x09F7207E = Grass Roots - Michael
 	0x09F16191 = You disabled the air defenses.
@@ -1992,6 +2048,7 @@
 	0x0A1588D0 = Standard FPS
 	0x0A1925DC = All Black Canvas Shoes
 	0x0A2331F8 = Counterfeit Goods
+	0x0A3437A1 = ~a~ located the target.
 	0x0A3903B0 = Artwork by Henry Vang
 	0x0A5546DE = Sperm is a lie designed to trick you into believing in the great evolutionary myth. When a man spills his seed, his body is expunging ancient alien parasites. The FACT is that you've never actually seen a sperm.
 	0x0A7014DB = INGREDIENTS
@@ -2016,7 +2073,8 @@
 	0x0A521124 = Defiler
 	0x0A522043 = Hayes Autos
 	0x0A638833 = 4th
-	0x0A732202 = Titan
+	0x0A732202 = Lockheed C-130 Hercules
+	0x0A876160 = Terminal
 	0x0AA0E52F = Undetected
 	0x0AA1E626 = DETECTION
 	0x0AA3E325 = Echo Park
@@ -2061,8 +2119,10 @@
 	0x0AD8C2ED = Hunted Brown 6
 	0x0AD23DAA = INSIDE TRACK:~n~Your horse placed fifth.
 	0x0AD31C5B = Advanced Rifle
-	0x0AD93F41 = Unavailable while active on a Cayo Perico Heist prep mission.
+	0x0AD93F41 = Unavailable while active on a Cayo Norman Heist prep mission.
+	0x0AD202FF = Hack the control panel ~BLIP_KEYPAD~~s~ to open the security doors as you move towards the loading bay.
 	0x0AD595DF = A rival player delivered the diamonds
+	0x0AD3923D = Start the Ammunition setup mission.
 	0x0AD42827 = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_89/IE_TEXTVECH_89' vspace='0' width='252' height='150'/> ~nrt~
 	0x0ADF7366 = Heart pills restore health.~n~Shoot them to pick them up.
 	0x0AE006A6 = Sculpture by Bortoluzzi
@@ -2077,6 +2137,7 @@
 	0x0AECE144 = Pegasus Concierge
 	0x0AEE7425 = Red The Diamond Resort Tee
 	0x0AEF6C68 = 2 Ankhs! ~n~You win ~1~ Chips.
+	0x0AF5A1C4 = TERRORBYTE RETURN OPTIONS
 	0x0AF7CA21 = Taxi Portion 2
 	0x0AF8F28B = Taxi - Clown Car
 	0x0AF401CB = the ~HUD_COLOUR_BLUE~Enzo~s~
@@ -2113,8 +2174,8 @@
 	0x0B2BEBA1 = Purple Sweatband
 	0x0B2C67EC = Mrs B.
 	0x0B3E18BF = Mojave Desert
-	0x0B3E8104 = You are using the Front Turret.~n~~INPUT_ATTACK~ Fire~n~~INPUT_SNIPER_ZOOM~ Zoom~n~~INPUTGROUP_SCRIPT_BUMPERS~ Switch turrets~n~~INPUT_SCRIPT_RRIGHT~ Exit
-	0x0B3EA769 = Steal the loot from 20 treasure chests found on Cayo Perico.
+	0x0B3E8104 = Front Turret:~n~~INPUT_ATTACK~ Fire~n~~INPUT_SNIPER_ZOOM~ Zoom~n~~INPUTGROUP_SCRIPT_BUMPERS~ Switch Turrets~n~~INPUT_SCRIPT_RRIGHT~ Exit
+	0x0B3EA769 = Steal the loot from 20 treasure chests found on Cayo Norman.
 	0x0B4A4880 = Press ~INPUT_CONTEXT~ to start a Fooligan Job.
 	0x0B4B91BB = CHAR_ARY
 	0x0B4E088F = Defense Exclusions to Friends or Crew.
@@ -2138,6 +2199,7 @@
 	0x0B8DB1BB = GTA Online: You completed Act II of The Doomsday Heist as Leader or Crew.
 	0x0B8FBC7B = Your Bunker is unavailable when working as a Bodyguard for a VIP.
 	0x0B9ADD51 = ~a~~s~ destroyed ~1~ of ~1~ motorcycles
+	0x0B9B75E7 = Press ~INPUT_CONTEXT~ to drop a mine.~n~Press ~INPUT_SCRIPT_LS~ to jump.~n~Hold ~INPUT_FRONTEND_LB~ to detonate.~n~Press ~INPUT_VEH_EXIT~ to exit.
 	0x0B9BE76D = Gustavo Mota
 	0x0B9D6ED7 = Request a Brickade.
 	0x0B9D8EED = Demon
@@ -2183,6 +2245,7 @@
 	0x0B937CBA = Complete the Barrage Setup mission in The Doomsday Heist as the Heist leader to unlock the Trade Price for this vehicle.
 	0x0B1126F2 = If you fall too far behind, hold ~INPUT_VEH_EXIT~ to manually respawn nearer to the Runner.
 	0x0B1582E7 = Your vehicle is not empty.
+	0x0B2161B4 = Darnell Bros Garment Factory
 	0x0B2817B7 = Service vehicles cannot be sprayed.
 	0x0B3287BE = Wait for another available player to play "Don't Cross The Line".~n~Press ~INPUT_CONTEXT~ to watch TV.~n~Press ~INPUT_FRONTEND_CANCEL~ to stand up.
 	0x0B3959B9 = HEIST INTEL
@@ -2195,6 +2258,7 @@
 	0x0B33071B = You located the Lockheed Martin F-35 Lightning II.
 	0x0B59431F = French Twist Chestnut
 	0x0B77155B = Carbon Set 2
+	0x0B87520B = Hold ~INPUT_CONTEXT~ to enter the Nerve Center.~n~Press ~INPUT_FRONTEND_RS~ to toggle the Collectible Scanner.
 	0x0B95420F = Wait for ~a~ to select a weapon.
 	0x0B98894A = DISABLING
 	0x0B126005 = You dropped a Weapon Shipment.
@@ -2239,6 +2303,7 @@
 	0x0BC88A95 = Valet Outfit
 	0x0BC243C5 = Unable to use Planning Boards. ~a~ ~s~has not paid the upfront setup cost.
 	0x0BC49290 = You win full SMG ammo.
+	0x0BC81488 = Get 15 Headshots
 	0x0BC94934 = Go to ~HUD_COLOUR_YELLOW~Hookies.~s~
 	0x0BCA79FF = PLACE DECORATIONS
 	0x0BCBA179 = Short
@@ -2250,6 +2315,7 @@
 	0x0BD66963 = You no longer have access to the Nightclub as you became a Prospect.
 	0x0BDB9F3A = Preview the sharp interior. A professional new look for your apartment.
 	0x0BDBDDA6 = ~a~~s~ collected the mixed goods.
+	0x0BDD38F6 = Mission challenges can be completed to earn a bonus reward. Complete all challenges to earn an additional cash bonus.
 	0x0BDE3013 = Original Profit
 	0x0BDE5463 = WANTED: Wrecking crew to take out product distribution network. Product being moved in vans so own transport a must. Cash on completion of task.
 	0x0BDE6833 = Howard
@@ -2748,7 +2814,7 @@
 	0x0E4676E5 = Tactical Gear
 	0x0E5651CC = Hey dog, I got a favor to ask. My last batch of LD Organics just disappeared from the warehouse. Foul play, don't doubt it. But the word is, you found some. If you can keep on the trail and get it all back to me at the warehouse, I'll hook you up.
 	0x0E6215D6 = Eris Yellow Down Jacket
-	0x0E6236C0 = Invite to Cayo Perico Beach Party has been sent to all players.
+	0x0E6236C0 = Invite to Cayo Norman Beach Party has been sent to all players.
 	0x0E6411A6 = Unable to set up a deal with the buyer.
 	0x0E8870BF = Heavy Combat Gear
 	0x0E9616AE = SUSPICION
@@ -3350,7 +3416,7 @@
 	0x1BC25EFD = Hand Rankings
 	0x1BC47B62 = You win.
 	0x1BC55A85 = Uneven
-	0x1BC73BC8 = Daily Collectibles can be found hidden around Los Angeles and Cayo Perico.
+	0x1BC73BC8 = Daily Collectibles can be found hidden around Los Angeles and Cayo Norman.
 	0x1BC81EC2 = ~a~ disabled your vehicle using EMP Mine.
 	0x1BC1469A = Collect the cargo crates before they are destroyed.
 	0x1BC6484B = @MerryweatherSecurity Merryweather would like to assure its customers of its continued excellence. The crash on the Bixby Creek railway bridge has temporarily disrupted our high value courier service, but we will be up and running again soon #BAWSAQ
@@ -3544,7 +3610,7 @@
 	0x1CD625CA = Lose the Cops.
 	0x1CD68324 = Purple Classic Racing Suit
 	0x1CDA3A46 = Altruists
-	0x1CDA74AF = The Kosatka is a driveable submarine that can be equipped with guided missiles, moon pool vehicles, and sonar to detect underwater hidden caches. It also gives you access to The Cayo Perico Heist as a Boss via the control room Planning Screen.
+	0x1CDA74AF = The Kosatka is a driveable submarine that can be equipped with guided missiles, moon pool vehicles, and sonar to detect underwater hidden caches. It also gives you access to The Cayo Norman Heist as a Boss via the control room Planning Screen.
 	0x1CDC6B8F = Terminal Island Nightclub
 	0x1CDD9279 = Pounder
 	0x1CE087CF = Select the mask set you would like to use in The Cargo Ship Robbery. You can also choose to preview the individual masks included in the set.
@@ -3697,7 +3763,7 @@
 	0x1DA82126 = Red Lights
 	0x1DB1E3F4 = Results for:
 	0x1DB2E240 = Distribute the ~a~ at the ~y~drop-offs.
-	0x1DB7C0AF = View items you've found around Los Angeles and Cayo Perico.
+	0x1DB7C0AF = View items you've found around Los Angeles and Cayo Norman.
 	0x1DB8C51A = Get on the ~HUD_COLOUR_BLUE~motorcycle.
 	0x1DB15E04 = Morro Bay
 	0x1DB54C6C = Back
@@ -4020,7 +4086,7 @@
 	0x1F49CA7D = Track Down (5)
 	0x1F49E3E0 = Unlock all possible crew members for The Diamond Casino Heist.
 	0x1F50B574 = the ~HUD_COLOUR_BLUE~vehicles
-	0x1F61CF77 = //Loading...~n~~n~Stage:[return]~n~......................................................................................................~n~&gt;/Return to Cayo Perico?~n~Data indicates all essential scoping information has been gathered. Continued exploration of the island is optional.~n~&lt;\
+	0x1F61CF77 = //Loading...~n~~n~Stage:[return]~n~......................................................................................................~n~&gt;/Return to Cayo Norman?~n~Data indicates all essential scoping information has been gathered. Continued exploration of the island is optional.~n~&lt;\
 	0x1F63D7EF = What a Massacre
 	0x1F68D6D3 = ~BLIP_POLICE_PLANE_MOVE~
 	0x1F69A69F = Hao disabled the bomb.
@@ -4385,7 +4451,7 @@
 	0x2B40C985 = NOOSE outfits collected.
 	0x2B42E8E4 = ~BLIP_INFO_ICON~ If you are asked to visit a contact at their place, don't miss out! Visiting them will open up new Jobs or Activities. They won't leave you alone until you meet them!
 	0x2B43A722 = You are temporarily unable to accrue Cargo. The technician assigned to accrue Cargo is no longer assigned. Check the warehouse management page to reassign him.
-	0x2B46D1F1 = Meet Pavel on your Kosatka submarine to begin The Cayo Perico Heist. This vehicle can be requested nearby via the Service Vehicles section of the Interaction Menu.
+	0x2B46D1F1 = Meet Pavel on your Kosatka submarine to begin The Cayo Norman Heist. This vehicle can be requested nearby via the Service Vehicles section of the Interaction Menu.
 	0x2B47E185 = Destroy the nearby crate to gain access to Sticky Bombs. Use them to help eliminate the rival operation.
 	0x2B55AD6A = Table Lamp
 	0x2B59AB7E = Cobra Slip-Ons
@@ -4418,7 +4484,7 @@
 	0x2B2168B4 = ~BLIP_INFO_ICON~ Isn't it time you dressed to impress? Check out the latest fashion styles at Ponsonbys, Urban Outfitters or H&M.
 	0x2B2254BB = LA Car Meet Wheel Style Unlocked: ~a~
 	0x2B2976D0 = Lose the cops before you drop that truck off!
-	0x2B3635D2 = Revisit the Cayo Perico beach party after completing The Cayo Perico Heist.
+	0x2B3635D2 = Revisit the Cayo Norman beach party after completing The Cayo Norman Heist.
 	0x2B4584DB = Use ~INPUT_CELLPHONE_EXTRA_OPTION~ to send the photograph to Ms. Baker.
 	0x2B4978B4 = On
 	0x2B4978FA = Vehicle Cargo Delivered
@@ -4760,7 +4826,7 @@
 	0x2D89E8EB = Vehicle Warehouse
 	0x2D89FB99 = Braddock Farm
 	0x2D92A971 = The Safe add-on allows players to display their hard-earned wealth.
-	0x2D96B90C = Complete 5 prep missions as part of The Cayo Perico Heist.
+	0x2D96B90C = Complete 5 prep missions as part of The Cayo Norman Heist.
 	0x2D99B7CF = Use that thing to blast your way outta there - it's got stopping power but the reload is long so take the time to place your shots. There's a couple of Boeing MH-6M Little Birds near the helipad over there that might make for a quicker exit.
 	0x2D150B12 = Santa Ynez Mountain Range
 	0x2D181EBE = ~a~~s~ delivered the mixed goods.
@@ -4804,7 +4870,7 @@
 	0x2D826001 = Follow the ~HUD_COLOUR_BLUE~vehicle.~s~
 	0x2D826264 = Bingo! That's the kind of message you can understand in any language. We're breaking down barriers here. Anyway, our friends just activated a tracker on the copper - let's get it home.
 	0x2D911957 = Rough Terrain
-	0x2DA044FC = The security cameras can also be used to scope additional Intel that can help with the preparation and execution of The Cayo Perico Heist:~n~- Compound entry points~n~- Secondary targets
+	0x2DA044FC = The security cameras can also be used to scope additional Intel that can help with the preparation and execution of The Cayo Norman Heist:~n~- Compound entry points~n~- Secondary targets
 	0x2DA42C04 = You can't enter The Freakshop while selling goods from a Bunker.
 	0x2DA460FC = The LAPD are on to you. Lose them and get them to the drop-off.
 	0x2DAA580D = Sisyphus Theater
@@ -4821,7 +4887,7 @@
 	0x2DB15108 = You must be on foot to begin delivering pizzas for the Pizza This... restaurant.
 	0x2DB51439 = The base fare and tip will increase for each customer you successfully take to their destination.
 	0x2DB88551 = Feroci RR
-	0x2DBD27F8 = Fly to ~HUD_COLOUR_YELLOW~Cayo Perico.~s~
+	0x2DBD27F8 = Fly to ~HUD_COLOUR_YELLOW~Cayo Norman.~s~
 	0x2DC0263E = High End Apartment
 	0x2DC02DC7 = Search the stash house for the combination to the safe ~HUD_COLOUR_GREEN~~BLIP_SAFE~~s~ and steal the contents from inside.
 	0x2DC1B37D = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Fake Dix Gold T-Shirt
@@ -4920,7 +4986,7 @@
 	0x2E7CEE7C = Help take the body to the ~HUD_COLOUR_YELLOW~LS County Coroners.~s~
 	0x2E7D7E77 = You eliminated a Specialist.
 	0x2E7F76AD = Players Required: ~1~
-	0x2E8C9525 = Tula
+	0x2E8C9525 = Kaman K-16B
 	0x2E8D5671 = Equipment Upgrade
 	0x2E8E77B7 = Custom Roof 4
 	0x2E8FA30B = It's possible Avon's guys might arrive by boat to buy Agent 14. You'll need to keep an eye on the water.
@@ -5381,7 +5447,7 @@
 	0x3A286352 = Top Knot Chestnut
 	0x3A324336 = Yellow
 	0x3A427815 = Caesar Dark Brown
-	0x3A499177 = Cancel The Cayo Perico Heist
+	0x3A499177 = Cancel The Cayo Norman Heist
 	0x3A552753 = A waypoint to your Arcade has been added to your GPS.
 	0x3A707230 = The Offhand
 	0x3A764604 = Casino
@@ -5517,7 +5583,7 @@
 	0x3B9AA968 = Drugs should only be used for mind expansion and never medical purposes. Epsilonists prefer the term vitamins. Medical procedures for the betterment of the external self, like cosmetic surgery, are acceptable and encouraged. Most other medicine is a fraud. The FACT is that science is full of lies. For example, many people used to think the world was flat.
 	0x3B9B85D1 = Press ~INPUT_CONTEXT~ to collect the media stick.
 	0x3B9D0D58 = @TriathlonMaryAnn Ten mile run, BAWSAQ dropped ten points, adam broke it off again, lost half a pound in fluids, Asian markets looking at soft opening
-	0x3B10C699 = Find the primary target on Cayo Perico.
+	0x3B10C699 = Find the primary target on Cayo Norman.
 	0x3B12F70D = Your Personal Aircraft is already nearby.
 	0x3B17BB67 = GIVE CASH
 	0x3B22D904 = Bike Helmet
@@ -5659,7 +5725,7 @@
 	0x3C099809 = Transform Series
 	0x3C0C01A7 = Break into the ~a~.
 	0x3C0F882B = Empty Cockpit
-	0x3C0FDC39 = Visit ~BLIP_HEIST_ISLAND_UNAVAILABLE~ to learn more about The Cayo Perico Heist and how to infiltrate El Rubio's heavily fortified private party island.
+	0x3C0FDC39 = Visit ~BLIP_HEIST_ISLAND_UNAVAILABLE~ to learn more about The Cayo Norman Heist and how to infiltrate El Rubio's heavily fortified private party island.
 	0x3C1A0DFA = Avenger
 	0x3C1B2216 = C
 	0x3C1C976D = Race to Terminal Island
@@ -5952,7 +6018,7 @@
 	0x3DA2F06A = Deliver this Vehicle to the closest Police Station ~HUD_COLOUR_YELLOW~~BLIP_POLICE_STATION_DROPOFF~~s~ to earn cash and RP.
 	0x3DA4DFAC = Ramp Buggy
 	0x3DA8AB81 = Your Kosatka is already located here.
-	0x3DA40BB8 = Cayo Perico Series
+	0x3DA40BB8 = Cayo Norman Series
 	0x3DA74DBC = Use the pause menu to set a waypoint for the bodyguards.
 	0x3DA90E1A = Undead Mage
 	0x3DA1076C = Cutting Torch
@@ -6065,7 +6131,7 @@
 	0x3E8CFDCB = Alpine A110
 	0x3E8E2FA1 = 6115550198
 	0x3E9BEA15 = Astronaut outfit set
-	0x3E10DA5F = Steal all variations of the primary target during The Cayo Perico Heist to earn $150,000.
+	0x3E10DA5F = Steal all variations of the primary target during The Cayo Norman Heist to earn $150,000.
 	0x3E15D0AC = Press ~INPUT_CONTEXT~ to return Dr. Dre's car to Record A Studios.
 	0x3E15F637 = MEDIA SEL
 	0x3E22C8D4 = You received a $~1~ bonus.
@@ -6214,7 +6280,7 @@
 	0x3F4E868E = Untouchable
 	0x3F4E2047 = weapon shipment
 	0x3F5ABF12 = ~1~st
-	0x3F5B2F39 = The Planning Screen can be used to return to the island of Cayo Perico at any time to scope for secondary targets, access points or other points of interest.
+	0x3F5B2F39 = The Planning Screen can be used to return to the island of Cayo Norman at any time to scope for secondary targets, access points or other points of interest.
 	0x3F5DD544 = 2 Socks! ~n~You win ~1~ Chips.
 	0x3F5E9BDE = Please wait until your Mule Custom has been delivered.
 	0x3F5E6148 = West Coast Customs
@@ -6400,7 +6466,7 @@
 	0x4A5E236E = NEZ FT. SCHOOLBOY Q
 	0x4A5F2198 = Retro Toy Model
 	0x4A6CDC2D = The word "~a~" is a reserved term and cannot be used for exported names.
-	0x4A6DA4D6 = Dance to Keinemusik's set at the Cayo Perico beach party for 60 minutes.
+	0x4A6DA4D6 = Dance to Keinemusik's set at the Cayo Norman beach party for 60 minutes.
 	0x4A6ECF8F = All Stock
 	0x4A6F7E20 = Numbered Red 3
 	0x4A7FC867 = Hold ~INPUT_VEH_HEADLIGHT~ to detach the trailer.
@@ -6871,7 +6937,7 @@
 	0x4CC2C346 = If you want some R&R out on the water I know where you can find a ~a~.
 	0x4CC90F6E = Press ~INPUT_CELLPHONE_SELECT~ to launch a guided missile. ~n~Press ~INPUT_CONTEXT~ to stand up.
 	0x4CC4733E = Locate the Coast Guard outfits.
-	0x4CC32079 = You can now cancel any future attempts at The Cayo Perico Heist by calling Pavel while ashore.
+	0x4CC32079 = You can now cancel any future attempts at The Cayo Norman Heist by calling Pavel while ashore.
 	0x4CCA0DFD = Smooth Handling
 	0x4CCA70C0 = You have been permanently banned from Grand Theft Auto Online.
 	0x4CCABED6 = Press ~INPUT_CONTEXT~ to recover the case file.
@@ -7037,7 +7103,7 @@
 	0x4DA217D9 = Hungry diners go retro as In-N-Out Burger stocks surge.
 	0x4DA638FA = Short Trip
 	0x4DA2864E = AXIS 2 Right
-	0x4DA9013D = ~a~Complete The Cayo Perico Heist undetected
+	0x4DA9013D = ~a~Complete The Cayo Norman Heist undetected
 	0x4DAB039A = every idiot knows the economy is already on the brink and with the right leadership this hellhole could print enough cold cash to sink it in a few months. bring it on.
 	0x4DAC4356 = Agility
 	0x4DAFFEF0 = 8th
@@ -7056,13 +7122,13 @@
 	0x4DC4F3DC = Heist Impact:~n~Infiltrate the west beach using one of the following approach vehicles if acquired: ~n~ - Kosatka ~n~ - Patrol Boat
 	0x4DC7CC94 = Kills/Deaths
 	0x4DC9AE3B = Burgundy Chinos
-	0x4DC9F56F = Your crew have reached the delivery point. Head over there to complete delivery and travel to Cayo Perico.
+	0x4DC9F56F = Your crew have reached the delivery point. Head over there to complete delivery and travel to Cayo Norman.
 	0x4DC822CA = Retired
 	0x4DC1655B = Mil Spec Steelie
 	0x4DC6839F = ~a~~s~ delivered ~a~
 	0x4DCE72D8 = Bakersfield Ave
 	0x4DCFF39B = Failed to destroy all rival supply trucks
-	0x4DD01BE8 = The location of this set of bolt cutters is now known for The Cayo Perico Heist and will be displayed on your Planning Screen. If collected during the Heist, they will allow you to quietly break into storage lockups around the island without alerting nearby guards.
+	0x4DD01BE8 = The location of this set of bolt cutters is now known for The Cayo Norman Heist and will be displayed on your Planning Screen. If collected during the Heist, they will allow you to quietly break into storage lockups around the island without alerting nearby guards.
 	0x4DD02AEB = Ricky Ji
 	0x4DD0B0F0 = Matte Mirrored Biker
 	0x4DD5AF98 = NEZ ft. Schoolboy Q - Let's Get It
@@ -7071,7 +7137,7 @@
 	0x4DD7EB7B = Purchase an Office to unlock this CEO Challenge.
 	0x4DD29867 = You must purchase this vehicle to store it in your Garage.
 	0x4DD95079 = Air-Freight Cargo gift received:~n~~1~x ~a~~n~ ~1~x ~a~~n~ ~1~x ~a~~n~ ~1~x ~a~~n~ ~1~x ~a~~n~ ~1~x ~a~~n~ ~1~x ~a~~n~ ~1~x ~a~
-	0x4DDA79F2 = Approach The Cayo Perico Heist using all of the different vehicles to earn $250,000.
+	0x4DDA79F2 = Approach The Cayo Norman Heist using all of the different vehicles to earn $250,000.
 	0x4DDAA0DA = Unavailable. You need another player in your Organization to launch this challenge.
 	0x4DDAB490 = Complete Don't Fuck With Dre as leader to unlock the trade price for this vehicle.
 	0x4DDB6D5D = You scoped the primary target: Sinsimito Tequila
@@ -7244,7 +7310,7 @@
 	0x4EC9C7B5 = Mini SMG
 	0x4EC80F07 = Select day
 	0x4EC80FB6 = You do not own a Hangar. Purchase one from foreclosures.maze-bank.com
-	0x4EC866CD = The Cayo Perico Heist
+	0x4EC866CD = The Cayo Norman Heist
 	0x4ECB6BC5 = Our new owner!
 	0x4ECE220E = Sprite Tee
 	0x4ECE1789 = Unlike most of us working schlubs stuck in rush hour, attending international business meetings means you prefer traveling by air than by land. An honest day's work will improve your focus but the stress may take its toll on your skin. A full working day is 10 hours long.
@@ -7686,7 +7752,7 @@
 	0x5B7F823F = Scientists say coffee a great source of morning anxiety.
 	0x5B8AE0B5 = /
 	0x5B9A3D97 = Invite to The Freakshop has been sent to all players.
-	0x5B9B9574 = Enter the compound using a stolen disguise during The Cayo Perico Heist.
+	0x5B9B9574 = Enter the compound using a stolen disguise during The Cayo Norman Heist.
 	0x5B9BA414 = Torino Red
 	0x5B9D8B5A = LA Tourist Board
 	0x5B9D8C32 = Skull Mk II Weapon Livery
@@ -7962,7 +8028,7 @@
 	0x5CB7D890 = Vanilla Unicorn
 	0x5CB95068 = ~BLIP_INFO_ICON~ Within the Clip Editor, the depth of field settings allow you to make parts of your scene appear more or less in focus.
 	0x5CBA1547 = Press ~INPUT_FRONTEND_CANCEL~ to stand up.
-	0x5CBAC970 = Dance to Keinemusik's set at the Cayo Perico beach party for 30 minutes.
+	0x5CBAC970 = Dance to Keinemusik's set at the Cayo Norman beach party for 30 minutes.
 	0x5CBB27FB = Sea Doo
 	0x5CBC928A = This is one of the few ways to enjoy a race through Compton Quartz while also avoiding preventable lung disease...
 	0x5CBCCCAA = Street Race Series
@@ -9043,7 +9109,7 @@
 	0x6CCFE109 = Exit the ~HUD_COLOUR_YELLOW~garage.~s~
 	0x6CD2B4CA = Source Supplies for the Acid Lab 50 times.
 	0x6CD9E59D = Calling all GHOST HUNTERS,~n~GHOSTS EXPOSED is coming to Blaine County! We're documenting the most chilling, horrifying, blood-curdlingly viral paranormal content and WE NEED YOUR SUBMISSIONS. Think you've seen a REAL GHOST? Send a pic to GHOSTS EXPOSED today for $$$.~n~Stay living,~n~The G.E. Team
-	0x6CD136D3 = Scope out all infiltration and escape points on Cayo Perico.
+	0x6CD136D3 = Scope out all infiltration and escape points on Cayo Norman.
 	0x6CD505ED = Exit the ~a~.
 	0x6CD701E9 = Joust has started. Go to the starting area ~a~~s~ and prepare to take out the rival MC on motorcycles to earn cash and RP.
 	0x6CDB130F = the ~HUD_COLOUR_BLUE~LaFerrari~s~
@@ -9388,7 +9454,7 @@
 	0x6E6866E8 = Find and photograph the Ghosts haunting Blaine County to earn cash and RP. Photograph and send them all to Ghosts Exposed to earn a bonus reward.
 	0x6E6876A0 = Sculpted Ornament
 	0x6E7517DA = Enter the ~y~tunnel.~s~
-	0x6E7646B4 = Visit ~BLIP_HEIST_ISLAND~ to learn more about The Cayo Perico Heist and how to infiltrate El Rubio's heavily fortified private party island.
+	0x6E7646B4 = Visit ~BLIP_HEIST_ISLAND~ to learn more about The Cayo Norman Heist and how to infiltrate El Rubio's heavily fortified private party island.
 	0x6E10508A = Sophia
 	0x6E41112D = When in the front passenger seat press ~INPUT_VEH_ACCELERATE~ to fire the cannon.
 	0x6E61788A = AXIS LRZ
@@ -9900,7 +9966,7 @@
 	0x7B87C986 = RE:RE:RE: Hmmm?
 	0x7B90DF42 = ~a~ delivered the target.
 	0x7B96F876 = You are not able to purchase clothes while active in MC Work or when a MC Style is set.
-	0x7B98F98C = The Cayo Perico Heist
+	0x7B98F98C = The Cayo Norman Heist
 	0x7B183EEA = Your video has been successfully exported to your Video Gallery.
 	0x7B205A11 = Property Bikers
 	0x7B265EB1 = "Director"
@@ -10092,7 +10158,7 @@
 	0x7CA64F84 = Unlock this item for purchase via the Arena War Career or Buy Now for a higher cost of $~1~.~n~This modification can only be used in the Arena War Series.
 	0x7CA71F46 = Public Session
 	0x7CA3371A = You really are an annoying prick.
-	0x7CAAA457 = ~a~ Cayo Perico Race
+	0x7CAAA457 = ~a~ Cayo Norman Race
 	0x7CAB28DF = Santos Summer State
 	0x7CAC0ADA = Friends in session: ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~
 	0x7CAE4724 = Otto & Patch
@@ -10372,7 +10438,7 @@
 	0x7E5CE793 = Follow the Kuruma ~HUD_COLOUR_RED~~BLIP_GANG_VEHICLE~~s~ to the hideout. Keep your distance or risk alerting the driver.
 	0x7E5CFF66 = Slate Kicks
 	0x7E5D6549 = The Lotus 3-Eleven is now available on legendarymotorsport.net.
-	0x7E5EE2A8 = ~a~Complete The Cayo Perico Heist without dying
+	0x7E5EE2A8 = ~a~Complete The Cayo Norman Heist without dying
 	0x7E5F3CBB = Unlocks when you have a Hangar with Personal Aircrafts stored.
 	0x7E6C8EDB = Hold ~INPUT_CONTEXT~ to request a weapon from other players.
 	0x7E6CCDCB = Politically correct as ever, Uncle Trevor.
@@ -10399,7 +10465,7 @@
 	0x7E9E65B3 = Description:~n~~a~
 	0x7E9E628E = Mission Details:~n~Steal a Stealth Sikorsky MH-60L DAP to use as an approach vehicle when infiltrating the island.~n~~n~Heist Impact:~n~Rappel out of the Stealth Sikorsky MH-60L DAP undetected as your pilot hovers over your chosen drop zone.
 	0x7E9F161C = You are in Social Club offline mode, you will be unable to access network features until you sign online.
-	0x7E15D9A7 = The Tula
+	0x7E15D9A7 = The Kaman K-16B
 	0x7E20E8E4 = You will need a vehicle.
 	0x7E25B697 = You don't have enough Chips to complete this transaction. Speak to the Cashier in The Diamond Casino & Resort to acquire them.
 	0x7E25D142 = Brushstroke Camo Mk II Weapon Livery
@@ -10457,7 +10523,7 @@
 	0x7E308816 = Female Dancer
 	0x7E601583 = In
 	0x7E792887 = So when can I do you? My dick ain't no babys arm but it punches like a prize fighter's.
-	0x7E832977 = Assault on Cayo Perico
+	0x7E832977 = Assault on Cayo Norman
 	0x7E848231 = Press ~INPUT_CONTEXT~ to steal the train schedule.
 	0x7E852286 = Locate the elevator hatch.
 	0x7E891508 = Vehicle Bomb Bay Control
@@ -10799,7 +10865,7 @@
 	0x8A55C9DF = Purchase a Penthouse from www.thediamondcasinoandresort.com to get a VIP Membership. This gives you access to exclusive Missions and additional services. Please note that a membership does not allow you to play Casino games.
 	0x8A56B968 = The Sustainer
 	0x8A56F5BF = White Cargos
-	0x8A57C6D5 = Cayo Perico Beach Party
+	0x8A57C6D5 = Cayo Norman Beach Party
 	0x8A59A83C = Don't have much to go on this time. They were last seen on foot, heading in this direction. Keep your eyes peeled. ~nrt~ <img src='img://VC_TC_CASINOCCTV/VC_TC_CASINOCCTV_1' vspace='0' width='252' height='150'/> ~nrt~
 	0x8A60A5CB = Dark Green
 	0x8A62AF04 = F2
@@ -11010,7 +11076,7 @@
 	0x8B6765D6 = Beau Duggan
 	0x8B7136AF = Remove Bookmark
 	0x8B8081AD = You will need a plane.
-	0x8B9229C0 = Successfully gathered intel on Cayo Perico
+	0x8B9229C0 = Successfully gathered intel on Cayo Norman
 	0x8B11581C = ...has purchased all properties.
 	0x8B16494A = Purchase the Boom! livery for applicable Mk II weapons at a Weapon Workshop inside a Mobile Operations Center or Avenger.
 	0x8B75152F = Press ~INPUT_FRONTEND_CANCEL~ to exit tutorial at any point. ~n~You can skip a step in the tutorial by pressing ~INPUT_FRONTEND_ACCEPT~.
@@ -11032,7 +11098,7 @@
 	0x8BA8C28B = Visit the LA Tourist Board to view the wildlife in today's Shoot Animals photography challenge.
 	0x8BA9AC05 = Sienna Brown
 	0x8BA9F0C0 = Purchase and visit the Penthouse to replay the story missions.
-	0x8BA98EB5 = Cancel your current progress on The Cayo Perico Heist.
+	0x8BA98EB5 = Cancel your current progress on The Cayo Norman Heist.
 	0x8BAC51CC = Born Carl Ferret, he/she idolized Leonora and, after undergoing some rather unsuccessful gender reassignment procedures on the black market, had started dying his/her hair red, dressing in her clothes and wearing tampons. Did he want to be her?
 	0x8BAD5E39 = WAREHOUSE GARAGE
 	0x8BAD7EB9 = Porsche 996 Carrera
@@ -11330,7 +11396,7 @@
 	0x8D57E03B = You ain't really got your eye in yet hey Trevor?  $~1~, and count yourself lucky!
 	0x8D65C530 = Witnesses have spotted ~a~ with members of the ~a~ organization and insiders believe they are their newest recruit.
 	0x8D65CA65 = Here's the list of Exotic Exports vehicles you're looking for: ~a~.
-	0x8D65F901 = Complete 20 prep missions as part of The Cayo Perico Heist.
+	0x8D65F901 = Complete 20 prep missions as part of The Cayo Norman Heist.
 	0x8D77D421 = My name is Saeeda.  I wanted to thank you again for chasing after that man who stole my car. ~nrt~  I am extremely grateful.  It's not the car that matters – I am insured after all – as much as the fact that you stopped to help a person in need.  My family came to the USA 20 years ago with $50 to our name and, thanks to a little hard work and a lot of ruthless business tactics, we now run a very successful tailoring business with supply contracts at many of the high-end department stores, including Ponsonbys.   All too often these days, the American Dream is reserved not for those who love thy neighbor but for those who stab thy neighbor in the back, which leads me to believe that you're probably not a rich man.  Plus I really need to get my karma back on track so, as a small token of my gratitude, I have sent one of our top-selling men's suits to your house.  If it doesn't fit, remember it's the thought that counts.  Take care,Saeeda~nrt~
 	0x8D77FB09 = Crew Skills Increased~n~~a~ + 25%~n~~a~ + 25%
 	0x8D94F5F1 = Pink Strappy
@@ -12059,7 +12125,7 @@
 	0x9B8EF456 = With a Warehouse purchased the app will grant secure access to SecuroServ's network of dealers so players can start buying and selling Special Cargo across Los Angeles to make a profit.
 	0x9B9A377F = The supplies in the truck are fragile. Protect them while they're being transported to the Nightclub.
 	0x9B9E5C97 = Sculpted Ornament
-	0x9B9FCE8A = Assault on Cayo Perico
+	0x9B9FCE8A = Assault on Cayo Norman
 	0x9B10A6CA = Even Teams
 	0x9B13E1BC = Stop beating around the bush and let me beat one out into your bush.
 	0x9B20FCE2 = ~a~~s~ will cycle through a full series of Stunt Races allowing you to join and play a variety of different tracks.
@@ -12108,7 +12174,7 @@
 	0x9B41578C = 1/2
 	0x9B66916C = Steal a ~HUD_COLOUR_BLUE~getaway vehicle.~s~
 	0x9B158184 = 800 RP
-	0x9B211477 = Complete 10 prep missions as part of The Cayo Perico Heist.
+	0x9B211477 = Complete 10 prep missions as part of The Cayo Norman Heist.
 	0x9B282054 = All
 	0x9B406129 = Refuse Collector Gloves
 	0x9B484215 = AP (POSITION)
@@ -12658,7 +12724,7 @@
 	0x9E709E4D = 4 new items
 	0x9E832C06 = Gas
 	0x9E833E68 = It's down, but radio chatter said no cargo. Must be on another plane.
-	0x9E841B48 = Complete The Cayo Perico Heist with one player to earn $100,000.
+	0x9E841B48 = Complete The Cayo Norman Heist with one player to earn $100,000.
 	0x9E843D42 = Cargo Ship
 	0x9E899C29 = Purple Helmets Black Tee
 	0x9E941E02 = Narcotics
@@ -12729,10 +12795,10 @@
 	0x9ED0EBB5 = Still saving. This may affect the start point of the next recording.
 	0x9ED3A985 = The Coca Cola Festive Sweater has been unlocked and added to your wardrobe.
 	0x9ED4F998 = ~1~ Lives
-	0x9ED5CDA9 = Dance to Keinemusik's set at the Cayo Perico beach party for 5 minutes.
+	0x9ED5CDA9 = Dance to Keinemusik's set at the Cayo Norman beach party for 5 minutes.
 	0x9ED346E1 = You can't leave the Nightclub while on call. You can cancel this via the Quick Join app on the phone.
 	0x9ED718CD = The Port of LA Heist
-	0x9ED735F7 = As a leader, complete The Cayo Perico Heist Finale using this to infiltrate the compound to unlock the Trade Price.
+	0x9ED735F7 = As a leader, complete The Cayo Norman Heist Finale using this to infiltrate the compound to unlock the Trade Price.
 	0x9ED847DA = Police 2 to 16
 	0x9EDC8D65 = Show Leaderboard
 	0x9EE04F5A = You are not able to purchase clothes while wearing a Duffel Bag.
@@ -12814,7 +12880,7 @@
 	0x9F15AF58 = Target Assault Series ~a~~s~ will cycle through a full series of Target Assault Races allowing you to join and play a variety of different tracks.
 	0x9F15F380 = Unavailable. The ~a~ has already been requested.
 	0x9F20F892 = Power Street
-	0x9F21D7E6 = Cayo Perico Race
+	0x9F21D7E6 = Cayo Norman Race
 	0x9F23A64D = Merryweather Agents are also searching the drop site ~HUD_COLOUR_YELLOW~~BLIP_FINDERS_KEEPERS~~s~ for the Supplies. Stay out of their line of sight to avoid being spotted.
 	0x9F42A59B = ~nrt~ <img src='img://SCLUB_3/KOREAN_PAVILLION_3_1' vspace='0' width='252' height='252'/> ~nrt~~a~ ~a~. ~a~
 	0x9F46BC22 = MTL Future Shock Cerberus Panel Detail
@@ -12852,7 +12918,7 @@
 	0x9F72717D = Chapter 5 verse 4<BR>And what is this thing of which you speak? What is this upwards generosity? It is the most precious thing, the giving to those who do not need, so cannot be challenged for greed, who have so much they do not need any more and therefore can receive your gift kindly and with the truth form and with understanding that is everything.<BR>It is the gift towards Cris, to Cris, or to any senior Epsilonists who are his form in your life as all senior Epsilonists are the same spirit and mind form in this paradigm, as the Eagle is the peach tree and the other metaphors also become blurred. It is by asking Cris to receive that we ourselves get the most. That is the clearest thing.
 	0x9F357271 = Are you sure you wish to take ~a~?
 	0x9F455202 = AMG GT
-	0x9F480040 = If you are caught too many times by El Rubio's security, you and any crew members will be thrown off the island of Cayo Perico.
+	0x9F480040 = If you are caught too many times by El Rubio's security, you and any crew members will be thrown off the island of Cayo Norman.
 	0x9F662550 = Franklin
 	0x9F768105 = Windshields
 	0x9F796292 = Steal the ~HUD_COLOUR_BLUE~Supplies.
@@ -12922,7 +12988,7 @@
 	0x10A3A4C6 = Wait for the team to enter the LA Lakers trailer.
 	0x10A3E7F6 = Unavailable. You need to own the ~a~ to take part in this Premium Race.
 	0x10A3E769 = Press ~INPUT_CONTEXT~ to hack the laptop.
-	0x10A6F962 = Hey, do you want to fly over to the beach party on Cayo Perico?
+	0x10A6F962 = Hey, do you want to fly over to the beach party on Cayo Norman?
 	0x10A8F73E = Heavy Sniper Mk II Heavy Barrel
 	0x10A9F26F = Use the photograph in this email to identify the location of the treasure. ~nrt~ <img src='img://NHP_PHOTO_8/NHP_PHOTO_8' vspace='0' width='320' height='200'/> ~nrt~
 	0x10A16B1E = Visit ~a~~s~ to learn more about The Chop Shop update and how to sell and salvage vehicles for extra cash.
@@ -12937,7 +13003,7 @@
 	0x10B65636 = Imperial Interplanetary Egg
 	0x10B77078 = LTD unsteady after drilling deep results in mess.
 	0x10BB9E28 = In Vehicle (Third Person)
-	0x10BC00B7 = Steal a total of $10,000,000 in secondary targets during The Cayo Perico Heist.
+	0x10BC00B7 = Steal a total of $10,000,000 in secondary targets during The Cayo Norman Heist.
 	0x10BD1B90 = ~BLIP_INFO_ICON~ Keep your eyes peeled for Joyriders cruising around Los Angeles. They might be driving a car Simeon wants!
 	0x10BED60E = Infiltrate the ~HUD_COLOUR_YELLOW~Facebook Office~s~ with the drone.
 	0x10C01F2E = Recover the ~HUD_COLOUR_RED~Piper PA-46 Malibu Meridian.~s~
@@ -13181,7 +13247,7 @@
 	0x13F0A1DB = ...has explored the depths.
 	0x13F4E010 = 4 new items
 	0x13F5BBE5 = Total Payment
-	0x13F5E19B = Dave and Keinemusik will allow you to infiltrate El Rubio's island and scope it to prepare for The Cayo Perico Heist. Press ~INPUT_FRONTEND_ACCEPT~ when ready to begin.
+	0x13F5E19B = Dave and Keinemusik will allow you to infiltrate El Rubio's island and scope it to prepare for The Cayo Norman Heist. Press ~INPUT_FRONTEND_ACCEPT~ when ready to begin.
 	0x13F7E184 = Help return the vehicle to the ~HUD_COLOUR_YELLOW~Nightclub.~s~
 	0x13F8E5FD = First Person Aim / Look Acceleration
 	0x13F66E8F = You can't enter the Agency while conducting Auto Shop Business.
@@ -13589,7 +13655,7 @@
 	0x19D9915F = New loungewear line proving popular at Ponsonby's.
 	0x19D25896 = Slalom Helmet
 	0x19DA1E95 = Rear Phantom Covers
-	0x19DB3F2D = Bookmarked Cayo Perico Race
+	0x19DB3F2D = Bookmarked Cayo Norman Race
 	0x19DC43F5 = You didn't destroy the Armored Boxville
 	0x19DCBC92 = Eclipse 4G
 	0x19DFDBC6 = Deliver the equipment to the ~HUD_COLOUR_YELLOW~Agency.~s~
@@ -14567,7 +14633,7 @@
 	0x34C9DC74 = 8th
 	0x34C11E65 = Are you sure you wish to recruit ~a~ as your hacker?
 	0x34C39A62 = Morro Bay Forgery Office
-	0x34C60FAB = Upgrade the jammer on the Piper PA-30 and Titan to increase interference times and reduce recharge times.
+	0x34C60FAB = Upgrade the jammer on the Piper PA-30 and Lockheed C-130 Hercules to increase interference times and reduce recharge times.
 	0x34C57668 = The Kkangpae were not eliminated
 	0x34CC4AE4 = ~s~Your ~s~~a~~s~ has been moved to a nearby location.
 	0x34CDC013 = WALL PIECES (PAGE 2)
@@ -14978,7 +15044,7 @@
 	0x40B97B6F = 45 minutes
 	0x40B98BAD = Player ~a~~n~pays out $~1~
 	0x40B114C6 = Side Parting Spiked Auburn
-	0x40B159D3 = Titan
+	0x40B159D3 = Lockheed C-130 Hercules
 	0x40BBEA64 = Follow the ~HUD_COLOUR_GREEN~helicopter~s~ to the drop-off location.
 	0x40BC8C68 = You can't enter the Arcade while taking part in a Business Battle.
 	0x40BDF08C = You collected valuables.
@@ -15087,7 +15153,7 @@
 	0x41EA8691 = Travel without your Motorcycle Club.
 	0x41EAF637 = 45 minutes
 	0x41EC204B = I'll be down for that soon as I can!  Them city folks love them some organic boar meat!  $~1~
-	0x41EFD19D = During The Cayo Perico Heist you can disable air defenses around Cayo Perico at this control tower, allowing hired support crew to be called in via the Interaction Menu.
+	0x41EFD19D = During The Cayo Norman Heist you can disable air defenses around Cayo Norman at this control tower, allowing hired support crew to be called in via the Interaction Menu.
 	0x41F0D2F9 = La Fuente Blanca
 	0x41F1E6BB = Nailgun Ammo has rapid fire when ~INPUT_SCRIPT_RT~/~INPUT_FRONTEND_ACCEPT~ is held.~n~Shoot the Ammo Pickup to equip the weapon.
 	0x41F6E485 = Warstock Cache & Carry
@@ -15403,7 +15469,7 @@
 	0x46B7A978 = F14
 	0x46B18AF9 = MTL Cerberus Arrow Spear Kit set
 	0x46B41AC4 = Safe Bet
-	0x46B90E35 = The Cayo Perico Heist
+	0x46B90E35 = The Cayo Norman Heist
 	0x46B92DB5 = Customize your Mobile Operations Center.
 	0x46B11516 = A sale is active on selected options, originally priced $~1~ in total.
 	0x46BCD472 = @tummytodd_92 wtf 2 lunatics on seasharks shootin at each other in the vespucci canals and cant get my phone out in time to take a pic!!! #shortstootight
@@ -15420,7 +15486,7 @@
 	0x46CB3D2C = Salvage Yard Robbery~n~Task: LA Lakers Outfits
 	0x46CBD7FB = Premium Deluxe Motorsport is unavailable while you are in a Deathmatch.
 	0x46CDE94D = ~a~ has smoked Lamar's Special Strain to start a Short Trip. Sit down on the couch ~BLIP_PICKUP_WEED~ to join them.
-	0x46D0CA21 = The Cayo Perico Heist
+	0x46D0CA21 = The Cayo Norman Heist
 	0x46D1C7E6 = PODIUM ROBBERY MASKS
 	0x46D5DD6E = ~a~ collected the storage key card.
 	0x46D5F4F1 = Bet (~1~)
@@ -15752,7 +15818,7 @@
 	0x51BC1FD3 = Security Van
 	0x51BCEBAB = AUTO SHOP
 	0x51BCF799 = Drift Race
-	0x51C9AA8A = Return to the Planning Screen in your Kosatka ~BLIP_SUB2~ to set up The Cayo Perico Heist again. Taking on El Rubio right away will increase difficulty with the island still on alert, however the reward will also be increased.
+	0x51C9AA8A = Return to the Planning Screen in your Kosatka ~BLIP_SUB2~ to set up The Cayo Norman Heist again. Taking on El Rubio right away will increase difficulty with the island still on alert, however the reward will also be increased.
 	0x51C34DFD = Unavailable. You cannot afford to purchase Supplies.
 	0x51C7694F = @HollywoodLionel67 What the hell is wrong with people today? A couple of guys just literally pulled an entire house off its stilts in the Hills! #recessiongonemad
 	0x51CAD294 = Khaki Desert Scarf
@@ -15774,7 +15840,7 @@
 	0x51D95022 = French Twist Black
 	0x51DEF9A8 = A new cock in the Hen House!
 	0x51E7B77B = Special: How long Trevor's Special Ability can remain active when fully charged. Store more charge for a greater maximum duration. Increase by taking damage, killing enemies, scoring headshots, and maintaining high speeds in vehicles as Trevor.
-	0x51E7FEA9 = The setup cost for The Cayo Perico Heist is $~1~. Setting up now will set the heist to Hard Mode.
+	0x51E7FEA9 = The setup cost for The Cayo Norman Heist is $~1~. Setting up now will set the heist to Hard Mode.
 	0x51E9A724 = Tutorials
 	0x51E55F56 = ~s~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ to activate overdrive mode, this will focus Franklin and improve his reflexes.
 	0x51E6622B = Your president can access The Open Road Admin site on this secure laptop to get the business up and running. From here they will be able to locate the equipment and supplies needed to begin production.
@@ -15818,7 +15884,7 @@
 	0x52B9AB42 = Police
 	0x52B9DDFC = Your Kosatka ~BLIP_SUB2~ has been destroyed.
 	0x52B23E0A = ~a~~s~ eliminated a Sergeant.
-	0x52B57A7B = Failed to gather intel on Cayo Perico
+	0x52B57A7B = Failed to gather intel on Cayo Norman
 	0x52B66FB2 = Go to ~HUD_COLOUR_YELLOW~Pfeiffer Big Sur State Park.
 	0x52B89E15 = Auto-Center Mouse In Cars
 	0x52B5818A = Use the Snapmatic app on your phone to take a photograph of the freight train ~HUD_COLOUR_GREEN~~BLIP_CAMERA~~s~ and send it to Sessanta.
@@ -16059,7 +16125,7 @@
 	0x55EA9FA0 = You can't renovate your Penthouse while it holds stock.
 	0x55EB18CF = Take out the ~HUD_COLOUR_RED~Duggans.~s~
 	0x55ECEA43 = Go to ~HUD_COLOUR_YELLOW~Morro Bay.~s~
-	0x55EFB30F = You have completed the mandatory Prep work required to start The Cayo Perico Heist. You can now access the Finale Screen to finalize your plan or continue scoping the island and completing optional Prep work to increase your chances of success.
+	0x55EFB30F = You have completed the mandatory Prep work required to start The Cayo Norman Heist. You can now access the Finale Screen to finalize your plan or continue scoping the island and completing optional Prep work to increase your chances of success.
 	0x55EFD624 = Shoot Animals Photography
 	0x55F2E35B = Bikers
 	0x55F9BF55 = ~a~ delivered the ~a~.
@@ -16082,11 +16148,11 @@
 	0x56AB75A4 = ~s~Press ~INPUT_CONTEXT~ ~s~to enter.~s~
 	0x56AC6A49 = There's first class and then there's Elitas!
 	0x56B01325 = Team King Of The Hill
-	0x56B072CB = Purchase upgrades for the Piper PA-30 and Titan.
+	0x56B072CB = Purchase upgrades for the Piper PA-30 and Lockheed C-130 Hercules.
 	0x56B9FA8F = Press ~INPUT_CONTEXT~ to play CAMHEDZ for $1.
 	0x56B49CEF = Eliminate the Cartel Generals ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ for Vincent to take them off the street.
 	0x56B661F7 = Press ~INPUT_CONTEXT~ to play Impotent Rage using your VIP's casino membership.
-	0x56BA0C55 = Tula
+	0x56BA0C55 = Kaman K-16B
 	0x56BA4140 = ...has spent over $2500 on clothing.
 	0x56BEAAEA = Aim preference has reverted back to Assisted Aim - Partial.
 	0x56C0545A = Transform Series
@@ -16421,7 +16487,7 @@
 	0x60E8288D = Player is visible
 	0x60E34883 = Interact at location ~1~
 	0x60E48208 = too dark now call it a day Trevor
-	0x60EA200D = Complete all three disruption prep missions in a single playthrough of The Cayo Perico Heist.
+	0x60EA200D = Complete all three disruption prep missions in a single playthrough of The Cayo Norman Heist.
 	0x60EBB706 = If for any reason you are unsatisfied with your vehicle, purchase another model.
 	0x60EBFF38 = Darling Ricki
 	0x60EE1F3F = Run Faster
@@ -16523,7 +16589,7 @@
 	0x62BAA400 = Meet Cris Formage
 	0x62BB3AD0 = Take a photo of a rear security door.
 	0x62BC0D80 = Wait for your Organization to exit the apartment.
-	0x62BCF1B6 = Register as a Boss to access the Planning Screen ~HUD_COLOUR_GREEN~~BLIP_MP_HEIST~~s~ and begin the setup for The Cayo Perico Heist.
+	0x62BCF1B6 = Register as a Boss to access the Planning Screen ~HUD_COLOUR_GREEN~~BLIP_MP_HEIST~~s~ and begin the setup for The Cayo Norman Heist.
 	0x62BD6F1D = Data drives delivered to the contact by a rival gang
 	0x62BE52F3 = Hold ~INPUT_VEH_SHUFFLE~ to consent to the swap.
 	0x62BE130A = Stay within ~HUD_COLOUR_YELLOW~range~s~ to complete the hack.
@@ -16582,7 +16648,7 @@
 	0x63A61425 = You do not have sufficient privileges to access Grand Theft Auto Online.
 	0x63AAD0C2 = You can now make a choice whether to recover the music mixes or not. Press ~INPUT_CELLPHONE_SELECT~ to accept, or press ~INPUT_CELLPHONE_CANCEL~ to decline.
 	0x63AB52DE = South Central Ave
-	0x63ABE3D7 = Mission Details:~n~Steal unmarked weapons that can be used during The Cayo Perico Heist~n~~n~Heist Impact:~n~Access to the following weapons:~n~- Assault Shotgun~n~- Machine Pistol~n~- Grenades~n~- Machete
+	0x63ABE3D7 = Mission Details:~n~Steal unmarked weapons that can be used during The Cayo Norman Heist~n~~n~Heist Impact:~n~Access to the following weapons:~n~- Assault Shotgun~n~- Machine Pistol~n~- Grenades~n~- Machete
 	0x63AD150E = @BrudeSpade Has anyone got a line on some ethically sourced low carbon footprint cocaine? #doingmybit
 	0x63ADA032 = Random Jobs aren't available in a Solo Session.
 	0x63AF3AC8 = Brown Stripe Track Pants
@@ -16953,7 +17019,7 @@
 	0x68E72131 = Equipment
 	0x68E98546 = You can't enter the Salvage Yard with this vehicle before completing First Dose - Off the Rails as leader.
 	0x68EADC1D = You collected the ~a~.
-	0x68EE3019 = Complete The Cayo Perico Heist without ever alerting the guards to earn $200,000.
+	0x68EE3019 = Complete The Cayo Norman Heist without ever alerting the guards to earn $200,000.
 	0x68EE6693 = Bright Purple
 	0x68F1F1EF = This Mobile Operation is currently unavailable. Source and steal more supplies for your Gunrunning Business to unlock this mission.
 	0x68F3C9D8 = Congratulations! You have been awarded the following Doomsday Heist Challenge reward:~n~- Rockstar Motorsport livery for the Ferrari F8 Tributo
@@ -17024,7 +17090,7 @@
 	0x69E76EED = Your new Avenger is available at your Facility. Request the Avenger from the Interaction Menu or return to your Facility to access it.
 	0x69E581FE = Driving / Camera Control Toggle
 	0x69E664D7 = Bring up your phone with ~INPUT_CELLPHONE_UP~ and select the Snapmatic app to use the camera.
-	0x69E922A4 = The last armor shipment ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ is being transported to Cayo Perico by boat. It must be destroyed before it escapes in order to ensure that El Rubio's guards are not equipped with body armor during The Cayo Perico Heist.
+	0x69E922A4 = The last armor shipment ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ is being transported to Cayo Norman by boat. It must be destroyed before it escapes in order to ensure that El Rubio's guards are not equipped with body armor during The Cayo Norman Heist.
 	0x69E4055A = Ghost Rider
 	0x69EA992D = Wait for your Organization to lose the Cops.
 	0x69EAD559 = Weapons
@@ -17092,7 +17158,7 @@
 	0x70D90CAD = Wait for ~a~ to start the Shooting Range.
 	0x70D924BF = step 5 – PUSH THE BUTTON!!!!  \o/
 	0x70D34524 = You can't use the Signal Scanner while there is a passenger.
-	0x70D54352 = This gate is now locked. You can enjoy the beach party again when revisiting Cayo Perico.
+	0x70D54352 = This gate is now locked. You can enjoy the beach party again when revisiting Cayo Norman.
 	0x70D61732 = Options for returning the Kosatka and associated vehicles.
 	0x70DCF25D = What is wrong with you? This is my home. My home!
 	0x70DD9F29 = Green Cargo
@@ -17455,7 +17521,7 @@
 	0x76A952C7 = Player Kills
 	0x76A22454 = This time trial on one of Mount San Antonio's most perilous faces is a golden opportunity for show-offs and reconstructive surgeons alike. Remember to book a bed at Mount Zonah Medical Center before you set off.
 	0x76A63627 = ~a~~s~ Acid is now visible to all players in session.
-	0x76AAD3D4 = Assault on Cayo Perico
+	0x76AAD3D4 = Assault on Cayo Norman
 	0x76AB65E1 = Keep it up! We've almost managed to disable it.
 	0x76AD54D2 = Get the mechanic to deliver the selected Special Vehicle.
 	0x76ADC85B = You delivered the target.
@@ -17811,7 +17877,7 @@
 	0x81AACB3E = ~INPUT_VEH_HANDBRAKE~
 	0x81AADD62 = Pistol Flashlight
 	0x81AAE8E7 = Signal the Vagos to open the gate.
-	0x81ADCE43 = Select to cancel The Cayo Perico Heist
+	0x81ADCE43 = Select to cancel The Cayo Norman Heist
 	0x81AED77B = Blue Pants
 	0x81AEE780 = Take out the ~HUD_COLOUR_RED~enemies.~s~
 	0x81AF6DCE = Pacific Allied Shipyard
@@ -17835,7 +17901,7 @@
 	0x81CBA724 = Your Personal Aircraft ~BLIP_SM_WP8~ has been delivered to a suitable location nearby.
 	0x81CD7F90 = Survive 3 minutes on at least a 3 star Wanted Level with all three characters together off mission.
 	0x81CEFAE7 = ~s~The clue is obstructed by a vehicle. Clear the obstruction.
-	0x81CF5C95 = Destroy the remaining Boeing MH-6M Little Birds ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ in order to ensure that El Rubio will have no air support during The Cayo Perico Heist.
+	0x81CF5C95 = Destroy the remaining Boeing MH-6M Little Birds ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ in order to ensure that El Rubio will have no air support during The Cayo Norman Heist.
 	0x81CF31BD = Target: Brock Thompson~n~~n~IMAGE ATTACHMENT ~nrt~ <img src='img://UPDT1_24_TEXT_HV/IMG_HV_4' vspace='0' width='252' height='150'/> ~nrt~
 	0x81CFD13F = Scope Out
 	0x81D1E2AF = Seven Fives
@@ -17889,7 +17955,7 @@
 	0x82A1B07C = Kerry McIntosh
 	0x82A1BFED = Return not currently available.
 	0x82A93C8B = 3465550158
-	0x82A993E9 = Deliver 5 lost or requested items at the Cayo Perico beach party.
+	0x82A993E9 = Deliver 5 lost or requested items at the Cayo Norman beach party.
 	0x82A8060E = OK the buyer marked the route he wants you to take with flares. Guy's kind of a control freak, if you ask me. I like him.
 	0x82A34665 = Vehicles
 	0x82A98071 = POWER
@@ -18483,13 +18549,13 @@
 	0x90ADD287 = Equipped:~n~Dock Worker outfit
 	0x90AED368 = Help deliver the ~a~ to the ~HUD_COLOUR_YELLOW~drop-off.~s~
 	0x90AEEF7F = Use the ~HUD_COLOUR_YELLOW~elevator~s~ to access the roof.
-	0x90AF672A = ~a~ ~a~ provided can be used to help escort the Titan ~HUD_COLOUR_BLUE~~BLIP_PLANE_DROP~~s~ and collect the Cargo.
+	0x90AF672A = ~a~ ~a~ provided can be used to help escort the Lockheed C-130 Hercules ~HUD_COLOUR_BLUE~~BLIP_PLANE_DROP~~s~ and collect the Cargo.
 	0x90AF1492 = The hard part's done. Pick up the supplies and get them back.
 	0x90B084F9 = This location is already being used.
 	0x90B3DBC4 = Terminal Island
 	0x90B7BE51 = Black Driving Gloves
 	0x90B11A20 = You can't drive the Mobile Operations Center while the owner is entering.
-	0x90B27F9D = Complete The Cayo Perico Heist with four players to earn $100,000.
+	0x90B27F9D = Complete The Cayo Norman Heist with four players to earn $100,000.
 	0x90B49EB2 = You photographed the rear exit.
 	0x90B83BAD = Press ~INPUT_CONTEXT~ to hack the keypad.
 	0x90B4232D = Marlboro Hockey Shirt
@@ -18856,7 +18922,7 @@
 	0x95D0CA4B = 2/3 (x0.667)
 	0x95D2F636 = Lose the Cops
 	0x95D3F291 = ~a~ destroyed the control panel.
-	0x95D4C17B = Press ~INPUT_CONTEXT~ to set up The Cayo Perico Heist.
+	0x95D4C17B = Press ~INPUT_CONTEXT~ to set up The Cayo Norman Heist.
 	0x95D45D72 = Missions
 	0x95D533D9 = Chromed V8
 	0x95D993FB = Travel to the 'Pizza This...' restaurant and collect an order of pizzas to deliver to Keinemusik back on the island.
@@ -19009,7 +19075,7 @@
 	0x97E32996 = Pigtails Blonde
 	0x97EE5BED = Matte Red
 	0x97EF05E3 = Skid Row
-	0x97EFBE75 = Deliver 2 lost or requested items at the Cayo Perico beach party.
+	0x97EFBE75 = Deliver 2 lost or requested items at the Cayo Norman beach party.
 	0x97F03C8D = security shipments
 	0x97F0A5DD = 180 seconds
 	0x97F0B20F = Destroy 10 security cameras during The Diamond Casino Heist.
@@ -19082,7 +19148,7 @@
 	0x98EFB4B8 = 16:10
 	0x98F3F894 = A Premium Race ~a~~s~ is available. Enter with $~1~ to take part in a high stakes race against other players to win a large cash prize.
 	0x98F7BE02 = You need to be a CEO or Motorcycle Club President to manage this business.~n~Press ~INPUT_SCRIPT_RLEFT~ to start a Motorcycle Club.
-	0x98F8ACB8 = New Cayo Perico Heist vehicles are now available to purchase from the following websites:~n~- warstock-cache-and-carry.com~n~- docktease.com
+	0x98F8ACB8 = New Cayo Norman Heist vehicles are now available to purchase from the following websites:~n~- warstock-cache-and-carry.com~n~- docktease.com
 	0x98F20F99 = The Dealership
 	0x98F24C69 = Custom front shields.
 	0x98F56AB6 = Robe Instructions
@@ -19125,7 +19191,7 @@
 	0x99C4710C = ~a~ ~s~stole $~1~ from an ATM.
 	0x99CA052D = You no longer have access to this Nightclub Warehouse as you became a Prospect.
 	0x99CA3ECF = Game Type
-	0x99CA9110 = Tula
+	0x99CA9110 = Kaman K-16B
 	0x99CAFD07 = Red Classic Racing Suit
 	0x99CC090E = Lucky Fruits
 	0x99CC0CA9 = ASSETS REMAINING
@@ -19357,7 +19423,7 @@
 	0x140DC61B = Garage: 1893 Bakersfield Ave
 	0x140F9F0E = Running Back Remix White
 	0x141BBC7E = ~BLIP_INFO_ICON~ Job Points are a great way of tracking your performance during a session of online play. Press ~INPUT_MULTIPLAYER_INFO~ to see how many points you have earned in this session.
-	0x141DBC62 = Visit warstock-cache-and-carry.com to purchase a Kosatka submarine. This gives you access to The Cayo Perico Heist as a Boss.
+	0x141DBC62 = Visit warstock-cache-and-carry.com to purchase a Kosatka submarine. This gives you access to The Cayo Norman Heist as a Boss.
 	0x141E8B00 = You failed to deliver the Acid
 	0x142AC986 = BangRanger
 	0x142BBC3C = I'm about to lose my famous sense of humor. Stop firing rockets at my house
@@ -19599,7 +19665,7 @@
 	0x194AF0D0 = Black
 	0x194E6670 = Tactical Gear
 	0x194FF088 = FLARE
-	0x195A4148 = Deliver 10 lost or requested items at the Cayo Perico beach party.
+	0x195A4148 = Deliver 10 lost or requested items at the Cayo Norman beach party.
 	0x195AC820 = ~a~~s~ hacked the CCTV network.
 	0x195AE630 = Collect the celebrity and take them to the Nightclub
 	0x195B304B = Increasing your reputation with the LA Car Meet unlocks vehicle trade prices, exclusive items for purchase at the Merch Shop and Mod Shop, and additional bonus rewards.
@@ -20046,7 +20112,7 @@
 	0x308F4D94 = Guard
 	0x308FDC64 = Hot Pink
 	0x309AD4A1 = 3rd
-	0x309ADD25 = Gather additional intel on Cayo Perico
+	0x309ADD25 = Gather additional intel on Cayo Norman
 	0x309AF77F = Lamar
 	0x309BD26F = The Periscope is currently being used by another player.
 	0x309E54A5 = Topanga Canyon
@@ -20590,7 +20656,7 @@
 	0x435E790C = Gives you access to the following weapons:~n~- Carbine Rifle~n~- Ceramic Pistol~n~- Switchblade
 	0x436C65B8 = 'Drone' T-shirt
 	0x436D34DB = Wait for the ~HUD_COLOUR_BLUE~clubber~s~ to enter the vehicle.
-	0x436DCDF8 = Press ~INPUT_CONTEXT~ to access the Planning Screen ~HUD_COLOUR_GREEN~~BLIP_MP_HEIST~~s~ and begin the setup for The Cayo Perico Heist.
+	0x436DCDF8 = Press ~INPUT_CONTEXT~ to access the Planning Screen ~HUD_COLOUR_GREEN~~BLIP_MP_HEIST~~s~ and begin the setup for The Cayo Norman Heist.
 	0x436DE022 = Keypad Cracker
 	0x436E26B0 = Use the ~HUD_COLOUR_GREEN~keypad~s~ to gain access to the facility.
 	0x436F4C42 = Steal gas masks so you're not incapacitated by the Casino security systems.~n~~n~Requirement:~n~Mandatory~n~~n~This task is launched from a location around the map.
@@ -20818,7 +20884,7 @@
 	0x490C3045 = Pegasus is reclaiming this vehicle. Exit the vehicle.
 	0x490CDC78 = You can only have one vehicle in your Bunker at a time. Remove your Pegasus vehicle from the Bunker to enter.
 	0x490D22F6 = Waste Disposal
-	0x490E429F = Return to the Planning Screen in your Kosatka ~BLIP_SUB2~ to continue The Cayo Perico Heist.
+	0x490E429F = Return to the Planning Screen in your Kosatka ~BLIP_SUB2~ to continue The Cayo Norman Heist.
 	0x491C417D = Steal rival Air-Freight Shipments ~HUD_COLOUR_GREEN~~BLIP_SM_CARGO~~s~ and deliver them to your Hangar.
 	0x491FBA5E = There is no result history for this table.
 	0x492B1CF5 = Man making out with woman credits fantastic DJ mix on Worldwide FM.
@@ -21092,7 +21158,7 @@
 	0x546C42BB = ARCADE UPGRADE PURCHASE
 	0x546D61C0 = Chakra stones
 	0x546E107D = Search ~a~~s~ for the cocaine lockup.~s~
-	0x547D4C7B = Unavailable while active on a Cayo Perico Heist prep.
+	0x547D4C7B = Unavailable while active on a Cayo Norman Heist prep.
 	0x547EE26B = You currently have no friends. Once added, you can interact and compare stats with your friends here.
 	0x548A8877 = ELIMINATED
 	0x548E4CB3 = Flecktarn Snake Skull
@@ -21176,7 +21242,7 @@
 	0x567A2079 = Aqua Polo Shirt
 	0x567B60A0 = Help distribute the ~a~~s~ at the ~y~drop-offs.
 	0x567B84A0 = You can't enter the Arena Workshop while acquiring goods for a bunker.
-	0x567C3A1D = Invite players to the Cayo Perico Beach Party.
+	0x567C3A1D = Invite players to the Cayo Norman Beach Party.
 	0x567CC127 = In Aircraft (Third Person)
 	0x567E9B31 = @PamelaDrake I was in Solomon Richard's first Hollywood picture. And I didn't even have to debase myself on that grubby casting couch of his. His father on the other hand... Well, that's a different story.
 	0x568AB5DA = Race to the ~y~tunnel. ~s~
@@ -21221,7 +21287,7 @@
 	0x578B6DBA = the ~HUD_COLOUR_BLUE~Sultan RS~s~
 	0x578BAF1B = a Straight Flush
 	0x578C8BC4 = IMAGE ATTACHMENT ~nrt~ <img src='img://heist4_sec_guard/heist4_sec_guard' vspace='0' width='252' height='150'/> ~nrt~
-	0x578D8E4D = Steal a total of $20,000,000 in secondary targets during The Cayo Perico Heist.
+	0x578D8E4D = Steal a total of $20,000,000 in secondary targets during The Cayo Norman Heist.
 	0x578EC4AC = Explosives
 	0x578F9AE8 = Shoebox '51
 	0x579A33BA = Wait for Paige to hack into the security feed.
@@ -21843,7 +21909,7 @@
 	0x717D0C45 = Betsy O'Neil
 	0x717D0EE7 = Skate Merchandise Van
 	0x717D32AC = 4 new items
-	0x717DC8E6 = ~a~Complete The Cayo Perico Heist ~1~ times
+	0x717DC8E6 = ~a~Complete The Cayo Norman Heist ~1~ times
 	0x718C362C = Survive 5 waves in Ludendorff Cemetery Survival.
 	0x718D0A13 = Your team are mad.
 	0x718D57E8 = Third Person Cam
@@ -21912,7 +21978,7 @@
 	0x732A3EDE = No Rear Bumper
 	0x732A5DAA = Nightclub
 	0x732C999F = Skylift
-	0x732F580B = Maze Bank West
+	0x732F580B = Chase Bank West
 	0x732FE7A5 = A Business Battle has started. Steal the target vehicle ~HUD_COLOUR_GREEN~~BLIP_BAT_CARGO~~s~ from the joyriders. Deliver it to the Nightclub to earn Goods, cash and RP.
 	0x733AEB50 = Please enter your date of birth to proceed with the sign up process for ~HUD_COLOUR_SOCIAL_CLUB~Rockstar Games~s~.
 	0x733BE5CA = Your President and the rival President need to be within their start area before Joust will begin.
@@ -22010,7 +22076,7 @@
 	0x752C1401 = Heist Impact:~n~Enter El Rubio's compound undetected by unlocking the side gate.~n~~n~Please note:~n~This entry point cannot be selected at the start of the heist. It only be used if the code to the gate is acquired from a guard during the job.
 	0x752CA637 = Purchase an Office to unlock this CEO Challenge.
 	0x753A95CD = ~1~/10
-	0x753A6274 = Maze Bank West Executive Office
+	0x753A6274 = Chase Bank West Executive Office
 	0x753AE09F = You destroyed the ~a~.
 	0x753CDD3C = Once manufactured, Acid will be stored in this area. Sell the Product ~BLIP_ACID~ for a profit once there is enough stock available.
 	0x754AAA3D = LAA Operations are unavailable while the Avenger is parked inside the Facility.
@@ -22161,7 +22227,7 @@
 	0x789B52D9 = Black 2
 	0x789EF70A = Go to foreclosures.maze-bank.com to purchase this garage level.
 	0x790F3CFA = You can't enter The Diamond Casino & Resort while acquiring goods for a Warehouse.
-	0x791A519C = A search helicopter ~HUD_COLOUR_RED~~BLIP_ENEMY_HELI_SPIN~~s~ has been dispatched to patrol Cayo Perico. If you are caught by this helicopter, you will be thrown off the island.
+	0x791A519C = A search helicopter ~HUD_COLOUR_RED~~BLIP_ENEMY_HELI_SPIN~~s~ has been dispatched to patrol Cayo Norman. If you are caught by this helicopter, you will be thrown off the island.
 	0x791C4F6D = ~BLIP_INFO_ICON~ Hold ~INPUT_CHARACTER_WHEEL~ to bring up the SWITCH menu. Select a specific character with ~INPUTGROUP_WHEEL~
 	0x791E0B9E = Additional enemies carrying Molotovs ~HUD_COLOUR_RED~~BLIP_HOT_PROPERTY~~s~ are on route to burn the assets.
 	0x792AC2FD = u need me to put some rocks in my ass and bring it to jail 4 u or r u out? lol
@@ -22222,7 +22288,7 @@
 	0x806C2CA6 = Her breasts had multiple incisions.
 	0x806D353E = South Central Avenue
 	0x806DA418 = While hosting a private takeover you can invite other players via the LA Car Meet section of the Interaction Menu.
-	0x806FD197 = Maze Bank West
+	0x806FD197 = Chase Bank West
 	0x807A0956 = Helicopter
 	0x807A0E86 = The customer's tip will decrease if the Taxi takes damage or it takes too long to drive them to their destination.
 	0x807BF939 = XE SV Project 8
@@ -23261,7 +23327,7 @@
 	0x1697CCE4 = Cry
 	0x1725D145 = The Slip
 	0x1730EC68 = Purchase the Invade and Persuade RC Tank from Warstock for FREE today only. Happy Holidays from Rockstar!
-	0x1731E145 = An outfit has been left for you to change into on the plane. This is more suited to the climate of Cayo Perico and will allow you to blend in as roadies helping to set up Keinemusik.
+	0x1731E145 = An outfit has been left for you to change into on the plane. This is more suited to the climate of Cayo Norman and will allow you to blend in as roadies helping to set up Keinemusik.
 	0x1734AD76 = Destroy the signal jammers ~HUD_COLOUR_RED~~BLIP_SIGNAL_JAMMER~~s~ so Jamal can pinpoint the Merryweather lockup containing the tracker bypass module.
 	0x1737B029 = The combination of an ace with a card other than a ten-card is known as a "soft hand" because the player can count the ace as a 1 or 11. A soft hand cannot go bust by taking another card.
 	0x1739C456 = Complete ~1~ Daily Challenges in the next ~1~ days to earn:~n~~a~~n~
@@ -23709,7 +23775,7 @@
 	0x3228ECB5 = Tommy Lim
 	0x3231E3B9 = Wait for <C>~a~</C>~s~ to locate the robbery.
 	0x3234C177 = Kenworth Future Shock Scarab
-	0x3235D21F = Charlie's left you a Tula nearby. You can use it to get to the Akula.
+	0x3235D21F = Charlie's left you a Kaman K-16B nearby. You can use it to get to the Akula.
 	0x3253A34A = Great Chaparral Clubhouse
 	0x3257CA37 = Psychedelic Bangles
 	0x3257CD73 = Return your Zodiac Hurricane CZ7 to storage.
@@ -23996,7 +24062,7 @@
 	0x4262F6D1 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Vivisection Top
 	0x4266FCD7 = Join a public session to access the SecuroServ network.
 	0x4271E849 = Target G
-	0x4272AB04 = Additional protection for the Piper PA-30 and Titan allowing them to withstand extensive damage.
+	0x4272AB04 = Additional protection for the Piper PA-30 and Lockheed C-130 Hercules allowing them to withstand extensive damage.
 	0x4276B81B = You don't current have a Custom Weapon Loadout. Create one at the Gun Locker.
 	0x4276DE5A = Challenge a rival MC to a motorcycle deathmatch.
 	0x4289E9B8 = Red Mist
@@ -24106,7 +24172,7 @@
 	0x4686DF5D = 25 seconds
 	0x4689A53F = Extra Commission
 	0x4694C05F = Avarus
-	0x4694D23D = Participate in the Cayo Perico Series
+	0x4694D23D = Participate in the Cayo Norman Series
 	0x4707AF14 = ~s~Loading content
 	0x4708E747 = the ~HUD_COLOUR_BLUE~McLaren P1~s~
 	0x4715EB89 = Grand Theft Auto V
@@ -24235,7 +24301,7 @@
 	0x5185F24C = Debonaire stocks getting killed.
 	0x5192CCA8 = Drag Race
 	0x5197F6C7 = RE: move on
-	0x5200C22E = Head to the beautiful, bloodstained shores of Cayo Perico for a welcome dose of sun, sea and unbridled mayhem.
+	0x5200C22E = Head to the beautiful, bloodstained shores of Cayo Norman for a welcome dose of sun, sea and unbridled mayhem.
 	0x5202B158 = LAX
 	0x5202DB47 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x White Shrewsbury Logo Tee
 	0x5204D709 = The Corvette C2
@@ -24700,7 +24766,7 @@
 	0x6812F6EA = Created Today
 	0x6813EFB1 = You alerted the security guards.
 	0x6814D039 = Deliver the ~a~ to ~HUD_COLOUR_YELLOW~Terminal.~s~
-	0x6814D678 = The Cayo Perico Heist Prep
+	0x6814D678 = The Cayo Norman Heist Prep
 	0x6820E905 = Dearest Green
 	0x6823EC3C = nightclub
 	0x6824D4B2 = ~INPUTGROUP_FRONTEND_DPAD_ALL~ MOVE
@@ -25016,7 +25082,7 @@
 	0x8044D23A = You no longer have access to the Nightclub as the owner has left the game.
 	0x8048B2F8 = Select Stealth Sikorsky MH-60L DAP
 	0x8049AA63 = Press ~INPUT_CONTEXT~ to launch a drone.
-	0x8050A2BE = Disrupt El Rubio's security on Cayo Perico
+	0x8050A2BE = Disrupt El Rubio's security on Cayo Norman
 	0x8051B1A7 = @gogodave major shootout goin down rite near the boardwalk at vespucci beach I can hardly bleet im rolerblading so fast
 	0x8055BE2E = Some guy just broke in and stole all our money!  He's getting away!  I don't know what to do!
 	0x8057D89E = CHAZ LIEBERMAN
@@ -25429,7 +25495,7 @@
 	0x9472B998 = SELL CARGO
 	0x9474D876 = Immaterial2
 	0x9479A1CF = Dispatch Work can be accessed by pressing ~INPUT_SPECIAL_ABILITY_SECONDARY~ when driving a law enforcement vehicle you own.
-	0x9479A4E5 = Find the primary target on Cayo Perico
+	0x9479A4E5 = Find the primary target on Cayo Norman
 	0x9480CA61 = Are you sure you want to use the ~a~ approach for this heist?
 	0x9481D89B = Raton View
 	0x9482D26F = SCORE %
@@ -25658,7 +25724,7 @@
 	0x15301C0F = TRANSPORT METHOD
 	0x15319D9C = Enter the Kosatka ~a~~s~ from the conning tower door, or front and rear hatches.
 	0x15350B19 = The Tech Entrepreneur
-	0x15370AAE = The Cayo Perico Heist
+	0x15370AAE = The Cayo Norman Heist
 	0x15408DD6 = ~a~Complete ~1~ Business Battles
 	0x15480BAC = NORTH DOCK
 	0x15482C12 = Shoot down a smuggler aircraft for Trevor Philips. This Event is currently hidden. You will see no notifications related to it until you choose to Show it again.
@@ -25677,7 +25743,7 @@
 	0x16241EDC = Medium End Apartment
 	0x16263C47 = You can't trade in this Facility as it is larger than the one you have selected.
 	0x16278A98 = Hard to Swallow, Fuchsia
-	0x16353AFE = Deliver 20 lost or requested items at the Cayo Perico beach party.
+	0x16353AFE = Deliver 20 lost or requested items at the Cayo Norman beach party.
 	0x16413C44 = The name says it all. You can weave in and out of traffic with ease in this little number. Get a blow up doll for the passenger seat and ride in the HOV lane. Apex Predators beware.
 	0x16438AD7 = The Diamond Vintage Tee
 	0x16592C9E = Job Board
@@ -26055,7 +26121,7 @@
 	0x36547E49 = ~r~The booty call was canceled.
 	0x36571E3A = Win ~1~ Sprint races.
 	0x36631C8F = the Pool Cue
-	0x36647DB4 = Steal the loot from 5 treasure chests found on Cayo Perico.
+	0x36647DB4 = Steal the loot from 5 treasure chests found on Cayo Norman.
 	0x36709A52 = @SueMurry I used to teach my class that just because Juan's lunch smells weird and is wrapped in a leaf doesn't make him different or better. Latinos have a special place in my heart www.SueMurry.com
 	0x36883D3D = ~a~~s~ lost Stand Your Ground
 	0x36973A24 = Vagner
@@ -26100,7 +26166,7 @@
 	0x39055F9D = Chopped Blond
 	0x39146DDD = The Lost! Shake them or bring them down.
 	0x39179CDD = With the help of Jamal Amir, steal, sell and salvage vehicles with your very own Salvage Yard.
-	0x39185A49 = Travel to the North Dock ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~ to scope it for additional intel that could be used on The Cayo Perico Heist.
+	0x39185A49 = Travel to the North Dock ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~ to scope it for additional intel that could be used on The Cayo Norman Heist.
 	0x39191F97 = This page provides details on the currently selected warehouse you wish to buy, such as location and storage capacity.
 	0x39219A51 = The Culprit
 	0x39343D85 = Cinematic
@@ -26472,11 +26538,11 @@
 	0x61546A98 = Running Back Remix Green
 	0x61546B18 = Buckle Up!
 	0x61550E56 = You have completed the mandatory Planning Work and Tasks required to start The McTony Robbery. Return to your Salvage Yard ~a~~s~ to begin.
-	0x61610AF7 = Unavailable while active on a Cayo Perico Heist prep.
+	0x61610AF7 = Unavailable while active on a Cayo Norman Heist prep.
 	0x61772D6F = Move Avenger
 	0x61914D03 = Protect the ~b~supplies.
 	0x61941E21 = Wipe out!
-	0x62019DEA = Help your crew deliver the merchandise to LAX. You must be there in order to complete delivery and travel to Cayo Perico.
+	0x62019DEA = Help your crew deliver the merchandise to LAX. You must be there in order to complete delivery and travel to Cayo Norman.
 	0x62056B9B = The connection to Rockstar Games has been lost. Features such as YouTube video upload cannot be used. You will need to restore the connection for network features to be enabled.
 	0x62113C0F = maintenance outfits
 	0x62131D50 = s
@@ -26593,7 +26659,7 @@
 	0x68646C25 = Participate in Hunting Pack
 	0x68749E44 = A new Radio Station, LAUR, is now available.
 	0x68751A0D = BOMB ACTIVATION
-	0x68793E6C = Assault on Cayo Perico
+	0x68793E6C = Assault on Cayo Norman
 	0x68819AD1 = Associates allows your Friends, Crew and Organization members into your DJ Booth.
 	0x68842F18 = Failed to dispose of the vehicle
 	0x68860C6E = View the Leaderboard by pressing ~INPUT_SPRINT~.~n~Hold ~INPUT_FRONTEND_DELETE~ to quit the game at any time.
@@ -27250,7 +27316,7 @@
 	0x185257CC = Start the Breaking and Entering setup mission.
 	0x186706BE = Hott Style #4
 	0x189023EC = Call Mutt or source Supplies from this location ~BLIP_PACKAGE~ to begin production and get the business up and running.
-	0x189516B2 = Leave for Cayo Perico soon, before you miss your expected arrival time and window of opportunity to land on the island.
+	0x189516B2 = Leave for Cayo Norman soon, before you miss your expected arrival time and window of opportunity to land on the island.
 	0x189791D3 = Damage the ~a~.
 	0x190318C1 = The Turreted Limo has been requested.
 	0x190327E3 = Red Striped Skinny Tie
@@ -27266,7 +27332,7 @@
 	0x197642F2 = ~BLIP_INFO_ICON~ Trevor has the ability to become really angry, making him almost invulnerable to damage. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together when the special ability bar is charged to activate.
 	0x197705A9 = Purchase a Private Dealer for your Penthouse from The Diamond Casino & Resort website to select the game at your Private Table.
 	0x198437B3 = MY PORTFOLIO
-	0x198743FA = Steal the loot from 10 treasure chests found on Cayo Perico.
+	0x198743FA = Steal the loot from 10 treasure chests found on Cayo Norman.
 	0x200011E5 = Complete Most Wanted - Garcia as leader to earn $25,000.
 	0x200231B3 = LAB LOCATIONS
 	0x203032ED = Your VIP has started Piracy Prevention. Defend your VIP's Yacht ~HUD_COLOUR_YELLOW~~BLIP_YACHT~ ~s~to earn cash and RP.
@@ -27392,7 +27458,7 @@
 	0x314103C8 = The CB250 is currently unavailable.
 	0x316458FD = Available to Dismiss in ~a~
 	0x318915FF = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_50/IE_TEXTVECH_50' vspace='0' width='252' height='150'/> ~nrt~
-	0x320307B0 = Assault on Cayo Perico
+	0x320307B0 = Assault on Cayo Norman
 	0x320354B9 = Free Spin
 	0x322453C0 = LOCKED: COMPLETE ONBOARD COMPUTER
 	0x322823B2 = Clothing Unlock
@@ -27605,7 +27671,7 @@
 	0x532925E4 = Fall Tactical
 	0x533884DC = You have left Crew ~a~.
 	0x535085A4 = BET
-	0x535384E0 = Complete The Cayo Perico Heist for the first time to earn $200,000.
+	0x535384E0 = Complete The Cayo Norman Heist for the first time to earn $200,000.
 	0x535461D8 = Remove Fairing
 	0x537385E2 = 2735550158
 	0x540078BC = You can't enter The Freakshop while selling vehicles from a Warehouse.
@@ -28004,7 +28070,7 @@
 	0x916108BE = You can't enter the LA Car Meet while working for Ms. Baker.
 	0x917089D9 = Agency earnings collected: $~1~
 	0x921281B0 = Total Payment
-	0x921450C5 = Enter ~a~~s~ to join Assault on Cayo Perico or go on call to remain in Freemode until the mode is about to start.
+	0x921450C5 = Enter ~a~~s~ to join Assault on Cayo Norman or go on call to remain in Freemode until the mode is about to start.
 	0x921799E1 = VEHICLES REMAINING
 	0x922382B9 = ~a~ unlocked the security doors.
 	0x922533D9 = Race Arena War
@@ -28139,7 +28205,7 @@
 	0x1604380C = ~HUD_COLOUR_WHITE~You devastated ~a~.
 	0x1610982C = Lester will contact you when The Diamond Casino Heist is available again.
 	0x1623197E = Woe is Not a Diagram
-	0x1639561D = Maze Bank Foreclosures
+	0x1639561D = Chase Bank Foreclosures
 	0x1640465E = Crook Welcome
 	0x1654010B = Casino Dance 3
 	0x1659413B = TP Industries Arms Race
@@ -28197,12 +28263,12 @@
 	0x2387722B = Business Supplies are now visible to all players in session.
 	0x2390965E = You can't access your Garage while holding Special Cargo.
 	0x2399566A = budding herb shed tucked just under nowheres asshole. quiet, good humidity, loads of paperless workers nearby.
-	0x2401909A = Complete the Gather Intel mission in The Cayo Perico Heist as a Boss to unlock the Trade Price for this vehicle.
+	0x2401909A = Complete the Gather Intel mission in The Cayo Norman Heist as a Boss to unlock the Trade Price for this vehicle.
 	0x2408799C = You must pay the entry fee at the front desk ~BLIP_BAT_CASH_REG~ in order to enter The Music Locker.
 	0x2423221A = Empty Options
 	0x2429713B = Okay! That one had cargo. Grab it quick.
 	0x2431994D = Deliver Vehicle (Staff)
-	0x2451991B = Find the Madrazo Files on Cayo Perico.
+	0x2451991B = Find the Madrazo Files on Cayo Norman.
 	0x2453672C = LA LAKERS OUTFITS
 	0x2491349A = Equipment Added:~n~Small Key
 	0x2495664C = Join a public session to book a new DJ.
@@ -28562,13 +28628,13 @@
 	0x7822733C = Publisher does not exist.
 	0x7848329A = White Drop Vase
 	0x7878489A = You can call yourself a marksman now that's 4 sure.  You earned yourself an extra $~1~
-	0x7885976B = There is a delay before you can play The Cayo Perico Heist again via the Quick Join menu.
+	0x7885976B = There is a delay before you can play The Cayo Norman Heist again via the Quick Join menu.
 	0x7992216C = Rampage: Ballas
 	0x8036513F = Aliens exist and are present on Earth. If you have a birth mark, you may be descended from Kraff, the famous Emperor of the Fourth Paradigm - FACT!
 	0x8044559C = You can't enter the Nightclub Warehouse while acquiring goods for a hangar.
 	0x8049868A = Help deliver the packages to the ~HUD_COLOUR_YELLOW~drop-off.~s~
 	0x8070630C = ~a~Complete Scene of the Crime
-	0x8074962D = Tula
+	0x8074962D = Kaman K-16B
 	0x8097166C = Press ~INPUT_FRONTEND_ACCEPT~ to access this laptop computer. ~n~Press ~INPUT_SCRIPT_RRIGHT~ to stand up.
 	0x8126705C = You solved the mystery of Leonora Johnson.
 	0x8141696A = Deliver the ~a~ to the second ~y~drop-off.
@@ -28903,7 +28969,7 @@
 	0x26285740 = You can't enter the Arcade while selling goods from a Bunker.
 	0x26524601 = Use the nearby elevator ~BLIP_ELEVATOR~ to access the lobby.
 	0x26546489 = We're all in the gutter, but some of us are getting a PB en route to the stars...
-	0x26557560 = Pavel will contact you when The Cayo Perico Heist is available again.
+	0x26557560 = Pavel will contact you when The Cayo Norman Heist is available again.
 	0x26582685 = The popularity of Nightclub ~a~ has increased.
 	0x26703622 = Bakersfield base
 	0x26813809 = Painting by Emma Rovi
@@ -28930,7 +28996,7 @@
 	0x28700085 = The Stiff
 	0x28977745 = DEAD DROP DISCOVERED
 	0x29094079 = Country Plaid Shirt
-	0x29220406 = Maze Bank Foreclosures
+	0x29220406 = Chase Bank Foreclosures
 	0x29334183 = Headroom
 	0x29549416 = Reinforced: Bulk Combat
 	0x29554701 = Management
@@ -28991,7 +29057,7 @@
 	0x34333040 = Use a Forklift to pick up the lab equipment ~HUD_COLOUR_GREEN~~BLIP_PACKAGE~~s~
 	0x34458494 = F13
 	0x34842278 = Autopilot Defenses
-	0x34854452 = Bookmarked Assault on Cayo Perico
+	0x34854452 = Bookmarked Assault on Cayo Norman
 	0x34942834 = Hit and Ride
 	0x35096472 = X16
 	0x35228149 = Wait for leader to start the minigame. Press ~INPUT_FRONTEND_CANCEL~ to cancel.
@@ -29084,7 +29150,7 @@
 	0x40836670 = EMS Upgrade, Level 1
 	0x40837468 = Press ~INPUT_CONTEXT~ to look through the Periscope.
 	0x40849831 = Armor shipments destroyed
-	0x40863297 = You do not have access to the DJ Booth while Keinemusik are playing. Complete The Cayo Perico Heist as leader to gain entry.
+	0x40863297 = You do not have access to the DJ Booth while Keinemusik are playing. Complete The Cayo Norman Heist as leader to gain entry.
 	0x40973374 = Brown Bear
 	0x41043296 = the ~HUD_COLOUR_BLUE~Lancia Stratos.
 	0x41299977 = Invite
@@ -29572,7 +29638,7 @@
 	0x82212579 = Avoid standing in the sewage or risk losing your health.
 	0x82277722 = ~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the landmark.
 	0x82383447 = Access the computer ~BLIP_LAPTOP~ in your office upstairs to collect Solomun and finish setting up your Nightclub.
-	0x82430078 = Gather additional intel on Cayo Perico
+	0x82430078 = Gather additional intel on Cayo Norman
 	0x82468139 = You successfully delivered the container
 	0x82633392 = transfer in progress
 	0x82646017 = ~a~'s Arcade
@@ -29983,7 +30049,7 @@
 	0xA1CDD7C3 = Eliminate the ~HUD_COLOUR_RED~Vagos Captains.~s~
 	0xA1CEC159 = ~BLIP_INFO_ICON~ Feel like having a private conversation? Call a friend and chat without others drowning you out!
 	0xA1CF7143 = You have escaped the Hit Squad.
-	0xA1D4BA0E = The Cayo Perico Heist
+	0xA1D4BA0E = The Cayo Norman Heist
 	0xA1D6D937 = Press ~INPUT_SCRIPT_RDOWN~ to use Spectator Cam for $~1~.~n~Press ~INPUT_SCRIPT_RLEFT~ to fly a Spectator Drone for $~1~.~n~Press ~INPUT_SCRIPT_PAD_RIGHT~ to stand up.
 	0xA1D75FC6 = Participate in Kill Quota
 	0xA1D432E8 = @sammydumbell22 That girl born without a face. I'd hit it. You don't look at the mantelpiece when you're stoking the fire ;)
@@ -30322,7 +30388,7 @@
 	0xA6E2249F = Help deliver the ~HUD_COLOUR_BLUE~equipment~s~ to the ~HUD_COLOUR_YELLOW~Agency.~s~
 	0xA6E72006 = Sneak into the Casino and stealthily get past or take out security until you get to the vault. Gain access to the vault, take its contents, and make your way back out of the Casino without anyone knowing you were there.
 	0xA6E93062 = You disabled the jukebox.
-	0xA6EC1FAF = The more arms dealers you take out, the weaker the weapons available to El Rubio's guards will become during The Cayo Perico Heist.
+	0xA6EC1FAF = The more arms dealers you take out, the weaker the weapons available to El Rubio's guards will become during The Cayo Norman Heist.
 	0xA6ED084B = LEAVE AREA
 	0xA6F8A0D1 = Painting by Cande Viteri
 	0xA6F8CD08 = Aqua Camo Snake Skull
@@ -30347,7 +30413,7 @@
 	0xA7A66049 = ~a~~s~ delivered the lab equipment.
 	0xA7A78945 = Stay above ~1~km/h to avoid detonation.
 	0xA7AD9FB7 = Pouce Rouge
-	0xA7B088F8 = The minimum has been scoped to continue The Cayo Perico Heist. Continue exploring to find additional items that can help with the execution of the Heist:~n~- Infiltration and escape points~n~- Compound entry points~n~- Secondary targets~n~- Points of interest~n~
+	0xA7B088F8 = The minimum has been scoped to continue The Cayo Norman Heist. Continue exploring to find additional items that can help with the execution of the Heist:~n~- Infiltration and escape points~n~- Compound entry points~n~- Secondary targets~n~- Points of interest~n~
 	0xA7B0C5ED = ~a~~s~ stole an Air-Freight Shipment from ~a~~s~ and secured it at their Hangar.
 	0xA7B2F4D9 = The Nissan R90C is now available on legendarymotorsport.net.
 	0xA7B3A320 = the ~HUD_COLOUR_BLUE~Sultan RS.
@@ -30535,7 +30601,7 @@
 	0xA9D1F906 = You can't enter Eclipse Blvd Garage while resupplying a business.
 	0xA9D4E0FF = Malibu
 	0xA9D7BFE6 = Score at least ~1~ points to remain in the game
-	0xA9D8A12C = The Titan escaped
+	0xA9D8A12C = The Lockheed C-130 Hercules escaped
 	0xA9D496F5 = Latest Stock
 	0xA9D78817 = This vehicle will be available for purchase soon.
 	0xA9D79175 = BOUNTY OVER
@@ -30622,7 +30688,7 @@
 	0xA22E5157 = Laptop
 	0xA22ECDB6 = Flight School - ~a~
 	0xA23A1CBF = GAME AS PLANNED
-	0xA23ABB8A = Complete The Cayo Perico Heist finale as a leader to unlock the Trade Price for this vehicle.
+	0xA23ABB8A = Complete The Cayo Norman Heist finale as a leader to unlock the Trade Price for this vehicle.
 	0xA23BC962 = ~1~th
 	0xA23C213A = LONGEST WHEELIE
 	0xA23E57E0 = Leave the area.
@@ -30738,7 +30804,7 @@
 	0xA49B9EE0 = Chatter Boxes
 	0xA49C060F = People who believe in something live much longer than atheists, and they have eternal life thrown in for good measure - FACT!
 	0xA49EDF55 = ~a~~a~
-	0xA49F0336 = You have discovered a small key that can be used to gain access to a locked location on the island of Cayo Perico.
+	0xA49F0336 = You have discovered a small key that can be used to gain access to a locked location on the island of Cayo Norman.
 	0xA50A359E = Down
 	0xA50A2404 = AMG GT
 	0xA50C2952 = You now own the Stone Hatchet
@@ -30814,7 +30880,7 @@
 	0xA65C4539 = Refresh
 	0xA65D6939 = Bell 407 Police Maverick
 	0xA66AF5B1 = Are you sure you wish to join the Pursuit Race series?
-	0xA66BC6BD = Shoot the rear door of the ~HUD_COLOUR_RED~Titan.~s~
+	0xA66BC6BD = Shoot the rear door of the ~HUD_COLOUR_RED~Lockheed C-130 Hercules.~s~
 	0xA66D46D5 = Dune Buggy
 	0xA67C445E = Security Outfits
 	0xA67D65A7 = You eliminated a Sergeant.
@@ -30835,7 +30901,7 @@
 	0xA71A70C4 = A Business Battle has started. Search the parking garage ~HUD_COLOUR_YELLOW~~BLIP_BAT_CARGO~~s~ for the target vehicle. Deliver it to the drop-off to earn cash and RP.
 	0xA71AE097 = We have the full cooperation of the observatory's in-house security. Here's some cam footage. ~nrt~ <img src='img://VC_TC_OBSERVCCTV_0/VC_TC_OBSERVCCTV_1' vspace='0' width='252' height='150'/> ~nrt~
 	0xA71B1054 = ~a~~HUD_COLOUR_WHITE~ knifed you.
-	0xA71C3720 = Cayo Perico
+	0xA71C3720 = Cayo Norman
 	0xA71CB810 = You cannot buy a Facility while it holds stock.
 	0xA71EA3EA = NOT FUNNY, ASSHOLE
 	0xA72A0E1C = Fairground
@@ -30867,7 +30933,7 @@
 	0xA77BC9AF = The Italians are unrivaled in flamboyance, sex scandals and financial improprieties. Now you can be too!
 	0xA77DBE6A = Press ~INPUT_CONTEXT~ to search the valet and recover the security pass.
 	0xA77DBE14 = Slide
-	0xA77E4321 = You can now revisit Cayo Perico from LAX ~s~~a~ at any time and watch Keinemusik at the beach party.
+	0xA77E4321 = You can now revisit Cayo Norman from LAX ~s~~a~ at any time and watch Keinemusik at the beach party.
 	0xA77FC352 = JAMMER STRENGTH
 	0xA78EB776 = Beat the Par Time of RC Bandito Time Trials ~HUD_COLOUR_NET_PLAYER2~~BLIP_RC_TIME_TRIALS~~s~ each day to earn cash and RP.
 	0xA78EC2C6 = Lil Prince
@@ -31185,7 +31251,7 @@
 	0xA994BF9F = CHAR_MP_PROSTITUTE
 	0xA998D771 = Looks like you got the stuff. Fly it back to the hangar and look out for trouble.
 	0xA999BB8A = Press ~INPUT_VEH_FLY_COUNTER~ to deploy the flare countermeasure to redirect incoming missiles.
-	0xA1009A2A = Here you can preview the outcome of your scoping and Prep work. Press Start to begin The Cayo Perico Heist alone, or invite other players.
+	0xA1009A2A = Here you can preview the outcome of your scoping and Prep work. Press Start to begin The Cayo Norman Heist alone, or invite other players.
 	0xA1049CD0 = Striped Sandals
 	0xA1116A9C = Sponsored
 	0xA1139B66 = Disable Slipstream
@@ -31603,7 +31669,7 @@
 	0xAA7EB659 = Gang Vehicle Vagos
 	0xAA7F6C92 = Product
 	0xAA8AC023 = Auto Shop Service
-	0xAA8B20F4 = The Cayo Perico Heist
+	0xAA8B20F4 = The Cayo Norman Heist
 	0xAA8D30DD = 197 Route 68
 	0xAA8E0754 = The following vehicles are now available:~n~- Rune Cheburek (southernsanandreassuperautos.com)~n~- Toyota Supra (legendarymotorsport.net)~n~- Alfa Romeo Giulia (southernsanandreassuperautos.com)
 	0xAA9BF03F = Teal Regular Fit
@@ -31997,7 +32063,7 @@
 	0xAC80A614 = You have already completed the current research project.
 	0xAC86A472 = 7yearbitch~n~33~n~Banging~n~Destructively~n~Depraved Shit~n~
 	0xAC86FBA2 = E30
-	0xAC93EA09 = Steal the loot from 50 treasure chests found on Cayo Perico.
+	0xAC93EA09 = Steal the loot from 50 treasure chests found on Cayo Norman.
 	0xAC94C2E7 = No GTA Online options available.
 	0xAC95FAAF = Enter the vehicle and hold on to it until the time runs out.
 	0xAC143D26 = WON
@@ -32999,7 +33065,7 @@
 	0xB3E55CD0 = Press ~INPUT_CONTEXT~ to step up to the table.
 	0xB3E630F1 = You are currently on the Attackers. Your score will decrease while on this team.
 	0xB3E746BA = Raine water stocks soar thanks to fracking.
-	0xB3E23735 = Complete a bonus objective during Assault on Cayo Perico to unlock the trade price for this vehicle.~n~Please note: this mode is currently unavailable but will return soon.
+	0xB3E23735 = Complete a bonus objective during Assault on Cayo Norman to unlock the trade price for this vehicle.~n~Please note: this mode is currently unavailable but will return soon.
 	0xB3E48166 = Rooster McCraw
 	0xB3EB0340 = Alright, I'm working on the driver ID you brought back. It's registered to some mansion up in Brentwood. I'll call when I've got the owner.
 	0xB3EE8614 = SELECT A JOB
@@ -33238,7 +33304,7 @@
 	0xB7BCCAEF = Dance to Keinemusik's set in The Music Locker for 5 minutes.
 	0xB7BD14FD = With Bodyguards
 	0xB7C0ABFB = You need to decrease your altitude to deliver the EMP.
-	0xB7C5F0A6 = As a leader, complete The Cayo Perico Heist Finale using this as the approach vehicle to unlock the Trade Price.
+	0xB7C5F0A6 = As a leader, complete The Cayo Norman Heist Finale using this as the approach vehicle to unlock the Trade Price.
 	0xB7C5F4BB = Client rescued
 	0xB7C7A6D8 = Your Personal Vehicle doesn't have a neon kit.
 	0xB7C8D73D = MISSION PASSED
@@ -33287,7 +33353,7 @@
 	0xB7F8E3F4 = Backup ~1~
 	0xB7F16E94 = Wait for a vehicle to exit the bunker.
 	0xB7F24A57 = Stone Tie
-	0xB7F64062 = Gather additional intel on Cayo Perico.
+	0xB7F64062 = Gather additional intel on Cayo Norman.
 	0xB7F69494 = Place top ~1~ in a Drag Race Series for ~1~ days in a row.
 	0xB7F98803 = ~a~ secured the target.
 	0xB7FA3DE9 = High Level Spoiler
@@ -33456,7 +33522,7 @@
 	0xB11C15D6 = The client's assets are under attack. Get to the vineyard and protect the wine barrels from being destroyed.
 	0xB11CD2E1 = Request Personal Aircraft
 	0xB11E69BC = ~a~ destroyed Cargo.
-	0xB12E984C = ~a~ Assault on Cayo Perico
+	0xB12E984C = ~a~ Assault on Cayo Norman
 	0xB12E5882 = With this stripped down custom chopper-style motorbike, LCC found a way to combine lounging with high speed. Even when you're crapping yourself uncontrollably as you approach top speed, you'll still look cool as ice.
 	0xB13A54DB = The Haulier
 	0xB13B72D8 = PREP: AIR SUPPORT
@@ -33689,7 +33755,7 @@
 	0xB68D012D = You have not Bookmarked any Versus Jobs.
 	0xB69BBEB1 = Drive the rental car to the Hollywood Reservoir and ditch it in the water to get rid of the evidence for Yung Ancestor.
 	0xB69C1954 = The Honda Veto Classic is now available on southernsanandreassuperautos.com.
-	0xB69CCB6E = Complete 50 prep missions as part of The Cayo Perico Heist.
+	0xB69CCB6E = Complete 50 prep missions as part of The Cayo Norman Heist.
 	0xB69D1267 = Win 10 races in the Street Race Series.
 	0xB69E0B77 = ~a~~s~ assassinated the Judge.
 	0xB69EC77B = H&M "Tight Teens Line" of clothes draw criticism.
@@ -33836,7 +33902,7 @@
 	0xB117DFF1 = Press ~INPUT_CONTEXT~ to drive Tony's submarine.
 	0xB120CB57 = You have no friends currently playing GTA Online.
 	0xB122BDB5 = SMUGGLER TRAIL Start
-	0xB123D9A9 = This will unlock when you have completed The Cayo Perico Heist.
+	0xB123D9A9 = This will unlock when you have completed The Cayo Norman Heist.
 	0xB132A820 = Press ~INPUT_CONTEXT~ to play Invade and Persuade II.
 	0xB133DB5E = GOOSE
 	0xB135BD84 = That's a nice buck.  You like crippling em first do you?  Reckon I can give you $~1~ but that's as high as I can go.
@@ -33998,7 +34064,7 @@
 	0xB692AAAE = Equipment added:~n~Flares
 	0xB696B646 = Cut open the ~HUD_COLOUR_GREEN~containers.~s~
 	0xB697E44D = You must take the delivery bike to the drop-offs in order to deliver the Acid.
-	0xB700FDFF = Dance to Keinemusik's set at the Cayo Perico beach party for 15 minutes.
+	0xB700FDFF = Dance to Keinemusik's set at the Cayo Norman beach party for 15 minutes.
 	0xB706B436 = Shinobi
 	0xB706FA05 = Lotus Esprit S1 ahoy! Take it from their cold dead hands.
 	0xB711F42F = Enter Director Mode using any of your own GTA Online characters.
@@ -34449,7 +34515,7 @@
 	0xB4967514 = Track Up (30)
 	0xB5029678 = ~a~ recovered
 	0xB5305369 = Press ~INPUT_CONTEXT~ to register as a SecuroServ CEO and log in to the Operations Terminal.
-	0xB5438514 = The Titan is a four-engine turboprop military transport plane, capable of using unprepared runways for takeoffs and landings, making it perfect for a busy city center. A freeway, a football field, a schoolyard...the choice is yours.
+	0xB5438514 = The Lockheed C-130 Hercules is a four-engine turboprop military transport plane, capable of using unprepared runways for takeoffs and landings, making it perfect for a busy city center. A freeway, a football field, a schoolyard...the choice is yours.
 	0xB5865088 = Point of interest: Grappling Equipment
 	0xB6042676 = Occupation:
 	0xB6123098 = Go to the ~a~.
@@ -34957,7 +35023,7 @@
 	0xBC71C0DC = The radio station is locked for this race.
 	0xBC74BB9C = Looks like a pretty clean kill.  Ill pick that one up later.  Let's call that $~1~.
 	0xBC74D05B = ASSASSINATION BONUS:~n~Take out all the targets with a headshot.
-	0xBC77CA09 = Cayo Perico Series
+	0xBC77CA09 = Cayo Norman Series
 	0xBC78B9CD = Learner
 	0xBC84EC40 = Gold Medal
 	0xBC88B415 = Bounty Hunter
@@ -34988,7 +35054,7 @@
 	0xBC589B98 = Complete 20 prep missions as part of The Diamond Casino Heist.
 	0xBC656EBA = HIRE SUPPORT CREW
 	0xBC713AA7 = Yeti Outfit
-	0xBC752A73 = Completing The Cayo Perico Heist now allows you access to the DJ booth while Keinemusik are playing.
+	0xBC752A73 = Completing The Cayo Norman Heist now allows you access to the DJ booth while Keinemusik are playing.
 	0xBC825FE3 = Imagination Ct
 	0xBC863ADC = Recover the ~HUD_COLOUR_RED~diamonds~s~ from ~a~.~s~
 	0xBC871AB4 = ~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the EMP.
@@ -35018,7 +35084,7 @@
 	0xBC395964 = Collect an Ammo Drop
 	0xBC431108 = Enter ~HUD_COLOUR_YELLOW~Vandenberg Air Force Base.~s~
 	0xBC490110 = Load a creation you've published to Rockstar Games.
-	0xBC505814 = The Tula has a sweet VTOL mode and she's amphibious so you can land her on the water after you take these guys out.
+	0xBC505814 = The Kaman K-16B has a sweet VTOL mode and she's amphibious so you can land her on the water after you take these guys out.
 	0xBC530591 = Protect the ~a~.
 	0xBC609004 = phone
 	0xBC643360 = VISIT YOUR LOCAL EPSILON CENTER
@@ -35043,7 +35109,7 @@
 	0xBCB3D96C = Invite nearby
 	0xBCB7AF3B = Use ~INPUT_SCRIPT_LEFT_AXIS_X~ to face direction. ~n~Press ~INPUT_SCRIPT_RRIGHT~ to stand up.
 	0xBCB85E1F = You have not yet unlocked Capture.
-	0xBCB3563A = Scope out all the secondary target locations in a single playthrough of The Cayo Perico Heist.
+	0xBCB3563A = Scope out all the secondary target locations in a single playthrough of The Cayo Norman Heist.
 	0xBCB9852C = Hey it looks like a civilian saw the crash and called the cops. They're probably on their way over to the wreck too, so yeah, that's a thing.
 	0xBCB27978 = Thank you for your donation Brother, Brother!<br>Kifflom be praised!
 	0xBCBA95BA = Great Chaparral Clubhouse
@@ -35176,7 +35242,7 @@
 	0xBD475BCF = You need to send the photographs to Lester.
 	0xBD482AEF = You switched to the ~a~ team
 	0xBD591F44 = Off the Plane
-	0xBD604C9B = Take out the arms dealers ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ in order to weaken the supply of weapons available to El Rubio's guards during The Cayo Perico Heist.
+	0xBD604C9B = Take out the arms dealers ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ in order to weaken the supply of weapons available to El Rubio's guards during The Cayo Norman Heist.
 	0xBD621A16 = Racing Blue Paint
 	0xBD657C8F = Wigwam Hockey Shirt
 	0xBD843DFE = @yoyorambler How long should an erection last before seeking medical attention?
@@ -35243,7 +35309,7 @@
 	0xBDE0E86F = Your Anti-Aircraft Trailer is impounded.
 	0xBDE1FE6B = You can't quit while engaged in CEO Business.
 	0xBDE3B43A = Team ~1~ Minimum Player Count
-	0xBDE5D72B = One team attempts to storm Cayo Perico, breach the compound, and hack the computer. The other team tries to keep the attackers at bay until time's up.
+	0xBDE5D72B = One team attempts to storm Cayo Norman, breach the compound, and hack the computer. The other team tries to keep the attackers at bay until time's up.
 	0xBDE7BE51 = Look out for smoke, blood trails or the sounds of gunshots to help locate the missing client.
 	0xBDE8C729 = Stores
 	0xBDE8F465 = Mastermind
@@ -36239,7 +36305,7 @@
 	0xC7BDB98A = You cannot control the roof of your Personal Vehicle when in the Test Track.
 	0xC7BFA424 = The Porsche 918 Spyder
 	0xC7C0567E = RESPOND
-	0xC7C6AAB6 = Help fly to ~HUD_COLOUR_YELLOW~Cayo Perico.~s~
+	0xC7C6AAB6 = Help fly to ~HUD_COLOUR_YELLOW~Cayo Norman.~s~
 	0xC7C9EA9E = Off
 	0xC7C23CA0 = Add saddle bags to your quad bike.
 	0xC7C54CA2 = You delivered all 5 pizzas
@@ -36257,7 +36323,7 @@
 	0xC7D06AA0 = Bummer Dude!
 	0xC7D3E753 = You can't enter the Arena Workshop while selling goods from a bunker.
 	0xC7D4CE0C = Basement Storage
-	0xC7D5BBD5 = ~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the Titan.
+	0xC7D5BBD5 = ~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the Lockheed C-130 Hercules.
 	0xC7D6B528 = Rappel down the elevator shaft.
 	0xC7D7C96C = Enter the ~HUD_COLOUR_BLUE~funeral car.~s~
 	0xC7D5152D = Your Acid Product cannot be renamed while attempting to sell it.
@@ -36299,7 +36365,7 @@
 	0xC8A443EF = You have not created or modified any exports today.
 	0xC8A677B0 = Press ~INPUT_CONTEXT~ to collect the schedule.
 	0xC8A748BA = You need a Rockstar Games account to Join a Crew.
-	0xC8AAA075 = Mission Details:~n~Steal sonar jamming equipment. This will allow your Kosatka to remain undetected off the coast of Cayo Perico.~n~~n~Heist Impact:~n~With your Kosatka submerged off the coast, approach the island undetected in scuba gear.
+	0xC8AAA075 = Mission Details:~n~Steal sonar jamming equipment. This will allow your Kosatka to remain undetected off the coast of Cayo Norman.~n~~n~Heist Impact:~n~With your Kosatka submerged off the coast, approach the island undetected in scuba gear.
 	0xC8AB3ACA = Text Timeline:__Drag a text box here to add titles to your Video.
 	0xC8AC28EB = Modify a vehicle in the Mobile Operations Center
 	0xC8ACC6EF = Unavailable. Complete the available Setup missions to start this mission.
@@ -36472,7 +36538,7 @@
 	0xC14B6A32 = Criminal Cuff Keys
 	0xC14C7F1F = Assault SMG - Flashlight
 	0xC14C34F6 = Countach
-	0xC14C134B = Cayo Perico Series
+	0xC14C134B = Cayo Norman Series
 	0xC14CC71E = RE:RE:RE: Homie!!!
 	0xC14E600A = Swim Speed
 	0xC15D28F3 = Are you sure you want to launch the Tow Truck Service?
@@ -36601,7 +36667,7 @@
 	0xC42E3A61 = Staff Entrance
 	0xC42FF2EE = Sign up to Rockstar Games to get access to the Navy Revolver Challenge. Beating this challenge will unlock a GTA$ reward and add the weapon for discovery in Red Dead Online. Sign up now at rockstargames.com and link your account.
 	0xC43AD639 = You can track how many Playing Cards you've collected via the Collectibles section of the Interaction Menu.
-	0xC43AEFD2 = You have scoped something useful for the Heist. The island of Cayo Perico has a wide range of different things to discover that can all help with the preparation and execution of The Cayo Perico Heist:~n~- Infiltration and escape points~n~- Compound entry points~n~- Secondary targets~n~- Points of interest
+	0xC43AEFD2 = You have scoped something useful for the Heist. The island of Cayo Norman has a wide range of different things to discover that can all help with the preparation and execution of The Cayo Norman Heist:~n~- Infiltration and escape points~n~- Compound entry points~n~- Secondary targets~n~- Points of interest
 	0xC43C483B = Prep: Paramedic Equipment
 	0xC43D2F4B = Charger
 	0xC43D3B9F = Water Quality
@@ -36903,7 +36969,7 @@
 	0xC255A6FE = Setup: Staff
 	0xC255B391 = We're running out of time. Get your crew together and get back to planning!
 	0xC255EA30 = Brocade Winter Boots
-	0xC264F5D5 = Request the Kosatka submarine nearby via the Service Vehicles section of the Interaction Menu to access the Cayo Perico Heist.
+	0xC264F5D5 = Request the Kosatka submarine nearby via the Service Vehicles section of the Interaction Menu to access the Cayo Norman Heist.
 	0xC273E590 = The Trolls
 	0xC293FAC7 = Garage: Blvd Santa Monica 18
 	0xC299BCF6 = The Final Challenge
@@ -37248,7 +37314,7 @@
 	0xC9000B23 = All Vehicles
 	0xC9012C9E = ~HUD_COLOUR_WHITE~<C>~a~</C> ~s~has the briefcase
 	0xC9115C16 = Your Zodiac Hurricane CZ7 is impounded.
-	0xC9162CDB = Find and scope bolt cutters that can be used during The Cayo Perico Heist. This item of interest is one of multiple that can be scoped or found during the Finale, along with various other types.
+	0xC9162CDB = Find and scope bolt cutters that can be used during The Cayo Norman Heist. This item of interest is one of multiple that can be scoped or found during the Finale, along with various other types.
 	0xC9239E37 = Humane Labs
 	0xC9260D98 = Night Vision
 	0xC9296FBB = Raw Input
@@ -37322,7 +37388,7 @@
 	0xC49628FC = Ranch Topaz Jeans
 	0xC49725C0 = You destroyed Supplies.
 	0xC50746A5 = Downtown Renown
-	0xC51823F0 = The setup cost for The Cayo Perico Heist is $~1~.
+	0xC51823F0 = The setup cost for The Cayo Norman Heist is $~1~.
 	0xC52285AA = Ford Nightmare Mustang
 	0xC52522D9 = ~HUD_COLOUR_WHITE~You battered ~a~.
 	0xC52619AE = ~a~ collected a vault key card.
@@ -37431,7 +37497,7 @@
 	0xC830934F = THE ROBBERY
 	0xC858852F = You disabled the explosives
 	0xC873285D = Chips
-	0xC884002D = Under the employ of Miguel Madrazo, leave the lights of Los Angeles for the sands of Cayo Perico. Purchase a Kosatka Submarine to begin your Heist: raiding El Rubio's island fortress.
+	0xC884002D = Under the employ of Miguel Madrazo, leave the lights of Los Angeles for the sands of Cayo Norman. Purchase a Kosatka Submarine to begin your Heist: raiding El Rubio's island fortress.
 	0xC887160E = ~a~~s~ stashed the Dodge Charger '15.
 	0xC893377C = Complete The Diamond Casino Heist on Hard and without losing a life and earn $250,000.
 	0xC899162E = Return over investment
@@ -37546,7 +37612,7 @@
 	0xCA3AC7CB = Win ~1~ Sprint races.
 	0xCA3B1A14 = Sweet!
 	0xCA3B2E20 = My name is Jason Billings. I work at Fred's studios as a production assistant. People in my neighborhood, they know I'm an Epsilonist, they're always asking me what kind of religion is that, is it made up, has Cris ever tried to touch you...<br><br>I tell them that The Epsilon Program changed my life. I was out of work – I wanted to be an actor. I was in a couple of short films, really indie, one was called Ballz Deep. Anyway, I was really down on myself and upset about things and I met this guy that I went to some acting classes with – he was getting a huge part in a movie.<br><br>He told me the confidence and connections he made at the Epsilon buildings really helped his career. I was like, sign me up!
-	0xCA3D492C = The Cayo Perico Heist
+	0xCA3D492C = The Cayo Norman Heist
 	0xCA3D4188 = Fox Plaza, 70
 	0xCA3ED559 = Gifted Amateur
 	0xCA3EF266 = San Pedro
@@ -38022,7 +38088,7 @@
 	0xCC267761 = Wait for your crew to enter the Piper PA-46 Malibu Meridian.
 	0xCC269965 = Junk Energy
 	0xCC295519 = The passenger seats of the vehicle are reserved for the Nightclub staff.
-	0xCC302901 = //Loading...~n~~n~Stage:[return]~n~......................................................................................................~n~&gt;/Return to Cayo Perico?~n~Continue to scope for additional intel. Submit photographic evidence to Pavel to update plans.~n~&lt;\
+	0xCC302901 = //Loading...~n~~n~Stage:[return]~n~......................................................................................................~n~&gt;/Return to Cayo Norman?~n~Continue to scope for additional intel. Submit photographic evidence to Pavel to update plans.~n~&lt;\
 	0xCC321628 = MODIFICATION COMPLETE
 	0xCC496731 = Asking or Giving Personal Information
 	0xCC595010 = Red Stripes Mod Helmet
@@ -38235,7 +38301,7 @@
 	0xCDBAC98E = Press ~INPUT_CONTEXT~ to contact Jamal and begin stealing an LA Lakers trailer for The Duggan Robbery.
 	0xCDBC9E28 = Press ~INPUT_CONTEXT~ to land and enter your VIP's Penthouse.
 	0xCDBC3020 = You don't currently own the Mobile Operations Center Personal Vehicle Storage bay. Purchase one at www.warstock-cache-and-carry.com.
-	0xCDBE0222 = Win Assault on Cayo Perico to unlock the trade price for this vehicle.~n~Please note: this mode is currently unavailable but will return soon.
+	0xCDBE0222 = Win Assault on Cayo Norman to unlock the trade price for this vehicle.~n~Please note: this mode is currently unavailable but will return soon.
 	0xCDBE566B = 28th
 	0xCDBEE742 = Skate merchandise
 	0xCDBF38B5 = ~s~The crate ~HUD_COLOUR_GREEN~~BLIP_RAMPAGE~ ~s~will equip the Ballistic Armor and Minigun.
@@ -38613,7 +38679,7 @@
 	0xCFCD3215 = Air Herler
 	0xCFCDDEA2 = Garage: S Mo Milton Dr
 	0xCFCE2240 = Alkonost
-	0xCFD6B312 = Enter ~a~~s~ to join the Cayo Perico Series or go on call to remain in Freemode until the mode is about to start.
+	0xCFD6B312 = Enter ~a~~s~ to join the Cayo Norman Series or go on call to remain in Freemode until the mode is about to start.
 	0xCFD9D8DD = Return to Camera ~INPUT_CELLPHONE_CANCEL~
 	0xCFD146F8 = Get the vans to the warehouse quickly. Trevor's buyer needs confirmation he has the pills.
 	0xCFD880DD = Coca Cola Racing Suit
@@ -39052,7 +39118,7 @@
 	0xD4AAC61D = HAL must do more to combat unsteady share price say rich investors.
 	0xD4AE0896 = Happy holidays from Rockstar! You have been awarded:~n~One Free Purchase of the Kenworth Insurgent Pick-Up~n~Black & Red Bones Festive Sweater~n~Firework Launcher~n~10 x Firework rockets~n~Full Snacks
 	0xD4B5D503 = RE:RE:RE:RE:Hi sexy
-	0xD4B6BB6B = An outfit has been left for you to change into on the plane. This is more suited to the climate of Cayo Perico and will allow you to blend in with the group as Keinemusik's tour manager. Additional crew members will follow behind as roadies to help set up the DJ equipment.
+	0xD4B6BB6B = An outfit has been left for you to change into on the plane. This is more suited to the climate of Cayo Norman and will allow you to blend in with the group as Keinemusik's tour manager. Additional crew members will follow behind as roadies to help set up the DJ equipment.
 	0xD4B6D5C4 = Stop the ~HUD_COLOUR_ORANGE~Orange ~s~team from winning.
 	0xD4B6DB73 = Play a GTA Race
 	0xD4B9DF75 = ~1~ targets were taken out
@@ -39327,7 +39393,7 @@
 	0xD7F8F18A = Career Wall sticker unlocked:~n~Reached Skill Level 12
 	0xD7F286D7 = Special Cargo
 	0xD7F8198A = Red Peace Lily Vase
-	0xD7F9580E = Pavel will contact you when The Cayo Perico Heist is available again.
+	0xD7F9580E = Pavel will contact you when The Cayo Norman Heist is available again.
 	0xD7F52268 = Purchasing the Penthouse will add $500 to the daily property utility charge. Each additional expansion will add a further $100.~n~Please note that a membership does not allow you to play Casino games.
 	0xD8A04D42 = Popov's guards are on alert for threats. If they spot you, Popov will try to escape. Stay out of the enemy's field of vision and use silenced weapons to remain in stealth.
 	0xD8A1BF3F = ~1~ Lives
@@ -39638,7 +39704,7 @@
 	0xD44F279E = MTL Cerberus War Spear Kit set
 	0xD45B06C1 = L
 	0xD45EEB03 = You have changed your appearance too often, please try again later.
-	0xD45FD9CF = An outfit has been left for you to change into on the plane. This is more suited to the climate of Cayo Perico and will allow you to blend in with the group as Keinemusik's tour manager.
+	0xD45FD9CF = An outfit has been left for you to change into on the plane. This is more suited to the climate of Cayo Norman and will allow you to blend in with the group as Keinemusik's tour manager.
 	0xD46D10BB = Remember. The door the one that look secure af. Keypad, camera and all that shit. Send me a pic when u found it.
 	0xD46F4F3E = Sculpted Ornament
 	0xD47A31D7 = Rippin' it Up
@@ -39752,7 +39818,7 @@
 	0xD71B253B = MISSION OVER
 	0xD71C154D = the equipment
 	0xD71D7A2D = the ~HUD_COLOUR_RED~Lancia Stratos~s~
-	0xD71D2315 = Go to the Planning Screen on board your new Kosatka ~a~~s~ to begin The Cayo Perico Heist as a Boss. You can also request the Kosatka nearby via the Service Vehicles section of the Interaction Menu.
+	0xD71D2315 = Go to the Planning Screen on board your new Kosatka ~a~~s~ to begin The Cayo Norman Heist as a Boss. You can also request the Kosatka nearby via the Service Vehicles section of the Interaction Menu.
 	0xD71D3685 = ~a~ ~a~ recovered
 	0xD71DD46D = You'll want to start smoking when you buy this car. It's almost required. You've stepped into a new phase in your life. You're not afraid to face danger. It's the 1970s all over again, and that cheerleader is drunk in your front seat.
 	0xD71F955E = Fill ammunition to full capacity for each owned weapon.
@@ -40238,7 +40304,7 @@
 	0xD4324AA6 = Dept Water & Power leaking money: stocks unsteady.
 	0xD4342F35 = Press ~INPUT_ENTER~ to toggle the bottom right display on and off.
 	0xD4414B1A = Sign up today
-	0xD4447EF3 = Titan
+	0xD4447EF3 = Lockheed C-130 Hercules
 	0xD4471FBC = Put your skills to the test in a series of savage Adversary Modes for up to 4 players.
 	0xD4533A46 = @LudendorffAnnie Boy oh boy helluva business with that shootout eh? At least they were already in the cemetery :).
 	0xD4534C79 = The trailer has been destroyed so you can no longer infiltrate the deal undetected.
@@ -40308,7 +40374,7 @@
 	0xD8532CDD = If you listen closely, you can actually hear the Duggan insurance premiums going up. I consider that a job well done. I'll be in touch when things have cooled down a bit.
 	0xD8535B30 = No Active Challenges
 	0xD8537E1A = Source one crate of ~a~ to be stored in this ~a~ warehouse.
-	0xD8543AA5 = Cayo Perico
+	0xD8543AA5 = Cayo Norman
 	0xD8548A3C = There are no Community Job Team Deathmatches available.
 	0xD8560DB0 = Dangerous Encounters
 	0xD8570B81 = FLYING IN STYLE
@@ -40910,7 +40976,7 @@
 	0xDB6681B6 = Press ~INPUT_FRONTEND_ACCEPT~ to access this desktop computer. ~n~Press ~INPUT_FRONTEND_RIGHT~ to stand up.
 	0xDB8276AA = You recovered the body.
 	0xDB8883C4 = Latino Santa
-	0xDB30442D = Steal a Los Angeles Lakers branded trailer that will help you enter the Maze Bank Arena undetected.~n~~n~Requirement:~n~Mandatory~n~~n~This task is launched from a location around the map.
+	0xDB30442D = Steal a Los Angeles Lakers branded trailer that will help you enter the Chase Bank Arena undetected.~n~~n~Requirement:~n~Mandatory~n~~n~This task is launched from a location around the map.
 	0xDB41593B = 5 Checkpoints
 	0xDB46010F = Return to the ~HUD_COLOUR_BLUE~delivery bike.~s~
 	0xDB66075F = The rear passenger seats of the vehicle are reserved for the VIPs.
@@ -41568,7 +41634,7 @@
 	0xDEFF11D9 = Harley-Davidson Nightmare Deathbike Livery set
 	0xDF015261 = Register as a Boss to gain access to the Planning Computer.
 	0xDF02EABB = Combat MG - Scope
-	0xDF036571 = You don't own a Nightclub. Purchase one from the Maze Bank Foreclosures website.
+	0xDF036571 = You don't own a Nightclub. Purchase one from the Chase Bank Foreclosures website.
 	0xDF043898 = Security doors are locked.
 	0xDF0496A6 = Big risk. Big Reward. Take part in this weekly race challenge.
 	0xDF04A260 = Go to the ~y~~a~.
@@ -41787,7 +41853,7 @@
 	0xE034BE17 = Nano Drone unavailable while inside a property.
 	0xE0362075 = Enemy
 	0xE0364413 = Kill a player while Off the Radar
-	0xE03646C9 = Stash the LA Lakers trailer at the marked location ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~ near the Maze Bank Arena.
+	0xE03646C9 = Stash the LA Lakers trailer at the marked location ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~ near the Chase Bank Arena.
 	0xE0379E54 = Aim the beam to collect the ~f~Packets~s~ ~BLIP_NHP_MG_NODE~ and avoid the ~r~Firewalls~s~ ~BLIP_NHP_MG_FIREWALL~.
 	0xE039F0F2 = Hipster Shaved Black
 	0xE03AA4F5 = Eliminate Avon and escape the base
@@ -41960,7 +42026,7 @@
 	0xE1CE127E = Request Vehicle
 	0xE1CFF4B5 = Activities are available throughout the Office. Grab a drink from the bar or relax in the lounge area.
 	0xE1D5A52C = Eclipse Towers, 9
-	0xE1D2349F = You do not have enough cash. The setup cost for The Cayo Perico Heist is $~1~.
+	0xE1D2349F = You do not have enough cash. The setup cost for The Cayo Norman Heist is $~1~.
 	0xE1DB28FD = Shotgun
 	0xE1DB2364 = Navy Work Boots
 	0xE1DECA65 = Custom Mom
@@ -42161,7 +42227,7 @@
 	0xE4CA564F = Mission success - our clients made off with a small fortune. Here's to their happy retirement.
 	0xE4CB4E81 = Mission 2
 	0xE4D023C1 = You need to be the President of a Motorcycle Club to access this computer. ~n~Press ~INPUT_SCRIPT_RRIGHT~ to stand up.
-	0xE4D2EB4D = Mission Details:~n~Steal unmarked weapons that can be used during The Cayo Perico Heist~n~~n~Heist Impact:~n~Access to the following weapons:~n~- SMG Mk II~n~- SNS Pistol Mk II~n~- Pipe Bombs~n~- Knife
+	0xE4D2EB4D = Mission Details:~n~Steal unmarked weapons that can be used during The Cayo Norman Heist~n~~n~Heist Impact:~n~Access to the following weapons:~n~- SMG Mk II~n~- SNS Pistol Mk II~n~- Pipe Bombs~n~- Knife
 	0xE4D14EE9 = You fully modded a vehicle.
 	0xE4D69AD7 = Use the photo to locate where the vehicle is parked within the highlighted area.
 	0xE4D96B30 = You eliminated a Captain.
@@ -42408,7 +42474,7 @@
 	0xE8B19139 = Lucky Roll Poker Table
 	0xE8B49967 = CLICK HERE
 	0xE8B81303 = With both Wigwam and In-N-Out Burger right on your doorstep, burger enthusiasts will be spoiled for choice at this apartment located in Santa Monica or Westwood, depending on which side of the building you stand.
-	0xE8B91121 = Mission Details:~n~Purchase suppressors that can be attached to your weapons for The Cayo Perico Heist. ~n~~n~ Cost: $5000~n~~n~Heist Impact:~n~Reduces the range that enemies can hear you shooting.
+	0xE8B91121 = Mission Details:~n~Purchase suppressors that can be attached to your weapons for The Cayo Norman Heist. ~n~~n~ Cost: $5000~n~~n~Heist Impact:~n~Reduces the range that enemies can hear you shooting.
 	0xE8BA8ABB = Delivery complete. This vehicle no longer contains any Product to sell.
 	0xE8BA8E13 = Sculpture by Gabi Engle
 	0xE8BB5B6E = Your Bike Sucks
@@ -42723,7 +42789,7 @@
 	0xE50C0662 = In order to purchase this vehicle you must fulfill the following criteria:~n~
 	0xE50C5268 = MTL Cerberus Light Armor
 	0xE50E5D6F = Service
-	0xE50F285D = Complete the elite challenge for The Cayo Perico Heist to earn $200,000.
+	0xE50F285D = Complete the elite challenge for The Cayo Norman Heist to earn $200,000.
 	0xE51B8538 = Search the ~HUD_COLOUR_YELLOW~area~s~ for ~a~.
 	0xE51BC4BC = A Submersible boat has reportedly been stolen in the ~a~ area. CCTV has indicated known criminal ~a~ may be involved.
 	0xE51BE429 = Meth
@@ -43155,7 +43221,7 @@
 	0xE854F5E3 = This Mobile Operation is unavailable while you are taking part in another mission.
 	0xE858D206 = Military
 	0xE858EAF3 = Deliver the ~a~ to ~HUD_COLOUR_YELLOW~Liquor Ace.~s~
-	0xE863B6AC = ~a~Complete the Elite Challenge for The Cayo Perico Heist
+	0xE863B6AC = ~a~Complete the Elite Challenge for The Cayo Norman Heist
 	0xE863F637 = Personal Cash:
 	0xE865F7D6 = PLAY/PAUSE
 	0xE868EC80 = The Champion
@@ -43365,7 +43431,7 @@
 	0xE23619D8 = SuperVolito
 	0xE24146D1 = Congratulations!~n~You won a Trophy for completing all challenges in 'Space Monkey 3: Bananas Gone Bad'.
 	0xE25084B2 = Eugene
-	0xE25626CF = Find and scope secondary targets that can be stolen during The Cayo Perico Heist. These can be sold to the buyer alongside the primary target, and come in a variety of types that can be found across the whole of Cayo Perico:~n~- Cash~n~- Weed~n~- Cocaine~n~- Gold~n~- Paintings~n~
+	0xE25626CF = Find and scope secondary targets that can be stolen during The Cayo Norman Heist. These can be sold to the buyer alongside the primary target, and come in a variety of types that can be found across the whole of Cayo Norman:~n~- Cash~n~- Weed~n~- Cocaine~n~- Gold~n~- Paintings~n~
 	0xE26663CE = Special Delivery
 	0xE26975C0 = Enemies
 	0xE27215B6 = TERRORBYTE
@@ -43631,7 +43697,7 @@
 	0xEA3D49C2 = You win 4000 shotgun rounds.
 	0xEA3EE586 = Damaging the lowriders will reduce the cash earned for this mission.
 	0xEA3F5E3A = Your VIP quit the session
-	0xEA3F87D7 = Mission Details:~n~Steal unmarked weapons that can be used during The Cayo Perico Heist~n~~n~Heist Impact:~n~Access to the following weapons:~n~- Assault Rifle Mk II~n~- Pistol MKII~n~- Pipe Bombs~n~- Machete
+	0xEA3F87D7 = Mission Details:~n~Steal unmarked weapons that can be used during The Cayo Norman Heist~n~~n~Heist Impact:~n~Access to the following weapons:~n~- Assault Rifle Mk II~n~- Pistol MKII~n~- Pipe Bombs~n~- Machete
 	0xEA4C5CE1 = New vehicle mods
 	0xEA4C391E = Select Node
 	0xEA4D048A = Euro Bumper
@@ -44280,7 +44346,7 @@
 	0xED6333C1 = You were unable to deliver the weapon cases
 	0xED6436BF = You earned an additional wage payment for helping your CEO export Vehicle Cargo.
 	0xED29222A = Your profile does not have the correct permissions to access Rockstar Games Online Services.
-	0xED33131F = Cayo Perico
+	0xED33131F = Cayo Norman
 	0xED42376F = Fortified
 	0xED49656C = ~a~~s~ destroyed some Sea Doos.
 	0xED68527B = Gunrunner
@@ -44443,7 +44509,7 @@
 	0xEE89A392 = You have chosen a lock on targeting mode. In GTA Online you will be matched with gamepad players also using this mode. If you use Keyboard / Mouse controls this may put you at a disadvantage.
 	0xEE96E6A2 = Bowling
 	0xEE161BB5 = Make style choices to tailor your appearance. You can buy clothes in stores across California to customize your look further.
-	0xEE235FE4 = After failing a Prep work mission, a planning room invite will be sent to your phone. Accept this invite to return to your Kosatka and continue with The Cayo Perico Heist.
+	0xEE235FE4 = After failing a Prep work mission, a planning room invite will be sent to your phone. Accept this invite to return to your Kosatka and continue with The Cayo Norman Heist.
 	0xEE263FEA = The Newbie
 	0xEE391FC1 = Hard Mode Event
 	0xEE418FE2 = Please wait until a buyer can be found for your vehicles.
@@ -44589,7 +44655,7 @@
 	0xEF4CA5E2 = NOTEXTNOTEXTNOTEXT
 	0xEF4D0CE2 = ~a~ delivered
 	0xEF4F8123 = Cowl Induction Hood
-	0xEF5ABB88 = Scope out all entry points into El Rubio's compound on Cayo Perico.
+	0xEF5ABB88 = Scope out all entry points into El Rubio's compound on Cayo Norman.
 	0xEF5E676F = 3 new items
 	0xEF5FBBEA = ~BLIP_INFO_ICON~ If you have a Rockstar Games account, you can take photos in game at any time and send them to rockstargame.com.
 	0xEF6AB527 = Desert Shores Airfield
@@ -44615,7 +44681,7 @@
 	0xEF20E244 = Aborting Hack
 	0xEF22A9BD = Send friend request
 	0xEF29E978 = Wheel Cam
-	0xEF29F59F = Acquire an approach vehicle to get to Cayo Perico
+	0xEF29F59F = Acquire an approach vehicle to get to Cayo Norman
 	0xEF32F2A9 = RANK UP
 	0xEF33BDE4 = Apt: Power St 3
 	0xEF41E087 = CASHING OUT
@@ -44766,12 +44832,12 @@
 	0xF01748E3 = Destroy the ~a~.
 	0xF0178B14 = Wait for ~a~ to start the Shooting Range.~n~~a~ - Joined
 	0xF017DBE6 = Drive El Rubio and Dave to the beach party to meet up with Keinemusik.
-	0xF0189E14 = Win Assault on Cayo Perico to unlock the trade price for this vehicle.
+	0xF0189E14 = Win Assault on Cayo Norman to unlock the trade price for this vehicle.
 	0xF019ABC2 = You need to be a CEO to manage this business.~n~Press ~INPUT_SCRIPT_RLEFT~ to register as a CEO.
 	0xF01BF790 = the module
 	0xF01FCBE5 = Shark Cards
 	0xF022C0C7 = Pass Defend safehouse as the defending gang.
-	0xF025A723 = Titan
+	0xF025A723 = Lockheed C-130 Hercules
 	0xF027C8B8 = <C>~a~</C>~s~ collected Business Battle Goods.
 	0xF02CF183 = The Jeep Freecrawler is now available on legendarymotorsport.net.
 	0xF0300E94 = Go to the Fleeca on ~HUD_COLOUR_YELLOW~Topanga Canyon.
@@ -44783,7 +44849,7 @@
 	0xF03BD5E9 = 24th
 	0xF03C0308 = Press ~INPUT_CONTEXT~ to view the Security Camera.
 	0xF03C51AB = ~a~~s~ obtained the hacker's wallet and address.
-	0xF03CB5A3 = Complete a bonus objective during Assault on Cayo Perico to unlock the trade price for this vehicle.
+	0xF03CB5A3 = Complete a bonus objective during Assault on Cayo Norman to unlock the trade price for this vehicle.
 	0xF03FE7A6 = Previous Slot
 	0xF040837C = Patchy
 	0xF040A84B = You are unable to earn any more RP from dancing today.
@@ -45105,7 +45171,7 @@
 	0xF3B12A1D = Circle Beard
 	0xF3B20CAA = Press ~INPUT_CONTEXT~ to collect the infiltration equipment.
 	0xF3B60F0C = FUTURE SHOCK SLAMVAN
-	0xF3B161E7 = A Titan aircraft has reportedly been stolen in the ~a~ area. Police are attempting to track it's location and the main suspect ~a~.
+	0xF3B161E7 = A Lockheed C-130 Hercules aircraft has reportedly been stolen in the ~a~ area. Police are attempting to track it's location and the main suspect ~a~.
 	0xF3B478EB = ~a~ eliminated
 	0xF3BF11AD = You are already carrying some Supplies.
 	0xF3BF23A9 = Setup: Hit and Run
@@ -45214,7 +45280,7 @@
 	0xF5A85F9C = Your techs might have something. Get back to the lab and look at the fruits of their research.
 	0xF5A88B37 = You delivered the ~a~.
 	0xF5A7600C = Grab a trash bag from the rear of the ~HUD_COLOUR_BLUE~Trashmaster.~s~
-	0xF5AA8D94 = Cayo Perico Series
+	0xF5AA8D94 = Cayo Norman Series
 	0xF5AA8FC0 = Exit
 	0xF5AA73AD = Police Station
 	0xF5AA1641 = Are you sure you'd like to rebook ~a~ for $~1~ and make him your resident DJ?
@@ -45375,7 +45441,7 @@
 	0xF7C114E3 = You can't enter Eclipse Blvd Garage while acquiring goods for a Hangar.
 	0xF7C95043 = Join the GTA Online action immediately.
 	0xF7CAA679 = Your Avenger has been returned to storage.
-	0xF7CDB0E8 = Mission Details:~n~Steal unmarked weapons that can be used during The Cayo Perico Heist~n~~n~Heist Impact:~n~Access to the following weapons:~n~- Military Rifle~n~- Pistol .50~n~- Sticky Bombs~n~- Knuckle Duster
+	0xF7CDB0E8 = Mission Details:~n~Steal unmarked weapons that can be used during The Cayo Norman Heist~n~~n~Heist Impact:~n~Access to the following weapons:~n~- Military Rifle~n~- Pistol .50~n~- Sticky Bombs~n~- Knuckle Duster
 	0xF7D5ED4E = No way!  You is out of your tree Trevorrr!  Here's a real test tho...dropping an elk with a sniper rifle WITHOUT using the scope!!!  $~1~ for being such a sick bastard!
 	0xF7D23FB9 = Showroom
 	0xF7D99E23 = chakra stones
@@ -45465,7 +45531,7 @@
 	0xF8ED267E = Take out the ~HUD_COLOUR_RED~captain.~s~
 	0xF8EDD073 = ~HUD_COLOUR_WHITE~You ended ~a~.
 	0xF8EE29BC = My name is Saeeda.  I wanted to thank you again for chasing after that man who stole my car. ~nrt~  I am extremely grateful.  It's not the car that matters – I am insured after all – as much as the fact that you stopped to help a person in need.  My family came to the USA 20 years ago with $50 to our name and, thanks to a little hard work and a lot of ruthless business tactics, we now run a very successful tailoring business with supply contracts at many of the high-end department stores, including Ponsonbys.   All too often these days, the American Dream is reserved not for those who love thy neighbor but for those who stab thy neighbor in the back, which leads me to believe that you're probably not a rich man.  Plus I really need to get my karma back on track so, as a small token of my gratitude, I have sent one of our top-selling men's suits to your house.  If it doesn't fit, remember it's the thought that counts.  Take care,Saeeda~nrt~
-	0xF8EEEDCE = Find the Madrazo Files on Cayo Perico
+	0xF8EEEDCE = Find the Madrazo Files on Cayo Norman
 	0xF8F3A06E = frankie@eyefind.info
 	0xF8F6FEB0 = Collect the ~HUD_COLOUR_BLUE~vehicle.~s~
 	0xF8F8C4F1 = AMMO
@@ -45541,7 +45607,7 @@
 	0xF9EC0685 = Shop
 	0xF9ED54F3 = LAPD Maverick Airlifts Hitman To Central Los Angeles Medical Center For Surgery
 	0xF9EE3D9B = Dagnabbit!
-	0xF9EFEB40 = Unavailable: The Cayo Perico Heist is not currently active.
+	0xF9EFEB40 = Unavailable: The Cayo Norman Heist is not currently active.
 	0xF9F0E033 = Go to Franklin's office to complete this contract.
 	0xF9F2BF86 = SEND MESSAGE TO PLAYER
 	0xF9F7CE67 = Jobs are currently unavailable.
@@ -45716,7 +45782,7 @@
 	0xF45B8BA2 = ASBO
 	0xF45E05EF = Chevrolet Brutus Hell Chambers set
 	0xF46A88FF = 4th
-	0xF46ADDBE = Contaminating the island's water supply using this powder will weaken El Rubio's guards on The Cayo Perico Heist.
+	0xF46ADDBE = Contaminating the island's water supply using this powder will weaken El Rubio's guards on The Cayo Norman Heist.
 	0xF46B9EB3 = Use your phone to take a photo of the ~a~.
 	0xF46BAE8D = targets
 	0xF46EFC56 = Select drainage tunnel
@@ -45751,7 +45817,7 @@
 	0xF53DE682 = Medium
 	0xF54A3F6E = Enter the elevator ~BLIP_ELEVATOR~ to see your new Penthouse.
 	0xF54AB974 = Act III
-	0xF54C49D8 = Steal a total of $1,000,000 in secondary targets during The Cayo Perico Heist.
+	0xF54C49D8 = Steal a total of $1,000,000 in secondary targets during The Cayo Norman Heist.
 	0xF54EF2D0 = Access to the creators has been disabled due to Member Content restriction in Privacy settings.
 	0xF55A8C64 = Squatch Bait
 	0xF55BDD8A = Deliver the research data to the Bunker
@@ -45767,7 +45833,7 @@
 	0xF58A18E0 = The time has expired but the area is being captured. Eliminate the attackers in the area before they capture it to win.
 	0xF58AE366 = Stay out of the Cops ~HUD_COLOUR_RED~~BLIP_COP_CAR~~s~ line of sight to avoid being busted.
 	0xF58B07DE = Protect the Vehicles ~HUD_COLOUR_BLUE~~BLIP_SPORTS_CAR~~s~ until the pink slips have been collected and then deliver them to the buyer.
-	0xF58CB02E = Participate in Assault on Cayo Perico
+	0xF58CB02E = Participate in Assault on Cayo Norman
 	0xF58DC792 = It's A Stick Up
 	0xF58E23A4 = Lowrider Wheels Set
 	0xF59D092E = 1893 Bakersfield Ave
@@ -45974,7 +46040,7 @@
 	0xF257B418 = You must be logged in to Rockstar Games to play Grand Theft Auto V.
 	0xF258CB11 = This Associate is currently busy.
 	0xF261B739 = The client ~a~ ~s~will die when he runs out of health.
-	0xF261CDB9 = ~a~Win Assault on Cayo Perico ~1~ times
+	0xF261CDB9 = ~a~Win Assault on Cayo Norman ~1~ times
 	0xF268CACC = You must be a member of the LA Car Meet to enter the Test Track.
 	0xF273FBFD = Death Race
 	0xF275D0BE = You left the Head-to-Head
@@ -46149,7 +46215,7 @@
 	0xF847E051 = Exit Disguise
 	0xF850B57E = Collect the valuables ~HUD_COLOUR_GREEN~~BLIP_ASSAULT_PACKAGE~~s~ inside the container. Continue opening more containers to locate the remaining valuables.
 	0xF854FD60 = Antennas repaired: ~1~/10
-	0xF856C43A = Fill a Titan with players and fly it
+	0xF856C43A = Fill a Lockheed C-130 Hercules with players and fly it
 	0xF863E436 = You are unable to access the Mobile Operations Center in this area. Move the Mobile Operations Center to a suitable area.
 	0xF865AB7B = Create a Transform Stunt Race. Transforming vehicles, cars, planes and boats. Anything goes in a transform race.
 	0xF865BEC8 = This is the Research area. Assign staff members here to unlock a range of weapon and vehicle modifications over time, making them available for purchase. In order to perform research supplies will be used.
@@ -46223,7 +46289,7 @@
 	0xF2185C3F = Plant the ~r~explosives.~s~
 	0xF2205D82 = You can't renovate your Bunker while on this mission.
 	0xF2214DFE = STROMBERGS
-	0xF2216B93 = Destroy all of El Rubio's Boeing MH-6M Little Birds ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ that are due to be transported to Cayo Perico in order to ensure he has no air support during The Cayo Perico Heist.
+	0xF2216B93 = Destroy all of El Rubio's Boeing MH-6M Little Birds ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ that are due to be transported to Cayo Norman in order to ensure he has no air support during The Cayo Norman Heist.
 	0xF2219DAF = This Challenge cannot run as you are on a cooldown.
 	0xF2245DC3 = Lake Casitas
 	0xF2263EE1 = COMPLETED
@@ -46570,7 +46636,7 @@
 	0xF4694461 = Richards Jr. and Leonora had a much-publicized falling out over some disparaging comments she made about him during interviews after the release of 'Rum Runner'. Many have focused in on an angry statement that Solomon made to reporters - "Two minutes of hamming it up in a wheelchair and suddenly she thinks she's got talent – I've seen brisket with more charm"- and the possible connection to the unique 'messaging' that the killer chose when staging the body. Maybe also a reason why his father David spoke of a confession letter, but wouldn't name the murderer?
 	0xF4724902 = Hack the target.
 	0xF4726707 = Broker
-	0xF4754729 = Steal El Rubio's prized weapon during The Cayo Perico Heist.
+	0xF4754729 = Steal El Rubio's prized weapon during The Cayo Norman Heist.
 	0xF4935343 = 28th
 	0xF4942035 = The Maserati
 	0xF5196793 = Cholla Rd
@@ -47056,7 +47122,7 @@
 	0xFC7C4B6D = I swear. You know Michael was a snake but he was my friend and I don't kill people, even ones who get me wrapped up in shit like he did.
 	0xFC7C78D7 = Terminal Island
 	0xFC7D60DE = Hey. Dad told me you could help with a little bit of "family business". There's a club at The Diamond called The Music Locker. Meet me there. Trust me, you want to be a part of this. Miguel Madrazo.
-	0xFC7DD862 = Complete The Cayo Perico Heist on Hard and without losing a life to earn $200,000.
+	0xFC7DD862 = Complete The Cayo Norman Heist on Hard and without losing a life to earn $200,000.
 	0xFC7EB34B = Blue Dream
 	0xFC8CB6E4 = You stashed the Nissan Z RZ34.
 	0xFC8D6F59 = H&M: cheap and cheerful ad campaign to feature talking frog.
@@ -47240,7 +47306,7 @@
 	0xFD4BCBB1 = You dropped some Business Supplies.
 	0xFD4CE58E = Service Pack:
 	0xFD4D096F = the Chemicals
-	0xFD4D0A0B = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Complete 1 race in the Cayo Perico Series.~n~- Complete Reporting for Duty as leader.
+	0xFD4D0A0B = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Complete 1 race in the Cayo Norman Series.~n~- Complete Reporting for Duty as leader.
 	0xFD4DA032 = police station
 	0xFD4EA65D = Our esteemed hacker has told me that the vehicle's been moved from the Bunker Hill. Keep looking, we still need Dodge Chargers if we're going to do this thing!
 	0xFD4F21B8 = The bank manager has been alerted.
@@ -47391,7 +47457,7 @@
 	0xFDFB3FE5 = Exit the Casino.
 	0xFDFE50E4 = Your Personal Vehicle has been returned to your Bunker.
 	0xFE01C3BA = Gold Snap Trap Glory
-	0xFE020740 = Invite to Cayo Perico Beach Party
+	0xFE020740 = Invite to Cayo Norman Beach Party
 	0xFE02CB77 = Not available while inside the Bunker.
 	0xFE02F7DA = Loading Benchmark Tests
 	0xFE0402FC = Press ~INPUT_VEH_HORN~ to signal the high roller to enter the vehicle.
