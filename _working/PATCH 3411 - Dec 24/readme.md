@@ -6,4 +6,5 @@ Vanilla
 File Size: 3503 KB
 
 Modded
-File Size:
+File Size: 3520 KB 
+OXT Size: 3997 KB
