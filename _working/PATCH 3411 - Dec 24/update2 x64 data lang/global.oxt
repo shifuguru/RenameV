@@ -1759,7 +1759,7 @@
 	0x08F05FA9 = Press ~INPUT_CONTEXT~ to access reception services.
 	0x08F7ADB3 = You delivered a Zodiac Hurricane CZ7.
 	0x08F8E503 = Make 5 deliveries for Pizza This...
-	0x08F18BD8 = XLS
+	0x08F18BD8 = GL-Class
 	0x08F47AC1 = That Kaman K-16B nearby has the guns you'll need to take down the jet. She'll also land on water so should come in handy during the retrieval.
 	0x08F87EE5 = Enter the ~HUD_COLOUR_YELLOW~clubhouse.~s~
 	0x08F195E0 = MC Deaths
@@ -2886,7 +2886,7 @@
 	0x0ED4A6E9 = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_79/IE_TEXTVECH_79' vspace='0' width='252' height='150'/> ~nrt~
 	0x0ED6ED30 = Press ~INPUT_CONTEXT~ to access the Finale Screen.
 	0x0ED8A8CE = Faded Light Blue Regular Fit
-	0x0ED8D6BC = Should be some flamingos and a red BF Club out front?
+	0x0ED8D6BC = Should be some flamingos and a red VW Golf out front?
 	0x0ED8FAB1 = You will need a sniper rifle and ammo.
 	0x0ED47B54 = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_82/IE_TEXTVECH_82' vspace='0' width='252' height='150'/> ~nrt~
 	0x0ED285A7 = Pink Diamond
@@ -6731,7 +6731,7 @@
 	0x4AB99544 = You already own an Arena Workshop, purchasing this one will trade in your old one. The trade in will ~a~ you $~1~.
 	0x4ABC8643 = Pale Blue Open-Face Helmet
 	0x4ABD6B9B = Press ~INPUT_CONTEXT~ to play Republican Space Rangers.
-	0x4ABD79B1 = The following Criminal Enterprise Starter Pack content can be acquired for free:~n~~n~Properties:~n~-Chase Bank West Executive Office~n~-Pfeiffer Big Sur State Park Bunker~n~-Great Chaparral Biker Clubhouse~n~-Mojave Desert Counterfeit Cash Factory~n~-1561 San Vitas Street Apartment~n~-1337 Exceptionalists Way 10-Car Garage~n~~n~Vehicles:~n~-BF Dune FAV~n~-Ducati 1199 Panigale~n~-Audi Sport Quattro S1~n~-Eurocopter EC130~n~-Harley-Davidson Zombie Chopper~n~-Ferrari LaFerrari~n~-Rolls-Royce Wraith~n~-Dodge Viper~n~-Chevrolet Corvette C2~n~-Bentley EXP 9 F~n~~n~Weapons:~n~-Marksman Rifle~n~-Compact Rifle~n~-Compact Grenade Launcher~n~~n~Character Customization:~n~-Outfits: Import/Export~n~-Outfits: Stuntman Suits~n~-Outfits: Racing Suits~n~-Outfits: Biker Suits~n~-Biker Tattoos ~s~
+	0x4ABD79B1 = The following Criminal Enterprise Starter Pack content can be acquired for free:~n~~n~Properties:~n~-Chase Bank West Executive Office~n~-Pfeiffer Big Sur State Park Bunker~n~-Great Chaparral Biker Clubhouse~n~-Mojave Desert Counterfeit Cash Factory~n~-1561 San Vitas Street Apartment~n~-1337 Exceptionalists Way 10-Car Garage~n~~n~Vehicles:~n~-Chenowth 2LW~n~-Ducati 1199 Panigale~n~-Audi Sport Quattro S1~n~-Eurocopter EC130~n~-Harley-Davidson Zombie Chopper~n~-Ferrari LaFerrari~n~-Rolls-Royce Wraith~n~-Dodge Viper~n~-Chevrolet Corvette C2~n~-Bentley EXP 9 F~n~~n~Weapons:~n~-Marksman Rifle~n~-Compact Rifle~n~-Compact Grenade Launcher~n~~n~Character Customization:~n~-Outfits: Import/Export~n~-Outfits: Stuntman Suits~n~-Outfits: Racing Suits~n~-Outfits: Biker Suits~n~-Biker Tattoos ~s~
 	0x4ABEF7B2 = Hey, partner, we been workin hard! The safe down at the office is overflowing. Come by and empty it when you're free. Then we can fill it right back up again!
 	0x4AC0CDCF = KEYPAD
 	0x4AC9CEEB = 0
@@ -6972,7 +6972,7 @@
 	0x4BF730EE = Photo of Target ~nrt~ <img src='img://MP_SND_TARGET_19/MP_SND_TARGET_19' vspace='0' width='256' height='128'/> ~nrt~
 	0x4BFA2C70 = Press ~INPUT_CONTEXT~ to register as a SecuroServ CEO and gain access to the Agency network.
 	0x4BFC6D63 = Swift
-	0x4BFF6CE9 = Dune FAV 7.62mm Minigun
+	0x4BFF6CE9 = Chenowth 2LW 7.62mm Minigun
 	0x4C00085F = ~a~ ~s~Weapons are now visible to all players in session.
 	0x4C0197D2 = @cowboy_becky Ive made peace with it if I think of him as my dads son it dont feel so weird luv dont have boundaries on an alligator farm
 	0x4C020F73 = Graffiti Large Traffic Cone 3
@@ -8813,7 +8813,7 @@
 	0x5FBDC4DE = Adds a Martin Jetpack P12 to the Avenger hold.
 	0x5FBE0861 = Copy Audio (Press)
 	0x5FBE801C = Battle Spears
-	0x5FC6C726 = purchasing all the following Gunrunning vehicles:~n~APC~n~Dune FAV~n~Half-track~n~Honda XR 500~n~Weaponized Ford Mustang Hoonicorn RTR '65~n~Anti-Aircraft Trailer
+	0x5FC6C726 = purchasing all the following Gunrunning vehicles:~n~APC~n~Chenowth 2LW~n~Half-track~n~Honda XR 500~n~Weaponized Ford Mustang Hoonicorn RTR '65~n~Anti-Aircraft Trailer
 	0x5FC9D2CE = Client
 	0x5FC38C2F = Trimmed Beard
 	0x5FC94FEC = Congratulations!~n~You won $~1~.
@@ -11048,7 +11048,7 @@
 	0x7F8607A2 = Harley-Davidson MC Lilac Helmet
 	0x7F11356B = You are already in the selected player's Crew.
 	0x7F28089F = Use the SecuroServ App to activate the EMP. Press ~INPUT_CELLPHONE_UP~ to open your phone and select the app.
-	0x7F34142A = Dune FAVs
+	0x7F34142A = Chenowth 2LWs
 	0x7F36811E = Participate in a Sea Race
 	0x7F92213A = Fade In
 	0x7F92362F = The Lurker
@@ -11462,7 +11462,7 @@
 	0x8BBA1608 = Leave the ~HUD_COLOUR_YELLOW~nightclub.~s~
 	0x8BBAF9A0 = Lost MC Sergeants
 	0x8BBD30C0 = (BICYCLE)
-	0x8BBF3C20 = VW Dune FAV
+	0x8BBF3C20 = Chenowth 2LW
 	0x8BC07B3B = A waypoint to your clubhouse has been added to your GPS.
 	0x8BC0A192 = Race to the Fleeca on Santa Monica Boulevard
 	0x8BC939A3 = The Project Breakaway File
@@ -12997,7 +12997,7 @@
 	0x9DA48D64 = ~a~ ~a~ ~a~ (Scrapped)
 	0x9DA63C35 = Boost Upgrade 60%
 	0x9DAB94DC = the Chevrolet Chevelle '70 Custom
-	0x9DABA869 = History shows that where an army fails, a surgical strike can succeed. All you need is a couple of well-drilled sociopaths, a fresh batch of experimental drugs, a cache of depleted uranium munitions, and a lightweight, armored sandrail with a machine gun bolted to the dash. We can't officially comment on the rest, but we can assure you the Dune FAV is going to be all the transport you need.
+	0x9DABA869 = History shows that where an army fails, a surgical strike can succeed. All you need is a couple of well-drilled sociopaths, a fresh batch of experimental drugs, a cache of depleted uranium munitions, and a lightweight, armored sandrail with a machine gun bolted to the dash. We can't officially comment on the rest, but we can assure you the Chenowth 2LW is going to be all the transport you need.
 	0x9DAC2FA2 = Hood
 	0x9DACCC1F = Show car destroyed.
 	0x9DAE1E11 = Weapon Loadout
@@ -13190,7 +13190,7 @@
 	0x9EA3EFE3 = Stylish, roomy, easy to handle with a cruise speed of 130 knots, this 4-seat single-engine light helicopter is popular with both private pilots and charter companies. Featuring an enclosed tail fan, the Eurocopter EC130 is one of the quietest helicopters on the market today. Especially great for the man who needs to get to work fast but can't bear the moaning of neighbors complaining about noise and rotor wash.
 	0x9EA55CD3 = The Supplies were not delivered to the Bunker
 	0x9EA55F51 = Slashers
-	0x9EA81DFE = Dune FAV
+	0x9EA81DFE = Chenowth 2LW
 	0x9EA507A6 = The Nightclub Limo ~HUD_COLOUR_YELLOW~~BLIP_GANG_VEHICLE~~s~ has been delivered nearby.
 	0x9EA5092E = Members of opposing Crews have come to blows. ~a~ from ~a~ is thought to have murdered ~a~ from the ~a~ Crew.
 	0x9EAA455F = Steal the Barrage ~HUD_COLOUR_BLUE~~BLIP_CAR_ROBBERY_PREP~~s~ fitted with a transponder and deliver it to the Auto Shop.
@@ -17640,7 +17640,7 @@
 	0x69BA47AE = Smuggler's Run
 	0x69BA1509 = What this Melrose apartment lacks in space and all-round condition, it makes up for in proximity to the local liquor store. Drown in debt and your sorrows.
 	0x69BAD205 = Only available once the VIP Style is set.
-	0x69BC9F74 = Oscar has provided a Dune FAV ~HUD_COLOUR_GREY~~BLIP_GR_WVM_4~~s~ that can help destroy the rival shipments.
+	0x69BC9F74 = Oscar has provided a Chenowth 2LW ~HUD_COLOUR_GREY~~BLIP_GR_WVM_4~~s~ that can help destroy the rival shipments.
 	0x69BED116 = This Club activity cannot run as a Freemode Event is running.
 	0x69BF85F8 = Hack a ~HUD_COLOUR_BLUE~van.~s~
 	0x69C3A89F = ~a~ eliminated the target.
@@ -18994,7 +18994,7 @@
 	0x87D703B5 = Front Seat
 	0x87D30231 = DirectX Version
 	0x87DA4E7E = Install the customer's requested wheels.
-	0x87DD70DB = Dune FAV
+	0x87DD70DB = Chenowth 2LW
 	0x87DE24C7 = Keep performing like that, and you will keep me happy.
 	0x87DE57D3 = RE:RE:RE:Will you turn into a prince?
 	0x87E0ADDF = Three S's great stock pick: Slaughter, Slaughter and Slaughter.
@@ -24442,7 +24442,7 @@
 	0x2813E829 = The Ballad of Rocco
 	0x2819D42D = Press ~INPUT_VEH_ACCELERATE~ to exit the Kosatka.~n~Press ~INPUT_CONTEXT~ to modify your aircraft.
 	0x2822FA49 = ~BLIP_INFO_ICON~ You can take a Snapmatic photo at any point in the Clip Editor by pressing ~INPUT_REPLAY_SNAPMATIC_PHOTO~.
-	0x2823D0EF = Purchase the 40mm Grenade Launcher for the VW Dune FAV at a Vehicle Workshop inside a Mobile Operations Center or Avenger.
+	0x2823D0EF = Purchase the 40mm Grenade Launcher for the Chenowth 2LW at a Vehicle Workshop inside a Mobile Operations Center or Avenger.
 	0x2824DAD6 = You can't renovate your Penthouse while on this mission.
 	0x2826BD2B = Wait for your team to reach the CIA Facility.
 	0x2827EE31 = ~INPUT_SCRIPT_RLEFT~ Show Vehicle Options
@@ -27133,7 +27133,7 @@
 	0x45455D1F = The other team
 	0x45487EC7 = Gunrunning
 	0x45516E76 = G's Cache
-	0x45594BF7 = The Dune FAV is equipped with a rear deployed proximity mine. Press ~INPUT_VEH_HORN~ to drop a mine and take out pursuing enemies.
+	0x45594BF7 = The Chenowth 2LW is equipped with a rear deployed proximity mine. Press ~INPUT_VEH_HORN~ to drop a mine and take out pursuing enemies.
 	0x45594D49 = Spear & Axe
 	0x45612B97 = Participate in the Special Race Series
 	0x45698F25 = Burgershot gets F from health food inspectors.
@@ -27393,7 +27393,7 @@
 	0x60155C2E = Enhance and extend your GTA Online experience with over 100 million other players worldwide. Join a Crew, take on exclusive Jobs, find your friends, discover new missions, and more. The best part? It's free.
 	0x60178E4E = Call Me Daylight
 	0x60235B35 = Are you sure you would like to assign all staff to Manufacturing?
-	0x60345FFA = An upgrade is now available for the Annis Euros X32 at Hao's Special Works.
+	0x60345FFA = An upgrade is now available for the Nissan 300ZX at Hao's Special Works.
 	0x60372A4B = Opium Nights Hotel
 	0x60476EB9 = Hold ~INPUT_FRONTEND_X~ to view the gun camera.
 	0x60563C13 = Ford Falcon XB GT Nightmare
@@ -33962,7 +33962,7 @@
 	0xB0F14DBA = Steal the ~HUD_COLOUR_RED~cash~s~ from the thief.
 	0xB0FB370E = Level 2 Security Pass
 	0xB0FBBA36 = Deliver the ~a~ to the ~b~buyer.
-	0xB0FBF7B9 = Dune FAV
+	0xB0FBF7B9 = Chenowth 2LW
 	0xB0FCCA9E = Break into the ~HUD_COLOUR_YELLOW~warehouse.~s~
 	0xB0FDE19E = Strike Team Level 2
 	0xB0FF905E = Knuckleduster Tee
@@ -35443,7 +35443,7 @@
 	0xB8686C38 = Happy holidays from Rockstar, have a gift on us:~n~Abominable Snowman mask~n~Set of Pajamas~n~Nice Cap~n~Carbine Rifle + 200 Rounds~n~Baseball Bat~n~Firework Launcher~n~5 x Firework rockets~n~10 x Sticky Bombs~n~15 x Grenades~n~3 x Proximity Mines~n~3 x Molotovs~n~Full Snacks~n~Full Armor added to inventory
 	0xB8704FB6 = target vehicle
 	0xB8803AE8 = A little bird told me the supplies are on the second floor. It also said something about heavy resistance, so pucker up.
-	0xB8842A44 = Valet guy lives in a place with some flamingos and a red BF Club out front.
+	0xB8842A44 = Valet guy lives in a place with some flamingos and a red VW Golf out front.
 	0xB8874D1D = West Coast Classics T-Shirt
 	0xB8878AF5 = Crate looted.
 	0xB8900F05 = Only the Boss can return this vehicle during a mission.
@@ -36481,7 +36481,7 @@
 	0xBDCFCB6B = Placeholder: This is where the changes will be listed.
 	0xBDD0E4B9 = Collect the ~a~
 	0xBDD2C715 = Caged In
-	0xBDD4A6F7 = Dune FAV
+	0xBDD4A6F7 = Chenowth 2LW
 	0xBDD6349C = You collected the Beechcraft T-6 Texan II.
 	0xBDD10068 = Board the ~a~.
 	0xBDDBE4B6 = ~a~ collected an antique.
@@ -36668,7 +36668,7 @@
 	0xBEEA08E1 = The buyer you're looking for drives a large orange pickup truck so he shouldn't be too hard to spot. I'll do my best to pinpoint him down further if I can though. I'll be in touch.
 	0xBEECD5AA = YI just had a near death exprnce - ima get a job and change my life. LOL. u gotta pay my hospital dollarz -Jizzle
 	0xBEEDC979 = Stock Arch Covers
-	0xBEEFF0DA = Remember the VW Dune FAV is sitting on Warstock awaiting purchase at the "I know somebody that knows somebody" discount price.
+	0xBEEFF0DA = Remember the Chenowth 2LW is sitting on Warstock awaiting purchase at the "I know somebody that knows somebody" discount price.
 	0xBEF046CB = 120 points
 	0xBEF9D814 = The signal jammer is almost ready. Keep those Terradyne Armored Vehicles close together if you want to stay hidden.
 	0xBEF9F36C = medium sized
@@ -37146,7 +37146,7 @@
 	0xC2A3B1C3 = You collected the military pass.
 	0xC2A54E20 = Push ~INPUT_MOVE_UP_ONLY~ and push ~INPUT_LOOK_DOWN_ONLY~ to dive underwater.
 	0xC2A429DF = Buried Stashes
-	0xC2A2058D = Purchase the 7.62mm Minigun for the VW Dune FAV at a Vehicle Workshop inside a Mobile Operations Center or Avenger.
+	0xC2A2058D = Purchase the 7.62mm Minigun for the Chenowth 2LW at a Vehicle Workshop inside a Mobile Operations Center or Avenger.
 	0xC2A72303 = Press ~INPUT_CONTEXT~ to play Republican Space Rangers using your VIP's casino membership.
 	0xC2ABA250 = The altimeter on the radar shows how high you are flying. Remain below the upper horizon line to avoid triggering the Global Signal countdown.
 	0xC2ACC1F6 = ~a~~HUD_COLOUR_WHITE~ popped ~a~.
@@ -39838,7 +39838,7 @@
 	0xCEFD7E42 = Running Riot
 	0xCEFF1CFE = MTL Cerberus War Spearheads set
 	0xCEFF5AD6 = MichaelLet go of that anger. It really is beneath you. Your friend, Isiah.~nrt~ PS in case you're wondering, the girl was exquisite. I'm going to a party tonight, full of other celebrities. The air up here, on top of the great mountain we call society, is wonderful. I miss our conversations, Michael, but I feel I've found my place.~nrt~
-	0xCF005113 = Missile Lock-On Jammer now available for the following vehicles at Agency Vehicle Workshops:~n~~n~- Mercedes-Benz 300SL Gullwing~n~- Porsche 997 GT2 RS~n~- Ferrari 250 GTO~n~- Lamborghini Murciélago~n~- Bentley Flying Spur '05~n~- Audi R8 Coupe~n~- Audi R8 Cabrio~n~- Annis Savestra~n~- Ocelot XA-21~n~- Annis S80RR~n~- Truffade Z-Type~n~- Bentley Flying Spur '05 (Armored)~n~- Gallivanter Baller LE (Armored)~n~- Lamborghini Centenario~n~- Toyota GR Supra~n~- Mazda 787B~n~- Oldsmobile 66 Club Sedan~n~- Porsche 992 Cabriolet~n~- Lotus C-01 Light Cycle~n~- Estrema Fulminea~n~- Porsche 992 Carrera~n~- Mercedes - AMG One~n~- Lamborghini Aventador SVJ~n~- De Tomaso P72~n~- Rimac Concept One~n~- Spyker C8 Aileron~n~- Lotus 3-Eleven~n~- VW Beetle Rat Rod~n~- Ducati 1098 R~n~- Yamaha YZ450F~n~- Yamaha YZ450F (Livery)~n~- Rune Cheburek~n~- Honda CBR1000RR~n~- Dodge Charger R/T '11~n~- Ducati 1098~n~- Buick Electra 225 hardtop~n~- Ford F-150~n~- Toyota AE86 Sprinter Trueno~n~- Harley Davidson Fat Bob~n~- Sportsmobile Classic 4×4~n~- Dodge Challenger SRT Demon~n~- Chevrolet Camaro ZL1~n~- Dodge Challenger SRT Demon Pursuit~n~- Dodge Monaco '78 Cruiser~n~- Pontiac Duke O'Death~n~- Aston Martin DB5~n~- Armstrong MT500~n~- Ford Crown Victoria Interceptor~n~- Chevrolet Impala SS Cruiser~n~- Chevrolet Impala '85 Cruiser~n~
+	0xCF005113 = Missile Lock-On Jammer now available for the following vehicles at Agency Vehicle Workshops:~n~~n~- Mercedes-Benz 300SL Gullwing~n~- Porsche 997 GT2 RS~n~- Ferrari 250 GTO~n~- Lamborghini Murciélago~n~- Bentley Flying Spur '05~n~- Audi R8 Coupe~n~- Audi R8 Cabrio~n~- Mazda RX3~n~- Ocelot XA-21~n~- Nissan R90C~n~- Truffade Z-Type~n~- Bentley Flying Spur '05 (Armored)~n~- Gallivanter Baller LE (Armored)~n~- Lamborghini Centenario~n~- Toyota GR Supra~n~- Mazda 787B~n~- Oldsmobile 66 Club Sedan~n~- Porsche 992 Cabriolet~n~- Lotus C-01 Light Cycle~n~- Estrema Fulminea~n~- Porsche 992 Carrera~n~- Mercedes - AMG One~n~- Lamborghini Aventador SVJ~n~- De Tomaso P72~n~- Rimac Concept One~n~- Spyker C8 Aileron~n~- Lotus 3-Eleven~n~- VW Beetle Rat Rod~n~- Ducati 1098 R~n~- Yamaha YZ450F~n~- Yamaha YZ450F (Livery)~n~- Rune Cheburek~n~- Honda CBR1000RR~n~- Dodge Charger R/T '11~n~- Ducati 1098~n~- Buick Electra 225 hardtop~n~- Ford F-150~n~- Toyota AE86 Sprinter Trueno~n~- Harley Davidson Fat Bob~n~- Sportsmobile Classic 4×4~n~- Dodge Challenger SRT Demon~n~- Chevrolet Camaro ZL1~n~- Dodge Challenger SRT Demon Pursuit~n~- Dodge Monaco '78 Cruiser~n~- Pontiac Duke O'Death~n~- Aston Martin DB5~n~- Armstrong MT500~n~- Ford Crown Victoria Interceptor~n~- Chevrolet Impala SS Cruiser~n~- Chevrolet Impala '85 Cruiser~n~
 	0xCF00927B = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_21/IE_TEXTVECH_21' vspace='0' width='252' height='150'/> ~nrt~
 	0xCF022CC4 = MTL Future Shock Cerberus
 	0xCF0321FD = Reinforced Armor
@@ -43012,7 +43012,7 @@
 	0xDEE011C1 = Copper Deco Earrings
 	0xDEE22E4C = Go to ~a~.
 	0xDEE34FFC = Search the ~HUD_COLOUR_YELLOW~docks~s~ for flares.
-	0xDEE192AF = Dune FAV 40mm Grenade Launcher
+	0xDEE192AF = Chenowth 2LW 40mm Grenade Launcher
 	0xDEE2021D = Deliver the ~a~~s~ to the ~HUD_COLOUR_YELLOW~Nightclub Garage.~s~
 	0xDEEA16E6 = The TASER Pulse is a non-lethal weapon that can be used to incapacitate enemies and other players.
 	0xDEEC6077 = Control Tower
@@ -43119,7 +43119,7 @@
 	0xDF5818E0 = You've been invoiced $~a~ for the repairs. That driver was loose.
 	0xDF6849B9 = //Loading...~n~~n~Stage:[finale]~n~......................................................................................................~n~&gt;/Mandatory prep work complete. Finale access granted. Planning phase can now be initiated.~n~To increase chance of success:~n~- Continue scoping for additional intel.~n~- Complete optional prep work.~n~&lt;\
 	0xDF7378D5 = the ~HUD_COLOUR_RED~Cadillac CTS~s~
-	0xDF8962BB = VW Dune FAV
+	0xDF8962BB = Chenowth 2LW
 	0xDF9496A1 = Dance to Moodymann's set in The Music Locker for 60 minutes.
 	0xDF28961B = ~INPUT_SCRIPT_RLEFT~ Boost intensity~n~~INPUT_SCRIPT_RDOWN~ Perform action~n~~INPUT_SCRIPT_PAD_UP~ Dance style: ~a~~n~~INPUT_SCRIPT_PAD_DOWN~ Switch action: ~a~~n~~INPUT_VEH_CIN_CAM~ Cinematic camera~n~~INPUT_SCRIPT_PAD_LEFT~ Hide controls~n~~INPUT_CURSOR_CANCEL~ Stop dancing
 	0xDF31714B = You collected the Piper PA-36 Pawnee Brave.
@@ -62895,10 +62895,10 @@
 	SCFEED_13B = ~a~ has blown up ~1~ vehicle in GTA Online. You've blown up ~1~.
 	SCFEED_14 = ~a~ published a new Job called ~a~.
 	SCHAFTER2 = W212
-	SCHAFTER3 = S 65 AMG
-	SCHAFTER4 = S 65 AMG LWB
-	SCHAFTER6 = S 65 AMG LWB (Armored)
-	SCHWARZE = E500
+	SCHAFTER3 = S65 AMG
+	SCHAFTER4 = S65 AMG LWB
+	SCHAFTER6 = S65 AMG LWB (Armored)
+	SCHWARZE = C63 AMG
 	SCHYSTER = Chrysler
 	SCLB_ACC = ACCURACY
 	SCLB_AVG_HEI = AVERAGE HEIGHT
@@ -63354,7 +63354,7 @@
 	SENORA = Senora Fwy
 	SENTINEL = E93
 	SENTINEL2 = E92
-	SERRANO = W164
+	SERRANO = M-Class W164
 	SG_ALD_DAM = The most recent save game appears to be damaged and cannot be loaded.
 	SG_ALD_SIGNIN = You have not signed in. You will need to sign in to save your progress and to be awarded Achievements. Do you want to sign in now?
 	SG_ALD_SIGN_AGN = You have not signed in. You will need to sign in to save your progress and to be awarded Achievements. Do you want to sign in now?
