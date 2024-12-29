@@ -9,13 +9,13 @@
 	<InitDatas>
 
 		<!-- ALBANY = CADILLAC -->
-		<!-- Albany Buccaneer = Cadillac Monte Carlo '72 -->
+		<!-- Albany Buccaneer = Chevrolet Monte Carlo '72 -->
 		<Item>
 			<modelName>buccaneer</modelName>
 			<txdName>buccaneer</txdName>
 			<handlingId>BUCCANEE</handlingId>
 			<gameName>BUCCANEE</gameName>
-			<vehicleMakeName>ALBANY</vehicleMakeName>
+			<vehicleMakeName>DECLASSE</vehicleMakeName><!-- Updated from ALBANY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
