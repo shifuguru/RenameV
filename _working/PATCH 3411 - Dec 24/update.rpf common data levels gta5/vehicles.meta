@@ -4078,7 +4078,7 @@
 			<txdName>rumpo2</txdName>
 			<handlingId>RUMPO2</handlingId>
 			<gameName>RUMPO</gameName>
-			<vehicleMakeName></vehicleMakeName> <!-- Updated from BRAVADO -->
+			<vehicleMakeName /> <!-- Updated from BRAVADO -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -5468,7 +5468,7 @@
 			<txdName>tiptruck2</txdName>
 			<handlingId>TIPTRUCK2</handlingId>
 			<gameName>TIPTRUCK2</gameName>
-			<vehicleMakeName>VAPID</vehicleMakeName><!-- Updated from BRUTE -->
+			<vehicleMakeName>VAPID</vehicleMakeName> <!-- Updated from BRUTE -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -5745,7 +5745,7 @@
 			<txdName>maverick</txdName>
 			<handlingId>MAVERICK</handlingId>
 			<gameName>MAVERICK</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from BUCKING -->
+			<vehicleMakeName /> <!-- Updated from BUCKING -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -10251,7 +10251,7 @@
 			<txdName>akuma</txdName>
 			<handlingId>AKUMA</handlingId>
 			<gameName>AKUMA</gameName>
-			<vehicleMakeName></vehicleMakeName> <!-- Updated from DINKA -->
+			<vehicleMakeName /> <!-- Updated from DINKA -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -10582,7 +10582,7 @@
 			<txdName>marquis</txdName>
 			<handlingId>MARQUIS</handlingId>
 			<gameName>MARQUIS</gameName>
-			<vehicleMakeName></vehicleMakeName> <!-- Updated from DINKA -->
+			<vehicleMakeName /> <!-- Updated from DINKA -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -12352,7 +12352,7 @@
 			<txdName>airtug</txdName>
 			<handlingId>AIRTUG</handlingId>
 			<gameName>AIRTUG</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from HVY -->
+			<vehicleMakeName />	<!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -12466,7 +12466,7 @@
 			<txdName>barracks</txdName>
 			<handlingId>BARRACKS</handlingId>
 			<gameName>BARRACKS</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from HVY -->
+			<vehicleMakeName /> <!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -12629,7 +12629,7 @@
 			<txdName>barracks2</txdName>
 			<handlingId>BARRACKS2</handlingId>
 			<gameName>BARRACKS2</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from HVY -->
+			<vehicleMakeName /> <!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -12766,7 +12766,7 @@
 			<txdName>biff</txdName>
 			<handlingId>BIFF</handlingId>
 			<gameName>BIFF</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from HVY -->
+			<vehicleMakeName /> <!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13027,7 +13027,7 @@
 			<txdName>cutter</txdName>
 			<handlingId>CUTTER</handlingId>
 			<gameName>CUTTER</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from HVY -->
+			<vehicleMakeName /> <!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13250,7 +13250,7 @@
 			<txdName>docktug</txdName>
 			<handlingId>DOCKTUG</handlingId>
 			<gameName>DOCKTUG</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from HVY -->
+			<vehicleMakeName /> <!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13505,7 +13505,7 @@
 			<txdName>handler</txdName>
 			<handlingId>HANDLER</handlingId>
 			<gameName>HANDLER</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from HVY -->
+			<vehicleMakeName /> <!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13625,7 +13625,7 @@
 			<txdName>mixer</txdName>
 			<handlingId>MIXER</handlingId>
 			<gameName>MIXER</gameName>
-			<vehicleMakeName>BRUTE</vehicleMakeName><!-- Updated from HVY -->
+			<vehicleMakeName>BRUTE</vehicleMakeName> <!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13748,7 +13748,7 @@
 			<txdName>mixer2</txdName>
 			<handlingId>MIXER2</handlingId>
 			<gameName>MIXER2</gameName>
-			<vehicleMakeName></vehicleMakeName> <!-- Updated from HVY -->
+			<vehicleMakeName />  <!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13871,7 +13871,7 @@
 			<txdName>ripley</txdName>
 			<handlingId>RIPLEY</handlingId>
 			<gameName>RIPLEY</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from HVY -->
+			<vehicleMakeName /> <!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -15170,7 +15170,7 @@
 			<txdName>velum</txdName>
 			<handlingId>VELUM</handlingId>
 			<gameName>VELUM</gameName>
-			<vehicleMakeName></vehicleMakeName> <!-- Updated from JOBUILT -->
+			<vehicleMakeName /> <!-- Updated from JOBUILT -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>va_cuban800</animConvRoofDictName>
@@ -17053,7 +17053,7 @@
 			<txdName>mule</txdName>
 			<handlingId>MULE</handlingId>
 			<gameName>MULE</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from MAIBATSU -->
+			<vehicleMakeName /> <!-- Updated from MAIBATSU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -17184,7 +17184,7 @@
 			<txdName>mule2</txdName>
 			<handlingId>MULE2</handlingId>
 			<gameName>MULE</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from MAIBATSU -->
+			<vehicleMakeName /> <!-- Updated from MAIBATSU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -17405,7 +17405,7 @@
 			<txdName>sanchez</txdName>
 			<handlingId>SANCHEZ</handlingId>
 			<gameName>SANCHEZ01</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from MAIBATSU -->
+			<vehicleMakeName /> <!-- Updated from MAIBATSU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -17521,7 +17521,7 @@
 			<txdName>sanchez2</txdName>
 			<handlingId>SANCHEZ2</handlingId>
 			<gameName>SANCHEZ02</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from MAIBATSU -->
+			<vehicleMakeName /> <!-- Updated from MAIBATSU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -17759,7 +17759,7 @@
 			<txdName>firetruk</txdName>
 			<handlingId>FIRETRUK</handlingId>
 			<gameName>FIRETRUK</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from MTL -->
+			<vehicleMakeName /> <!-- Updated from MTL -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18242,7 +18242,7 @@
 			<txdName>blazer</txdName>
 			<handlingId>BLAZER</handlingId>
 			<gameName>BLAZER</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from NAGASAKI -->
+			<vehicleMakeName /> <!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18351,7 +18351,7 @@
 			<txdName>blazer2</txdName>
 			<handlingId>BLAZER2</handlingId>
 			<gameName>BLAZER2</gameName>
-			<vehicleMakeName>DINKA</vehicleMakeName><!-- Updated from NAGASAKI -->
+			<vehicleMakeName>DINKA</vehicleMakeName> <!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18469,7 +18469,7 @@
 			<txdName>blazer3</txdName>
 			<handlingId>BLAZER3</handlingId>
 			<gameName>BLAZER03</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from NAGASAKI -->
+			<vehicleMakeName /> <!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18578,7 +18578,7 @@
 			<txdName>buzzard</txdName>
 			<handlingId>BUZZARD</handlingId>
 			<gameName>BUZZARD</gameName>
-			<vehicleMakeName>BOEING</vehicleMakeName><!-- Updated from NAGASAKI -->
+			<vehicleMakeName>BOEING</vehicleMakeName> <!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18703,7 +18703,7 @@
 			<txdName>buzzard2</txdName>
 			<handlingId>BUZZARD2</handlingId>
 			<gameName>BUZZARD2</gameName>
-			<vehicleMakeName>BOEING</vehicleMakeName><!-- Updated from NAGASAKI -->
+			<vehicleMakeName>BOEING</vehicleMakeName> <!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18828,7 +18828,7 @@
 			<txdName>caddy</txdName>
 			<handlingId>CADDY</handlingId>
 			<gameName>CADDY</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from NAGASAKI -->
+			<vehicleMakeName /> <!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18950,7 +18950,7 @@
 			<txdName>caddy2</txdName>
 			<handlingId>CADDY2</handlingId>
 			<gameName>CADDY</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from NAGASAKI -->
+			<vehicleMakeName /> <!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -19059,7 +19059,7 @@
 			<txdName>carbonrs</txdName>
 			<handlingId>CARBON</handlingId>
 			<gameName>CARBON</gameName>
-			<vehicleMakeName>PRINCIPL</vehicleMakeName><!-- Updated from NAGASAKI -->
+			<vehicleMakeName>PRINCIPL</vehicleMakeName> <!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -19170,7 +19170,7 @@
 			<txdName>dinghy</txdName>
 			<handlingId>DINGHY</handlingId>
 			<gameName>DINGHY</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from NAGASAKI -->
+			<vehicleMakeName /> <!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -19285,7 +19285,7 @@
 			<txdName>dinghy2</txdName>
 			<handlingId>DINGHY2</handlingId>
 			<gameName>DINGHY</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from NAGASAKI -->
+			<vehicleMakeName /> <!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -20200,7 +20200,7 @@
 			<txdName>bati</txdName>
 			<handlingId>BATI</handlingId>
 			<gameName>BATI</gameName>
-			<vehicleMakeName>PRINCIPL</vehicleMakeName><!-- Updated from PEGASSI -->
+			<vehicleMakeName>PRINCIPL</vehicleMakeName> <!-- Updated from PEGASSI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -20417,7 +20417,7 @@
 			<txdName>faggio2</txdName>
 			<handlingId>FAGGIO</handlingId>
 			<gameName>FAGGIO</gameName>
-			<vehicleMakeName>PIAGGIO</vehicleMakeName><!-- Updated from PEGASSI -->
+			<vehicleMakeName>PIAGGIO</vehicleMakeName> <!-- Updated from PEGASSI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -20748,7 +20748,7 @@
 			<txdName>ruffian</txdName>
 			<handlingId>RUFFIAN</handlingId>
 			<gameName>RUFFIAN</gameName>
-			<vehicleMakeName>PRINCIPL</vehicleMakeName><!-- Updated from PEGASSI -->
+			<vehicleMakeName>PRINCIPL</vehicleMakeName> <!-- Updated from PEGASSI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21306,7 +21306,7 @@
 			<txdName>jetmax</txdName>
 			<handlingId>JETMAX</handlingId>
 			<gameName>JETMAX</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from SHITZU -->
+			<vehicleMakeName /> <!-- Updated from SHITZU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21414,7 +21414,7 @@
 			<txdName>pcj</txdName>
 			<handlingId>PCJ</handlingId>
 			<gameName>PCJ</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from SHITZU -->
+			<vehicleMakeName /> <!-- Updated from SHITZU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21523,7 +21523,7 @@
 			<txdName>squalo</txdName>
 			<handlingId>SQUALO</handlingId>
 			<gameName>SQUALO</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from SHITZU -->
+			<vehicleMakeName /> <!-- Updated from SHITZU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21631,7 +21631,7 @@
 			<txdName>suntrap</txdName>
 			<handlingId>SUNTRAP</handlingId>
 			<gameName>SUNTRAP</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from SHITZU -->
+			<vehicleMakeName /> <!-- Updated from SHITZU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21741,7 +21741,7 @@
 			<txdName>tropic</txdName>
 			<handlingId>TROPIC</handlingId>
 			<gameName>TROPIC</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from SHITZU -->
+			<vehicleMakeName /> <!-- Updated from SHITZU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21852,7 +21852,7 @@
 			<txdName>vader</txdName>
 			<handlingId>VADER</handlingId>
 			<gameName>VADER</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from SHITZU -->
+			<vehicleMakeName /> <!-- Updated from SHITZU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -22194,7 +22194,7 @@
 			<txdName>tractor</txdName>
 			<handlingId>TRACTOR</handlingId>
 			<gameName>TRACTOR</gameName>
-			<vehicleMakeName>VAPID</vehicleMakeName><!-- Updated from STANLEY -->
+			<vehicleMakeName>VAPID</vehicleMakeName> <!-- Updated from STANLEY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -23473,7 +23473,7 @@
 			<txdName>benson</txdName>
 			<handlingId>BENSON</handlingId>
 			<gameName>BENSON</gameName>
-			<vehicleMakeName>INTERNATION</vehicleMakeName><!-- Updated from VAPID -->
+			<vehicleMakeName>INTERNATION</vehicleMakeName> <!-- Updated from VAPID -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -23596,7 +23596,7 @@
 			<txdName>bobcatxl</txdName>
 			<handlingId>BOBCATXL</handlingId>
 			<gameName>BOBCATXL</gameName>
-			<vehicleMakeName>DECLASSE</vehicleMakeName><!-- Updated from VAPID -->
+			<vehicleMakeName>DECLASSE</vehicleMakeName> <!-- Updated from VAPID -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -24918,7 +24918,7 @@
 			<txdName>scrap</txdName>
 			<handlingId>SCRAP</handlingId>
 			<gameName>SCRAP</gameName>
-			<vehicleMakeName>INTERNATION</vehicleMakeName><!-- Updated from VAPID -->
+			<vehicleMakeName>INTERNATION</vehicleMakeName> <!-- Updated from VAPID -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -26267,7 +26267,7 @@
 			<txdName>annihilator</txdName>
 			<handlingId>ANNIHL</handlingId>
 			<gameName>ANNIHL</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from WESTERN -->
+			<vehicleMakeName /> <!-- Updated from WESTERN -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -26508,7 +26508,7 @@
 			<txdName>cargobob</txdName>
 			<handlingId>CARGOBOB</handlingId>
 			<gameName>CARGOBOB</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from WESTERN -->
+			<vehicleMakeName /> <!-- Updated from WESTERN -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -26636,7 +26636,7 @@
 			<txdName>cargobob2</txdName>
 			<handlingId>CARGOBOB2</handlingId>
 			<gameName>CARGOBOB</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from WESTERN -->
+			<vehicleMakeName /> <!-- Updated from WESTERN -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -26759,7 +26759,7 @@
 			<txdName>cargobob3</txdName>
 			<handlingId>CARGOBOB3</handlingId>
 			<gameName>CARGOBOB</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from WESTERN -->
+			<vehicleMakeName /> <!-- Updated from WESTERN -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -26887,7 +26887,7 @@
 			<txdName>cuban800</txdName>
 			<handlingId>CUBAN800</handlingId>
 			<gameName>CUBAN800</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from WESTERN -->
+			<vehicleMakeName /> <!-- Updated from WESTERN -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>va_cuban800</animConvRoofDictName>
@@ -27111,7 +27111,7 @@
 			<txdName>duster</txdName>
 			<handlingId>DUSTER</handlingId>
 			<gameName>DUSTER</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from WESTERN -->
+			<vehicleMakeName /> <!-- Updated from WESTERN -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -27241,7 +27241,7 @@
 			<txdName>journey</txdName>
 			<handlingId>JOURNEY</handlingId>
 			<gameName>JOURNEY</gameName>
-			<vehicleMakeName></vehicleMakeName><!-- Updated from ZIRCONIU -->
+			<vehicleMakeName /> <!-- Updated from ZIRCONIU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -27367,7 +27367,7 @@
 			<txdName>stratum</txdName>
 			<handlingId>STRATUM</handlingId>
 			<gameName>STRATUM</gameName>
-			<vehicleMakeName>DINKA</vehicleMakeName><!-- Updated from ZIRCONIU -->
+			<vehicleMakeName>DINKA</vehicleMakeName> <!-- Updated from ZIRCONIU -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
