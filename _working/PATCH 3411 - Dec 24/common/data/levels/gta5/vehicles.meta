@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- Vehicles META Files Updates By ANGE92OFF -->
-<!-- Vehicle Brand Updates by SHIFUGURU -->
+
+<!-- Corrected Brands by shifuguru -->
+<!-- Feel free to edit these values to suit your requirements with modded cars -->
+<!-- Some Brands have been removed or replaced -->
+<!-- e.g. -->
+<!-- Albany = Cadillac -->
+<!-- Albany Buccaneer = Chevrolet Monte Carlo -->
 
 <CVehicleModelInfo__InitDataList>
 	<residentTxd>vehshare</residentTxd>
 	<residentAnims />
 	<InitDatas>
-
-		<!-- ALBANY = CADILLAC -->
-		<!-- Albany Buccaneer = Chevrolet Monte Carlo '72 -->
+		<!-- ALBANY -->
 		<Item>
 			<modelName>buccaneer</modelName>
 			<txdName>buccaneer</txdName>
 			<handlingId>BUCCANEE</handlingId>
 			<gameName>BUCCANEE</gameName>
+			<!--<vehicleMakeName>ALBANY</vehicleMakeName>-->
 			<vehicleMakeName>DECLASSE</vehicleMakeName>
-			<!-- Updated from ALBANY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -120,7 +124,6 @@
 				<Item>LOW_BUCCANEER_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Albany Cavalcade = Cadillac Escalade '02 -->
 		<Item>
 			<modelName>cavalcade</modelName>
 			<txdName>cavalcade</txdName>
@@ -232,7 +235,6 @@
 				<Item>RANGER_DUBSTA_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Albany Cavalcade 2 = Cadillac Escalade '07 -->
 		<Item>
 			<modelName>cavalcade2</modelName>
 			<txdName>cavalcade2</txdName>
@@ -344,7 +346,6 @@
 				<Item>RANGER_CAVALCADE2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Albany Emperor = Cadillac Sedan DeVille '77 -->
 		<Item>
 			<modelName>emperor</modelName>
 			<txdName>emperor</txdName>
@@ -466,7 +467,6 @@
 				<Item>STD_EMPEROR_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Albany Emperor 2 (Beater) = Cadillac Sedan de Ville '77 -->
 		<Item>
 			<modelName>emperor2</modelName>
 			<txdName>emperor2</txdName>
@@ -588,12 +588,11 @@
 				<Item>STD_EMPEROR2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Albany Emperor 3 (Snow) = Cadillac Sedan de Ville '77 -->
 		<Item>
 			<modelName>emperor3</modelName>
 			<txdName>emperor3</txdName>
 			<handlingId>EMPEROR3</handlingId>
-			<gameName>EMPEROR2</gameName>
+			<gameName>EMPEROR3</gameName>
 			<vehicleMakeName>ALBANY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
@@ -720,7 +719,6 @@
 				<Item>STD_EMPEROR2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Albany Manana = Cadillac Eldorado '69 -->
 		<Item>
 			<modelName>manana</modelName>
 			<txdName>manana</txdName>
@@ -831,7 +829,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Albany Primo = Cadillac Seville '99 -->
 		<Item>
 			<modelName>primo</modelName>
 			<txdName>primo</txdName>
@@ -953,14 +950,13 @@
 				<Item>STD_ORACLE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Albany Washington = Lincoln Town Car -->
 		<Item>
 			<modelName>washington</modelName>
 			<txdName>washington</txdName>
 			<handlingId>WASHINGTON</handlingId>
 			<gameName>WASHINGT</gameName>
+			<!--<vehicleMakeName>ALBANY</vehicleMakeName>-->
 			<vehicleMakeName>DUNDREAR</vehicleMakeName>
-			<!-- Updated from ALBANY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -1077,8 +1073,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- ANNIS = NISSAN -->
-		<!-- Annis Elegy RH8 = Nissan Skyline GT-R R35 -->
+		<!-- ANNIS -->
+
 		<Item>
 			<modelName>elegy2</modelName>
 			<txdName>elegy2</txdName>
@@ -1190,8 +1186,8 @@
 			<numSeatsOverride value="2" />
 		</Item>
 
-		<!-- BENEFACTOR = MERCEDES-BENZ -->
-		<!-- Benefactor Dubsta = Mercedes-Benz G63 AMG -->
+		<!-- BENEFACTOR -->
+
 		<Item>
 			<modelName>dubsta</modelName>
 			<txdName>dubsta</txdName>
@@ -1313,7 +1309,6 @@
 				<Item>RANGER_DUBSTA_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Benefactor Dubsta 2 = Mercedes-Benz Brabus G63 AMG -->
 		<Item>
 			<modelName>dubsta2</modelName>
 			<txdName>dubsta2</txdName>
@@ -1435,7 +1430,6 @@
 				<Item>RANGER_DUBSTA_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Benefactor Feltzer 2 = Mercedes-Benz SL65 AMG -->
 		<Item>
 			<modelName>feltzer2</modelName>
 			<txdName>feltzer2</txdName>
@@ -1545,7 +1539,6 @@
 				<Item>LOW_COQUETTE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Benefactor Schafter 2 = Mercedes-Benz S63 AMG W221 -->
 		<Item>
 			<modelName>schafter2</modelName>
 			<txdName>schafter2</txdName>
@@ -1667,7 +1660,6 @@
 				<Item>STD_TAXI_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Benefactor Schwarzer = Mercedes-Benz C63 AMG -->
 		<Item>
 			<modelName>schwarzer</modelName>
 			<txdName>schwarzer</txdName>
@@ -1777,7 +1769,6 @@
 				<Item>STD_BUFFALO2_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Benefactor Serrano = Mercedes-Benz M-Class W164 -->
 		<Item>
 			<modelName>serrano</modelName>
 			<txdName>serrano</txdName>
@@ -1899,7 +1890,6 @@
 				<Item>STD_ORACLE2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Benefactor Surano = Mercedes-Benz SLS AMG Roadster -->
 		<Item>
 			<modelName>surano</modelName>
 			<txdName>surano</txdName>
@@ -2013,8 +2003,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- BF = VW -->
-		<!-- BF Dune =  -->
+		<!-- BF -->
+
 		<Item>
 			<modelName>dune</modelName>
 			<txdName>dune</txdName>
@@ -2132,7 +2122,6 @@
 				<Item>LOW_DUNE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- BF Dune 2 =  -->
 		<Item>
 			<modelName>dune2</modelName>
 			<txdName>dune2</txdName>
@@ -2250,7 +2239,6 @@
 				<Item>LOW_DUNE2_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- BF Injection =  -->
 		<Item>
 			<modelName>bfinjection</modelName>
 			<txdName>bfinjection</txdName>
@@ -2360,7 +2348,6 @@
 				<Item>LOW_BFINJECT_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- BF Surfer = VW Type 2 -->
 		<Item>
 			<modelName>surfer</modelName>
 			<txdName>surfer</txdName>
@@ -2471,7 +2458,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- BF Surfer 2 = VW Type 2 -->
 		<Item>
 			<modelName>surfer2</modelName>
 			<txdName>surfer2</txdName>
@@ -2583,8 +2569,8 @@
 			<numSeatsOverride value="2" />
 		</Item>
 
-		<!-- BOLLOKAN = HYUNDAI -->
-		<!-- Bollokan Prairie = Hyundai Tiburon -->
+		<!-- BOLLOKAN -->
+
 		<Item>
 			<modelName>prairie</modelName>
 			<txdName>prairie</txdName>
@@ -2695,8 +2681,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- BRAVADO = DODGE -->
-		<!-- Bravado Banshee = Dodge Viper '06 -->
+		<!-- BRAVADO -->
+
 		<Item>
 			<modelName>banshee</modelName>
 			<txdName>banshee</txdName>
@@ -2806,7 +2792,6 @@
 				<Item>LOW_SURANO_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Bravado Bison = Dodge Ram -->
 		<Item>
 			<modelName>bison</modelName>
 			<txdName>bison</txdName>
@@ -2958,7 +2943,6 @@
 				<Item>VAN_BODHI_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Bravado Bison 2 = Dodge Ram -->
 		<Item>
 			<modelName>bison2</modelName>
 			<txdName>bison2</txdName>
@@ -3101,7 +3085,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="4" />
 		</Item>
-		<!-- Bravado Bison 3 = Dodge Ram -->
 		<Item>
 			<modelName>bison3</modelName>
 			<txdName>bison3</txdName>
@@ -3242,7 +3225,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="4" />
 		</Item>
-		<!-- Bravado Buffalo = Dodge Charger '10 -->
 		<Item>
 			<modelName>buffalo</modelName>
 			<txdName>buffalo</txdName>
@@ -3366,7 +3348,6 @@
 				<Item>STD_BUFFALO_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Bravado Buffalo 2 S = Dodge Charger R/T '11 -->
 		<Item>
 			<modelName>buffalo2</modelName>
 			<txdName>buffalo2</txdName>
@@ -3488,7 +3469,6 @@
 				<Item>STD_BUFFALO_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Bravado Duneloader = Power Wagon -->
 		<Item>
 			<modelName>dloader</modelName>
 			<txdName>dloader</txdName>
@@ -3610,7 +3590,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Bravado Gauntlet = Dodge Challenger '08 -->
 		<Item>
 			<modelName>gauntlet</modelName>
 			<txdName>gauntlet</txdName>
@@ -3720,7 +3699,6 @@
 				<Item>LOW_GAUNTLET_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Bravado Gresley = Dodge Durango '11 -->
 		<Item>
 			<modelName>gresley</modelName>
 			<txdName>gresley</txdName>
@@ -3842,7 +3820,6 @@
 				<Item>STD_BALLER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Bravado Rat Loader = Dodge  -->
 		<Item>
 			<modelName>ratloader</modelName>
 			<txdName>ratloader</txdName>
@@ -3952,14 +3929,13 @@
 				<Item>STD_RATLOADER_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Bravado Rumpo = Ford E-250 Cargo Van '08 -->
 		<Item>
 			<modelName>rumpo</modelName>
 			<txdName>rumpo</txdName>
 			<handlingId>RUMPO</handlingId>
 			<gameName>RUMPO</gameName>
+			<!--<vehicleMakeName>BRAVADO</vehicleMakeName>-->
 			<vehicleMakeName>VAPID</vehicleMakeName>
-			<!-- Updated from BRAVADO -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -4075,14 +4051,13 @@
 				<Item>VAN_PONY_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Bravado Rumpo 2 (Deludamol) = Ford E-250 Cargo Van '08 -->
 		<Item>
 			<modelName>rumpo2</modelName>
 			<txdName>rumpo2</txdName>
 			<handlingId>RUMPO2</handlingId>
 			<gameName>RUMPO</gameName>
+			<!--<vehicleMakeName>BRAVADO</vehicleMakeName>-->
 			<vehicleMakeName>VAPID</vehicleMakeName>
-			<!-- Updated from BRAVADO -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -4187,7 +4162,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Bravado Youga = Dodge Ram Van -->
 		<Item>
 			<modelName>youga</modelName>
 			<txdName>youga</txdName>
@@ -4297,8 +4271,8 @@
 			<numSeatsOverride value="2" />
 		</Item>
 
-		<!-- BRUTE = GMC -->
-		<!-- Brute Boxville (LSDWP) = GMC Stepvan (LADWP) -->
+		<!-- BRUTE -->
+
 		<Item>
 			<modelName>boxville</modelName>
 			<txdName>boxville</txdName>
@@ -4433,13 +4407,12 @@
 				<Item>VAN_BOXVILLE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Brute Boxville 2 (Go Postal) = GMC Stepvan (FedEx) -->
 		<Item>
 			<modelName>boxville2</modelName>
 			<txdName>boxville2</txdName>
 			<handlingId>BOXVILLE2</handlingId>
 			<gameName>BOXVILLE</gameName>
-			<vehicleMakeName>BRUTE</vehicleMakeName>
+			<vehicleMakeName />
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -4568,7 +4541,6 @@
 				<Item>VAN_BOXVILLE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Brute Boxville 3 (Humane Labs) = GMC Stepvan (Humane Labs) -->
 		<Item>
 			<modelName>boxville3</modelName>
 			<txdName>boxville3</txdName>
@@ -4707,13 +4679,13 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="4" />
 		</Item>
-		<!-- Brute Camper = GMC 3500 Cab -->
 		<Item>
 			<modelName>camper</modelName>
 			<txdName>camper</txdName>
 			<handlingId>CAMPER</handlingId>
 			<gameName>CAMPER</gameName>
-			<vehicleMakeName>BRUTE</vehicleMakeName>
+			<!--<vehicleMakeName>BRUTE</vehicleMakeName>-->
+			<vehicleMakeName>DECLASSE</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -4816,7 +4788,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Brute Pony = GMC Vandura -->
 		<Item>
 			<modelName>pony</modelName>
 			<txdName>pony</txdName>
@@ -4951,7 +4922,6 @@
 				<Item>VAN_PONY_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Brute Pony 2 (Smoke on the Water) = GMC Vandura -->
 		<Item>
 			<modelName>pony2</modelName>
 			<txdName>pony2</txdName>
@@ -5073,7 +5043,6 @@
 				<Item>VAN_PONY_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Brute Stockade (Gruppe 6) = GMC TopKick -->
 		<Item>
 			<modelName>stockade</modelName>
 			<txdName>stockade</txdName>
@@ -5207,7 +5176,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="4" />
 		</Item>
-		<!-- Brute Stockade 3 (Bobcat Security) = International 4700 -->
 		<Item>
 			<modelName>stockade3</modelName>
 			<txdName>stockade3</txdName>
@@ -5340,7 +5308,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="4" />
 		</Item>
-		<!-- Brute Tiptruck (Tipper) = GMC TopKick -->
 		<Item>
 			<modelName>tiptruck</modelName>
 			<txdName>tiptruck</txdName>
@@ -5466,14 +5433,12 @@
 				<Item>TRUCK_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Brute Tiptruck2 (Tipper) = Ford L8000 Dump Truck -->
 		<Item>
 			<modelName>tiptruck2</modelName>
 			<txdName>tiptruck2</txdName>
 			<handlingId>TIPTRUCK2</handlingId>
 			<gameName>TIPTRUCK2</gameName>
-			<vehicleMakeName>VAPID</vehicleMakeName>
-			<!-- Updated from BRUTE -->
+			<vehicleMakeName>BRUTE</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -5594,8 +5559,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- BUCKINGHAM = LEARJET -->
-		<!-- Buckingham Luxor = Learjet 45 -->
+		<!-- BUCKINGHAM -->
+
 		<Item>
 			<modelName>luxor</modelName>
 			<txdName>luxor</txdName>
@@ -5744,14 +5709,12 @@
 				<Item>PLANE_LUXOR_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Buckingham Maverick = Bell 206 -->
 		<Item>
 			<modelName>maverick</modelName>
 			<txdName>maverick</txdName>
 			<handlingId>MAVERICK</handlingId>
 			<gameName>MAVERICK</gameName>
-			<vehicleMakeName />
-			<!-- Updated from BUCKING -->
+			<vehicleMakeName>BUCKING</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -5870,7 +5833,6 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="0.000000" z="-0.200000" />
 		</Item>
-		<!-- Buckingham Shamal = Learjet 45 -->
 		<Item>
 			<modelName>shamal</modelName>
 			<txdName>shamal</txdName>
@@ -6020,8 +5982,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- CANIS = JEEP -->
-		<!-- Canis Bodhi 2 = Jeep Kaiser M715 -->
+		<!-- CANIS -->
+
 		<Item>
 			<modelName>bodhi2</modelName>
 			<txdName>bodhi2</txdName>
@@ -6149,7 +6111,6 @@
 				<Item>VAN_BODHI_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Canis Crusader = Jeep Wrangler JK '94 -->
 		<Item>
 			<modelName>crusader</modelName>
 			<txdName>crusader</txdName>
@@ -6284,7 +6245,6 @@
 				<Item>RANGER_CRUSADER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Canis Mesa = Jeep Wrangler JK '95 -->
 		<Item>
 			<modelName>mesa</modelName>
 			<txdName>mesa</txdName>
@@ -6406,7 +6366,6 @@
 				<Item>RANGER_CRUSADER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Canis Mesa 2 = Jeep Wrangler JK '95 -->
 		<Item>
 			<modelName>mesa2</modelName>
 			<txdName>mesa2</txdName>
@@ -6538,12 +6497,11 @@
 				<Item>RANGER_CRUSADER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Canis Mesa 3 Off-Road = Jeep J8 -->
 		<Item>
 			<modelName>mesa3</modelName>
 			<txdName>mesa3</txdName>
 			<handlingId>MESA3</handlingId>
-			<gameName>MESA3</gameName>
+			<gameName>MESA</gameName>
 			<vehicleMakeName>CANIS</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
@@ -6660,7 +6618,6 @@
 				<Item>RANGER_CRUSADER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Canis Seminole = Jeep Grand Cherokee WJ -->
 		<Item>
 			<modelName>seminole</modelName>
 			<txdName>seminole</txdName>
@@ -6789,13 +6746,14 @@
 		</Item>
 
 		<!-- CHARIOT -->
-		<!-- Chariot Romero Hearse = Lincoln Town Car Hearse -->
+
 		<Item>
 			<modelName>romero</modelName>
 			<txdName>romero</txdName>
 			<handlingId>ROMERO</handlingId>
 			<gameName>ROMERO</gameName>
-			<vehicleMakeName>CHARIOT</vehicleMakeName>
+			<!--<vehicleMakeName>CHARIOT</vehicleMakeName>-->
+			<vehicleMakeName>DUNDREAR</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -6901,8 +6859,8 @@
 			<numSeatsOverride value="2" />
 		</Item>
 
-		<!-- CHEVAL = HOLDEN -->
-		<!-- Cheval Fugitive = Holden Caprice -->
+		<!-- CHEVAL -->
+
 		<Item>
 			<modelName>fugitive</modelName>
 			<txdName>fugitive</txdName>
@@ -7024,7 +6982,6 @@
 				<Item>STD_FUGITIVE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Cheval Picador = Holden HJ Kingswood -->
 		<Item>
 			<modelName>picador</modelName>
 			<txdName>picador</txdName>
@@ -7137,7 +7094,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Cheval Surge = Holden Volt -->
 		<Item>
 			<modelName>surge</modelName>
 			<txdName>surge</txdName>
@@ -7260,8 +7216,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- COIL = TESLA -->
-		<!-- Coil Voltic = Tesla Roadster -->
+		<!-- COIL -->
+
 		<Item>
 			<modelName>voltic</modelName>
 			<txdName>voltic</txdName>
@@ -7372,8 +7328,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- DECLASSE = CHEVROLET -->
-		<!-- Declasse Asea = Chevrolet Aveo -->
+		<!-- DECLASSE -->
+
 		<Item>
 			<modelName>asea</modelName>
 			<txdName>asea</txdName>
@@ -7495,7 +7451,6 @@
 				<Item>STD_ASEA_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Asea 2 (Snow) = Chevrolet Aveo -->
 		<Item>
 			<modelName>asea2</modelName>
 			<txdName>asea2</txdName>
@@ -7626,7 +7581,6 @@
 				<Item>STD_ASEA_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Burrito = Chevrolet Express Van -->
 		<Item>
 			<modelName>burrito</modelName>
 			<txdName>burrito</txdName>
@@ -7759,7 +7713,6 @@
 				<Item>VAN_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Burrito 2 (Bugstars) = Chevrolet Express Van -->
 		<Item>
 			<modelName>burrito2</modelName>
 			<txdName>burrito2</txdName>
@@ -7879,7 +7832,6 @@
 				<Item>VAN_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Burrito 3 (2nd Gen) = Chevrolet Express GMC Savana -->
 		<Item>
 			<modelName>burrito3</modelName>
 			<txdName>burrito3</txdName>
@@ -8012,7 +7964,6 @@
 				<Item>VAN_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Burrito 4 (McGill-Olsen Construction) = Chevrolet Express GMC Savana -->
 		<Item>
 			<modelName>burrito4</modelName>
 			<txdName>burrito4</txdName>
@@ -8145,7 +8096,6 @@
 				<Item>VAN_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Burrito 5 (Snow) = Chevrolet Express GMC Savana -->
 		<Item>
 			<modelName>burrito5</modelName>
 			<txdName>burrito5</txdName>
@@ -8275,7 +8225,6 @@
 				<Item>VAN_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Gang Burrito = Chevrolet Express Van -->
 		<Item>
 			<modelName>gburrito</modelName>
 			<txdName>gburrito</txdName>
@@ -8398,7 +8347,6 @@
 				<Item>VAN_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Granger = Chevrolet Suburban GMT 900 -->
 		<Item>
 			<modelName>granger</modelName>
 			<txdName>granger</txdName>
@@ -8520,7 +8468,6 @@
 				<Item>RANGER_PRANGER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Lifeguard = Chevrolet Suburban Lifeguard -->
 		<Item>
 			<modelName>lguard</modelName>
 			<txdName>lguard</txdName>
@@ -8651,7 +8598,6 @@
 				<Item>RANGER_PRANGER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Premier = Chevrolet Cobalt -->
 		<Item>
 			<modelName>premier</modelName>
 			<txdName>premier</txdName>
@@ -8773,7 +8719,6 @@
 				<Item>STD_PREMIER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Rancher XL = Chevrolet Suburban '91 -->
 		<Item>
 			<modelName>rancherxl</modelName>
 			<txdName>rancherxl</txdName>
@@ -8890,7 +8835,6 @@
 				<Item>RANGER_RANCHERXL2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Rancher XL (Snow) = Chevrolet Suburban '91 -->
 		<Item>
 			<modelName>rancherxl2</modelName>
 			<txdName>rancherxl2</txdName>
@@ -9012,7 +8956,6 @@
 				<Item>RANGER_RANCHERXL2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Sabre Turbo = Chevrolet Chevelle '70 -->
 		<Item>
 			<modelName>sabregt</modelName>
 			<txdName>sabregt</txdName>
@@ -9122,7 +9065,6 @@
 				<Item>STD_BUFFALO_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Declasse Tornado = Chevrolet Bel Air '57 -->
 		<Item>
 			<modelName>tornado</modelName>
 			<txdName>tornado</txdName>
@@ -9233,7 +9175,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Declasse Tornado 2 (convertible) = Chevrolet Bel Air '57 -->
 		<Item>
 			<modelName>tornado2</modelName>
 			<txdName>tornado2</txdName>
@@ -9349,7 +9290,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Declasse Tornado 3 (beater) = Chevrolet Bel Air '57 -->
 		<Item>
 			<modelName>tornado3</modelName>
 			<txdName>tornado3</txdName>
@@ -9460,7 +9400,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Declasse Tornado 4 (mariachi) = Chevrolet Bel Air '57 -->
 		<Item>
 			<modelName>tornado4</modelName>
 			<txdName>tornado4</txdName>
@@ -9571,117 +9510,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Declasse Vigero = Chevrolet Camaro '69 -->
-		<Item>
-			<modelName>vigero</modelName>
-			<txdName>vigero</txdName>
-			<handlingId>VIGERO</handlingId>
-			<gameName>VIGERO</gameName>
-			<vehicleMakeName>DECLASSE</vehicleMakeName>
-			<expressionDictName>null</expressionDictName>
-			<expressionName>null</expressionName>
-			<animConvRoofDictName>null</animConvRoofDictName>
-			<animConvRoofName>null</animConvRoofName>
-			<animConvRoofWindowsAffected />
-			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash />
-			<layout>LAYOUT_LOW</layout>
-			<coverBoundOffsets>VIGERO_COVER_OFFSET_INFO</coverBoundOffsets>
-			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
-			<scenarioLayout />
-			<cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
-			<aimCameraName>DEFAULT_THIRD_PERSON_VEHICLE_AIM_CAMERA</aimCameraName>
-			<bonnetCameraName>VEHICLE_BONNET_CAMERA_STANDARD_HIGH</bonnetCameraName>
-			<povCameraName>DEFAULT_POV_CAMERA_LOOKAROUND</povCameraName>
-			<FirstPersonDriveByIKOffset x="0.000000" y="-0.030000" z="0.000000" />
-			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.100000" z="0.000000" />
-			<FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="-0.015000" />
-			<FirstPersonProjectileDriveByPassengerIKOffset x="-0.050000" y="0.000000" z="-0.015000" />
-			<FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
-			<FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
-			<FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.030000" z="0.000000" />
-			<FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.100000" z="0.000000" />
-			<FirstPersonMobilePhoneOffset x="0.155000" y="0.178000" z="0.546000" />
-			<FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.128000" z="0.483000" />
-			<PovCameraOffset x="0.000000" y="-0.225000" z="0.640000" />
-			<PovCameraVerticalAdjustmentForRollCage value="-0.035000" />
-			<PovPassengerCameraOffset x="0.000000" y="-0.050000" z="0.030000" />
-			<PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.030000" />
-			<vfxInfoName>VFXVEHICLEINFO_CAR_GENERIC</vfxInfoName>
-			<shouldUseCinematicViewMode value="true" />
-			<shouldCameraTransitionOnClimbUpDown value="false" />
-			<shouldCameraIgnoreExiting value="false" />
-			<AllowPretendOccupants value="true" />
-			<AllowJoyriding value="true" />
-			<AllowSundayDriving value="true" />
-			<AllowBodyColorMapping value="true" />
-			<wheelScale value="0.223700" />
-			<wheelScaleRear value="0.223700" />
-			<dirtLevelMin value="0.000000" />
-			<dirtLevelMax value="0.700000" />
-			<envEffScaleMin value="0.000000" />
-			<envEffScaleMax value="1.000000" />
-			<envEffScaleMin2 value="0.000000" />
-			<envEffScaleMax2 value="1.000000" />
-			<damageMapScale value="0.600000" />
-			<damageOffsetScale value="1.000000" />
-			<diffuseTint value="0x00FFFFFF" />
-			<steerWheelMult value="1.000000" />
-			<HDTextureDist value="5.000000" />
-			<lodDistances content="float_array">
-				15.000000
-				30.000000
-				60.000000
-				120.000000
-				500.000000
-				500.000000
-			</lodDistances>
-			<minSeatHeight value="0.837" />
-			<identicalModelSpawnDistance value="20" />
-			<maxNumOfSameColor value="10" />
-			<defaultBodyHealth value="1000.000000" />
-			<pretendOccupantsScale value="1.000000" />
-			<visibleSpawnDistScale value="1.000000" />
-			<trackerPathWidth value="2.000000" />
-			<weaponForceMult value="1.000000" />
-			<frequency value="50" />
-			<swankness>SWANKNESS_2</swankness>
-			<maxNum value="50" />
-			<flags>FLAG_CAN_HAVE_NEONS FLAG_AVERAGE_CAR FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
-			<type>VEHICLE_TYPE_CAR</type>
-			<plateType>VPT_BACK_PLATES</plateType>
-			<dashboardType>VDT_DUKES</dashboardType>
-			<vehicleClass>VC_MUSCLE</vehicleClass>
-			<wheelType>VWT_MUSCLE</wheelType>
-			<trailers />
-			<additionalTrailers />
-			<drivers />
-			<extraIncludes />
-			<doorsWithCollisionWhenClosed />
-			<driveableDoors />
-			<bumpersNeedToCollideWithMap value="false" />
-			<needsRopeTexture value="false" />
-			<requiredExtras />
-			<rewards />
-			<cinematicPartCamera>
-				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
-				<Item>WHEEL_FRONT_LEFT_CAMERA</Item>
-				<Item>WHEEL_REAR_RIGHT_CAMERA</Item>
-				<Item>WHEEL_REAR_LEFT_CAMERA</Item>
-			</cinematicPartCamera>
-			<NmBraceOverrideSet />
-			<buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
-			<buoyancySphereSizeScale value="1.000000" />
-			<pOverrideRagdollThreshold type="NULL" />
-			<firstPersonDrivebyData>
-				<Item>STD_VIGERO_FRONT_LEFT</Item>
-				<Item>STD_TORNADO_FRONT_RIGHT</Item>
-			</firstPersonDrivebyData>
-		</Item>
-		<!-- Declasse Voodoo = Chevrolet Impala '64 -->
 		<Item>
 			<modelName>voodoo2</modelName>
 			<txdName>voodoo2</txdName>
@@ -9791,10 +9619,118 @@
 				<Item>LOW_VOODOO_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<Item>
+			<modelName>vigero</modelName>
+			<txdName>vigero</txdName>
+			<handlingId>VIGERO</handlingId>
+			<gameName>VIGERO</gameName>
+			<vehicleMakeName>DECLASSE</vehicleMakeName>
+			<expressionDictName>null</expressionDictName>
+			<expressionName>null</expressionName>
+			<animConvRoofDictName>null</animConvRoofDictName>
+			<animConvRoofName>null</animConvRoofName>
+			<animConvRoofWindowsAffected />
+			<ptfxAssetName>null</ptfxAssetName>
+			<audioNameHash />
+			<layout>LAYOUT_LOW</layout>
+			<coverBoundOffsets>VIGERO_COVER_OFFSET_INFO</coverBoundOffsets>
+			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+			<scenarioLayout />
+			<cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
+			<aimCameraName>DEFAULT_THIRD_PERSON_VEHICLE_AIM_CAMERA</aimCameraName>
+			<bonnetCameraName>VEHICLE_BONNET_CAMERA_STANDARD_HIGH</bonnetCameraName>
+			<povCameraName>DEFAULT_POV_CAMERA_LOOKAROUND</povCameraName>
+			<FirstPersonDriveByIKOffset x="0.000000" y="-0.030000" z="0.000000" />
+			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.100000" z="0.000000" />
+			<FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="-0.015000" />
+			<FirstPersonProjectileDriveByPassengerIKOffset x="-0.050000" y="0.000000" z="-0.015000" />
+			<FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
+			<FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
+			<FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.030000" z="0.000000" />
+			<FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.100000" z="0.000000" />
+			<FirstPersonMobilePhoneOffset x="0.155000" y="0.178000" z="0.546000" />
+			<FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.128000" z="0.483000" />
+			<PovCameraOffset x="0.000000" y="-0.225000" z="0.640000" />
+			<PovCameraVerticalAdjustmentForRollCage value="-0.035000" />
+			<PovPassengerCameraOffset x="0.000000" y="-0.050000" z="0.030000" />
+			<PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.030000" />
+			<vfxInfoName>VFXVEHICLEINFO_CAR_GENERIC</vfxInfoName>
+			<shouldUseCinematicViewMode value="true" />
+			<shouldCameraTransitionOnClimbUpDown value="false" />
+			<shouldCameraIgnoreExiting value="false" />
+			<AllowPretendOccupants value="true" />
+			<AllowJoyriding value="true" />
+			<AllowSundayDriving value="true" />
+			<AllowBodyColorMapping value="true" />
+			<wheelScale value="0.223700" />
+			<wheelScaleRear value="0.223700" />
+			<dirtLevelMin value="0.000000" />
+			<dirtLevelMax value="0.700000" />
+			<envEffScaleMin value="0.000000" />
+			<envEffScaleMax value="1.000000" />
+			<envEffScaleMin2 value="0.000000" />
+			<envEffScaleMax2 value="1.000000" />
+			<damageMapScale value="0.600000" />
+			<damageOffsetScale value="1.000000" />
+			<diffuseTint value="0x00FFFFFF" />
+			<steerWheelMult value="1.000000" />
+			<HDTextureDist value="5.000000" />
+			<lodDistances content="float_array">
+				15.000000
+				30.000000
+				60.000000
+				120.000000
+				500.000000
+				500.000000
+			</lodDistances>
+			<minSeatHeight value="0.837" />
+			<identicalModelSpawnDistance value="20" />
+			<maxNumOfSameColor value="10" />
+			<defaultBodyHealth value="1000.000000" />
+			<pretendOccupantsScale value="1.000000" />
+			<visibleSpawnDistScale value="1.000000" />
+			<trackerPathWidth value="2.000000" />
+			<weaponForceMult value="1.000000" />
+			<frequency value="50" />
+			<swankness>SWANKNESS_2</swankness>
+			<maxNum value="50" />
+			<flags>FLAG_CAN_HAVE_NEONS FLAG_AVERAGE_CAR FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
+			<type>VEHICLE_TYPE_CAR</type>
+			<plateType>VPT_BACK_PLATES</plateType>
+			<dashboardType>VDT_DUKES</dashboardType>
+			<vehicleClass>VC_MUSCLE</vehicleClass>
+			<wheelType>VWT_MUSCLE</wheelType>
+			<trailers />
+			<additionalTrailers />
+			<drivers />
+			<extraIncludes />
+			<doorsWithCollisionWhenClosed />
+			<driveableDoors />
+			<bumpersNeedToCollideWithMap value="false" />
+			<needsRopeTexture value="false" />
+			<requiredExtras />
+			<rewards />
+			<cinematicPartCamera>
+				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+				<Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+				<Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+				<Item>WHEEL_REAR_LEFT_CAMERA</Item>
+			</cinematicPartCamera>
+			<NmBraceOverrideSet />
+			<buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
+			<buoyancySphereSizeScale value="1.000000" />
+			<pOverrideRagdollThreshold type="NULL" />
+			<firstPersonDrivebyData>
+				<Item>STD_VIGERO_FRONT_LEFT</Item>
+				<Item>STD_TORNADO_FRONT_RIGHT</Item>
+			</firstPersonDrivebyData>
+		</Item>
 
+		<!-- DEWBAUCHEE -->
 
-		<!-- DEWBAUCHEE = ASTON MARTIN -->
-		<!-- Dewbauchee Exemplar = Aston Martin Rapide -->
 		<Item>
 			<modelName>exemplar</modelName>
 			<txdName>exemplar</txdName>
@@ -9916,7 +9852,6 @@
 				<Item>STD_EXEMPLAR_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Dewbauchee JB700 = Aston Martin DB5 Q Branch -->
 		<Item>
 			<modelName>jb700</modelName>
 			<txdName>jb700</txdName>
@@ -10026,7 +9961,6 @@
 				<Item>LOW_JB700_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Dewbauchee Rapid GT = Aston Martin DBS -->
 		<Item>
 			<modelName>rapidgt</modelName>
 			<txdName>rapidgt</txdName>
@@ -10136,7 +10070,6 @@
 				<Item>LOW_RAPIDGT_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Dewbauchee Rapid GT 2 = Aston Martin V8 Vantage Roadster -->
 		<Item>
 			<modelName>rapidgt2</modelName>
 			<txdName>rapidgt2</txdName>
@@ -10250,15 +10183,15 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- DINKA = HONDA -->
-		<!-- Dinka Akuma = Buell XB12S -->
+		<!-- DINKA -->
+
 		<Item>
 			<modelName>akuma</modelName>
 			<txdName>akuma</txdName>
 			<handlingId>AKUMA</handlingId>
 			<gameName>AKUMA</gameName>
-			<vehicleMakeName />
-			<!-- Updated from DINKA -->
+			<!--<vehicleMakeName>DINKA</vehicleMakeName>-->
+			<vehicleMakeName>BUELL</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -10363,7 +10296,6 @@
 				<Item>BIKE_AKUMA_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Dinka Blista = Honda Civic Type-R FN2 -->
 		<Item>
 			<modelName>blista</modelName>
 			<txdName>blista</txdName>
@@ -10474,7 +10406,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Dinka Double-T = Honda CBR1000RR -->
 		<Item>
 			<modelName>double</modelName>
 			<txdName>double</txdName>
@@ -10583,14 +10514,13 @@
 				<Item>BIKE_BATI_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Dinka Marquis = Adjutor Yacht -->
 		<Item>
 			<modelName>marquis</modelName>
 			<txdName>marquis</txdName>
 			<handlingId>MARQUIS</handlingId>
 			<gameName>MARQUIS</gameName>
+			<!--<vehicleMakeName>DINKA</vehicleMakeName>-->
 			<vehicleMakeName />
-			<!-- Updated from DINKA -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -10697,7 +10627,7 @@
 		</Item>
 
 		<!-- DUNDREARY -->
-		<!-- Dundreary Landstalker = Lincoln Navigator -->
+
 		<Item>
 			<modelName>landstalker</modelName>
 			<txdName>landstalker</txdName>
@@ -10819,7 +10749,6 @@
 				<Item>RANGER_RANCHERXL2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Dundreary Regina = Plymouth Fury Sport  -->
 		<Item>
 			<modelName>regina</modelName>
 			<txdName>regina</txdName>
@@ -10942,7 +10871,6 @@
 				<Item>STD_REGINA_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Dundreary Stretch = Lincoln Town Car Limo -->
 		<Item>
 			<modelName>stretch</modelName>
 			<txdName>stretch</txdName>
@@ -11060,8 +10988,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- EMPEROR = LEXUS -->
-		<!-- Emperor Habanero = Lexus RX -->
+		<!-- EMPEROR -->
+
 		<Item>
 			<modelName>habanero</modelName>
 			<txdName>habanero</txdName>
@@ -11184,8 +11112,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- ENUS = BENTLEY -->
-		<!-- Enus Cognoscenti Cabrio = Bentley Continental GTC '06 -->
+		<!-- ENUS -->
+
 		<Item>
 			<modelName>cogcabrio</modelName>
 			<txdName>cogcabrio</txdName>
@@ -11300,7 +11228,6 @@
 				<Item>LOW_RAPIDGT_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Enus Super Diamond = Rolls-Royce Phantom VII -->
 		<Item>
 			<modelName>superd</modelName>
 			<txdName>superd</txdName>
@@ -11424,8 +11351,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- FATHOM = INFINITI -->
-		<!-- Fathom FQ 2 = Infiniti QX70 -->
+		<!-- FATHOM -->
+
 		<Item>
 			<modelName>fq2</modelName>
 			<txdName>fq2</txdName>
@@ -11548,8 +11475,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- GALLIVANTER = RANGE ROVER -->
-		<!-- Gallivanter Baller = Range Rover Vogue -->
+		<!-- GALLIVANTER -->
+
 		<Item>
 			<modelName>baller</modelName>
 			<txdName>baller</txdName>
@@ -11671,7 +11598,6 @@
 				<Item>STD_BALLER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Gallivanter Baller 2 = Range Rover Sport -->
 		<Item>
 			<modelName>baller2</modelName>
 			<txdName>baller2</txdName>
@@ -11794,8 +11720,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- GROTTI = FERRARI -->
-		<!-- Grotti Carbonizzare = Ferrari California -->
+		<!-- GROTTI -->
+
 		<Item>
 			<modelName>carbonizzare</modelName>
 			<txdName>carbonizzare</txdName>
@@ -11911,7 +11837,6 @@
 				<Item>LOW_CARBONIZZARE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Grotti Cheetah = Ferrari Enzo -->
 		<Item>
 			<modelName>cheetah</modelName>
 			<txdName>cheetah</txdName>
@@ -12021,7 +11946,6 @@
 				<Item>LOW_CHEETAH_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Grotti Stinger = Ferrari 250 GT California Spyder -->
 		<Item>
 			<modelName>stinger</modelName>
 			<txdName>stinger</txdName>
@@ -12131,7 +12055,6 @@
 				<Item>LOW_STINGER_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Grotti Stinger GT = Ferrari 250 GTO -->
 		<Item>
 			<modelName>stingergt</modelName>
 			<txdName>stingergt</txdName>
@@ -12242,128 +12165,14 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- HIJAK = FISKER -->
-		<!-- Hijak Khamelion = Fisker Karma -->
-		<Item>
-			<modelName>khamelion</modelName>
-			<txdName>khamelion</txdName>
-			<handlingId>KHAMEL</handlingId>
-			<gameName>KHAMEL</gameName>
-			<vehicleMakeName>HIJAK</vehicleMakeName>
-			<expressionDictName>null</expressionDictName>
-			<expressionName>null</expressionName>
-			<animConvRoofDictName>null</animConvRoofDictName>
-			<animConvRoofName>null</animConvRoofName>
-			<animConvRoofWindowsAffected />
-			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash />
-			<layout>LAYOUT_STANDARD</layout>
-			<coverBoundOffsets>KHAMELION_COVER_OFFSET_INFO</coverBoundOffsets>
-			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
-			<scenarioLayout />
-			<cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
-			<aimCameraName>MID_BOX_VEHICLE_AIM_CAMERA</aimCameraName>
-			<bonnetCameraName>VEHICLE_BONNET_CAMERA_STANDARD</bonnetCameraName>
-			<povCameraName>DEFAULT_POV_CAMERA</povCameraName>
-			<FirstPersonDriveByIKOffset x="0.000000" y="-0.060000" z="-0.050000" />
-			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.025000" z="0.000000" />
-			<FirstPersonProjectileDriveByIKOffset x="0.000000" y="-0.080000" z="-0.055000" />
-			<FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="-0.080000" z="-0.055000" />
-			<FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
-			<FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
-			<FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.060000" z="-0.050000" />
-			<FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.025000" z="0.000000" />
-			<FirstPersonMobilePhoneOffset x="0.135000" y="0.275000" z="0.535000" />
-			<FirstPersonPassengerMobilePhoneOffset x="0.135000" y="0.175000" z="0.445000" />
-			<PovCameraOffset x="0.000000" y="-0.160000" z="0.660000" />
-			<PovCameraVerticalAdjustmentForRollCage value="0.000000" />
-			<PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
-			<PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
-			<vfxInfoName>VFXVEHICLEINFO_CAR_ELECTRIC</vfxInfoName>
-			<shouldUseCinematicViewMode value="true" />
-			<shouldCameraTransitionOnClimbUpDown value="false" />
-			<shouldCameraIgnoreExiting value="false" />
-			<AllowPretendOccupants value="true" />
-			<AllowJoyriding value="true" />
-			<AllowSundayDriving value="true" />
-			<AllowBodyColorMapping value="true" />
-			<wheelScale value="0.324400" />
-			<wheelScaleRear value="0.324400" />
-			<dirtLevelMin value="0.000000" />
-			<dirtLevelMax value="0.550000" />
-			<envEffScaleMin value="0.000000" />
-			<envEffScaleMax value="1.000000" />
-			<envEffScaleMin2 value="0.000000" />
-			<envEffScaleMax2 value="1.000000" />
-			<damageMapScale value="1.000000" />
-			<damageOffsetScale value="0.500000" />
-			<diffuseTint value="0x57000000" />
-			<steerWheelMult value="0.650000" />
-			<HDTextureDist value="5.000000" />
-			<lodDistances content="float_array">
-				15.000000
-				30.000000
-				70.000000
-				140.000000
-				500.000000
-				500.000000
-			</lodDistances>
-			<minSeatHeight value="0.824" />
-			<identicalModelSpawnDistance value="20" />
-			<maxNumOfSameColor value="1" />
-			<defaultBodyHealth value="1000.000000" />
-			<pretendOccupantsScale value="1.000000" />
-			<visibleSpawnDistScale value="1.000000" />
-			<trackerPathWidth value="2.000000" />
-			<weaponForceMult value="1.000000" />
-			<frequency value="30" />
-			<swankness>SWANKNESS_3</swankness>
-			<maxNum value="10" />
-			<flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_IS_ELECTRIC FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
-			<type>VEHICLE_TYPE_CAR</type>
-			<plateType>VPT_BACK_PLATES</plateType>
-			<dashboardType>VDT_SULTAN</dashboardType>
-			<vehicleClass>VC_SPORT</vehicleClass>
-			<wheelType>VWT_HIEND</wheelType>
-			<trailers />
-			<additionalTrailers />
-			<drivers />
-			<extraIncludes />
-			<doorsWithCollisionWhenClosed />
-			<driveableDoors />
-			<bumpersNeedToCollideWithMap value="false" />
-			<needsRopeTexture value="false" />
-			<requiredExtras />
-			<rewards />
-			<cinematicPartCamera>
-				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
-				<Item>WHEEL_FRONT_LEFT_CAMERA</Item>
-				<Item>WHEEL_REAR_RIGHT_CAMERA</Item>
-				<Item>WHEEL_REAR_LEFT_CAMERA</Item>
-			</cinematicPartCamera>
-			<NmBraceOverrideSet />
-			<buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
-			<buoyancySphereSizeScale value="1.000000" />
-			<pOverrideRagdollThreshold type="NULL" />
-			<firstPersonDrivebyData>
-				<Item>STD_KHAMELION_FRONT_LEFT</Item>
-				<Item>STD_KHAMELION_FRONT_RIGHT</Item>
-			</firstPersonDrivebyData>
-			<numSeatsOverride value="2" />
-		</Item>
+		<!-- HVY -->
 
-		<!-- HVY = CAT -->
-		<!-- HVY Airtug = Tug M1A -->
 		<Item>
 			<modelName>airtug</modelName>
 			<txdName>airtug</txdName>
 			<handlingId>AIRTUG</handlingId>
 			<gameName>AIRTUG</gameName>
-			<vehicleMakeName />
-			<!-- Updated from HVY -->
+			<vehicleMakeName>HVY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -12471,14 +12280,12 @@
 				<Item>VAN_CADDY_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Barracks (OL) = Oshkosh MTVR -->
 		<Item>
 			<modelName>barracks</modelName>
 			<txdName>barracks</txdName>
 			<handlingId>BARRACKS</handlingId>
 			<gameName>BARRACKS</gameName>
-			<vehicleMakeName />
-			<!-- Updated from HVY -->
+			<vehicleMakeName>HVY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -12635,14 +12442,12 @@
 				<Item>TRUCK_REVERSE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Barracks 2 (Semi) =  M915A5 Tractor Trailer -->
 		<Item>
 			<modelName>barracks2</modelName>
 			<txdName>barracks2</txdName>
 			<handlingId>BARRACKS2</handlingId>
 			<gameName>BARRACKS2</gameName>
-			<vehicleMakeName />
-			<!-- Updated from HVY -->
+			<vehicleMakeName>HVY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -12773,14 +12578,13 @@
 				<Item>TRUCK_REVERSE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Biff = Kenworth T800 -->
 		<Item>
 			<modelName>biff</modelName>
 			<txdName>biff</txdName>
 			<handlingId>BIFF</handlingId>
 			<gameName>BIFF</gameName>
+			<!--<vehicleMakeName>HVY</vehicleMakeName>-->
 			<vehicleMakeName />
-			<!-- Updated from HVY -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -12909,7 +12713,6 @@
 				<Item>TRUCK_BIFF_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Dozer = CAT 963D Crawler Loader -->
 		<Item>
 			<modelName>bulldozer</modelName>
 			<txdName>bulldozer</txdName>
@@ -13035,14 +12838,12 @@
 				<Item>UTIL_BULLDOZER_FRONT_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Cutter = ? -->
 		<Item>
 			<modelName>cutter</modelName>
 			<txdName>cutter</txdName>
 			<handlingId>CUTTER</handlingId>
 			<gameName>CUTTER</gameName>
-			<vehicleMakeName />
-			<!-- Updated from HVY -->
+			<vehicleMakeName>HVY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13139,7 +12940,6 @@
 			<buoyancySphereSizeScale value="1.000000" />
 			<pOverrideRagdollThreshold type="NULL" />
 		</Item>
-		<!-- HVY Dump = CAT 777D -->
 		<Item>
 			<modelName>dump</modelName>
 			<txdName>dump</txdName>
@@ -13259,14 +13059,12 @@
 				<Item>VAN_DUMP_FRONT_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Docktug = Ottawa Commando 4x2 Terminal Yard Tractor -->
 		<Item>
 			<modelName>docktug</modelName>
 			<txdName>docktug</txdName>
 			<handlingId>DOCKTUG</handlingId>
 			<gameName>DOCKTUG</gameName>
-			<vehicleMakeName />
-			<!-- Updated from HVY -->
+			<vehicleMakeName>HVY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13396,7 +13194,6 @@
 				<Item>TRUCK_FRONT_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Forklift = CAT Forklift -->
 		<Item>
 			<modelName>forklift</modelName>
 			<txdName>forklift</txdName>
@@ -13515,14 +13312,12 @@
 				<Item>UTIL_FORKLIFT_FRONT_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Dock Handler = Taylor TEC950L -->
 		<Item>
 			<modelName>handler</modelName>
 			<txdName>handler</txdName>
 			<handlingId>HANDLER</handlingId>
 			<gameName>HANDLER</gameName>
-			<vehicleMakeName />
-			<!-- Updated from HVY -->
+			<vehicleMakeName>HVY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13636,14 +13431,12 @@
 				<Item>UTIL_HANDLER_FRONT_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Mixer = GMC TopKick Mixer -->
 		<Item>
 			<modelName>mixer</modelName>
 			<txdName>mixer</txdName>
 			<handlingId>MIXER</handlingId>
 			<gameName>MIXER</gameName>
-			<vehicleMakeName>BRUTE</vehicleMakeName>
-			<!-- Updated from HVY -->
+			<vehicleMakeName>HVY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13760,14 +13553,12 @@
 				<Item>TRUCK_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Mixer 2 = Kenworth T800 -->
 		<Item>
 			<modelName>mixer2</modelName>
 			<txdName>mixer2</txdName>
 			<handlingId>MIXER2</handlingId>
 			<gameName>MIXER2</gameName>
-			<vehicleMakeName />
-			<!-- Updated from HVY -->
+			<vehicleMakeName>HVY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -13884,14 +13675,12 @@
 				<Item>TRUCK_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Ripley = SCHOPF F-series -->
 		<Item>
 			<modelName>ripley</modelName>
 			<txdName>ripley</txdName>
 			<handlingId>RIPLEY</handlingId>
 			<gameName>RIPLEY</gameName>
-			<vehicleMakeName />
-			<!-- Updated from HVY -->
+			<vehicleMakeName>HVY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -14000,14 +13789,12 @@
 				<Item>STD_RIPLEY_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- HVY Skylift = Sikorsky S-64 Skycrane/Aircrane -->
 		<Item>
 			<modelName>skylift</modelName>
 			<txdName>skylift</txdName>
 			<handlingId>SKYLIFT</handlingId>
 			<gameName>SKYLIFT</gameName>
-			<vehicleMakeName>WESTERN</vehicleMakeName>
-			<!-- Updated from HVY -->
+			<vehicleMakeName>HVY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -14110,8 +13897,121 @@
 			<lockOnPositionOffset x="0.000000" y="2.650000" z="0.425000" />
 		</Item>
 
-		<!-- IMPONTE = PONTIAC -->
-		<!-- Imponte Phoenix = Pontiac Firebird '81 -->
+		<!-- HIJAK -->
+
+		<Item>
+			<modelName>khamelion</modelName>
+			<txdName>khamelion</txdName>
+			<handlingId>KHAMEL</handlingId>
+			<gameName>KHAMEL</gameName>
+			<vehicleMakeName>HIJAK</vehicleMakeName>
+			<expressionDictName>null</expressionDictName>
+			<expressionName>null</expressionName>
+			<animConvRoofDictName>null</animConvRoofDictName>
+			<animConvRoofName>null</animConvRoofName>
+			<animConvRoofWindowsAffected />
+			<ptfxAssetName>null</ptfxAssetName>
+			<audioNameHash />
+			<layout>LAYOUT_STANDARD</layout>
+			<coverBoundOffsets>KHAMELION_COVER_OFFSET_INFO</coverBoundOffsets>
+			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+			<scenarioLayout />
+			<cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
+			<aimCameraName>MID_BOX_VEHICLE_AIM_CAMERA</aimCameraName>
+			<bonnetCameraName>VEHICLE_BONNET_CAMERA_STANDARD</bonnetCameraName>
+			<povCameraName>DEFAULT_POV_CAMERA</povCameraName>
+			<FirstPersonDriveByIKOffset x="0.000000" y="-0.060000" z="-0.050000" />
+			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.025000" z="0.000000" />
+			<FirstPersonProjectileDriveByIKOffset x="0.000000" y="-0.080000" z="-0.055000" />
+			<FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="-0.080000" z="-0.055000" />
+			<FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
+			<FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
+			<FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.060000" z="-0.050000" />
+			<FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.025000" z="0.000000" />
+			<FirstPersonMobilePhoneOffset x="0.135000" y="0.275000" z="0.535000" />
+			<FirstPersonPassengerMobilePhoneOffset x="0.135000" y="0.175000" z="0.445000" />
+			<PovCameraOffset x="0.000000" y="-0.160000" z="0.660000" />
+			<PovCameraVerticalAdjustmentForRollCage value="0.000000" />
+			<PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
+			<PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
+			<vfxInfoName>VFXVEHICLEINFO_CAR_ELECTRIC</vfxInfoName>
+			<shouldUseCinematicViewMode value="true" />
+			<shouldCameraTransitionOnClimbUpDown value="false" />
+			<shouldCameraIgnoreExiting value="false" />
+			<AllowPretendOccupants value="true" />
+			<AllowJoyriding value="true" />
+			<AllowSundayDriving value="true" />
+			<AllowBodyColorMapping value="true" />
+			<wheelScale value="0.324400" />
+			<wheelScaleRear value="0.324400" />
+			<dirtLevelMin value="0.000000" />
+			<dirtLevelMax value="0.550000" />
+			<envEffScaleMin value="0.000000" />
+			<envEffScaleMax value="1.000000" />
+			<envEffScaleMin2 value="0.000000" />
+			<envEffScaleMax2 value="1.000000" />
+			<damageMapScale value="1.000000" />
+			<damageOffsetScale value="0.500000" />
+			<diffuseTint value="0x57000000" />
+			<steerWheelMult value="0.650000" />
+			<HDTextureDist value="5.000000" />
+			<lodDistances content="float_array">
+				15.000000
+				30.000000
+				70.000000
+				140.000000
+				500.000000
+				500.000000
+			</lodDistances>
+			<minSeatHeight value="0.824" />
+			<identicalModelSpawnDistance value="20" />
+			<maxNumOfSameColor value="1" />
+			<defaultBodyHealth value="1000.000000" />
+			<pretendOccupantsScale value="1.000000" />
+			<visibleSpawnDistScale value="1.000000" />
+			<trackerPathWidth value="2.000000" />
+			<weaponForceMult value="1.000000" />
+			<frequency value="30" />
+			<swankness>SWANKNESS_3</swankness>
+			<maxNum value="10" />
+			<flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_IS_ELECTRIC FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
+			<type>VEHICLE_TYPE_CAR</type>
+			<plateType>VPT_BACK_PLATES</plateType>
+			<dashboardType>VDT_SULTAN</dashboardType>
+			<vehicleClass>VC_SPORT</vehicleClass>
+			<wheelType>VWT_HIEND</wheelType>
+			<trailers />
+			<additionalTrailers />
+			<drivers />
+			<extraIncludes />
+			<doorsWithCollisionWhenClosed />
+			<driveableDoors />
+			<bumpersNeedToCollideWithMap value="false" />
+			<needsRopeTexture value="false" />
+			<requiredExtras />
+			<rewards />
+			<cinematicPartCamera>
+				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+				<Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+				<Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+				<Item>WHEEL_REAR_LEFT_CAMERA</Item>
+			</cinematicPartCamera>
+			<NmBraceOverrideSet />
+			<buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
+			<buoyancySphereSizeScale value="1.000000" />
+			<pOverrideRagdollThreshold type="NULL" />
+			<firstPersonDrivebyData>
+				<Item>STD_KHAMELION_FRONT_LEFT</Item>
+				<Item>STD_KHAMELION_FRONT_RIGHT</Item>
+			</firstPersonDrivebyData>
+			<numSeatsOverride value="2" />
+		</Item>
+
+		<!-- IMPONTE -->
+
 		<Item>
 			<modelName>phoenix</modelName>
 			<txdName>phoenix</txdName>
@@ -14221,7 +14121,6 @@
 				<Item>STD_KHAMELION_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Imponte Ruiner = Pontiac Firebird '90 -->
 		<Item>
 			<modelName>ruiner</modelName>
 			<txdName>Ruiner</txdName>
@@ -14332,8 +14231,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- INVETERO = CORVETTE -->
-		<!-- Invetero Coquette = Chevrolet Corvette C7 -->
+		<!-- INVETERO -->
+
 		<Item>
 			<modelName>coquette</modelName>
 			<txdName>coquette</txdName>
@@ -14444,8 +14343,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- JACK SHEEP = JOHN DEERE-->
-		<!-- Jack Sheepe Mower = John Deere LX172 Mower -->
+		<!-- JACK SHEEP -->
+
 		<Item>
 			<modelName>mower</modelName>
 			<txdName>mower</txdName>
@@ -14558,8 +14457,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- JOBUILT = PETERBILT -->
-		<!-- Jobuilt Hauler = Peterbilt 362 -->
+		<!-- JOBUILT -->
+
 		<Item>
 			<modelName>hauler</modelName>
 			<txdName>hauler</txdName>
@@ -14689,7 +14588,6 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.00000" y="2.500000" z="0.000000" />
 		</Item>
-		<!-- Jobuilt Mammatus = Cessna 172 Skyhawk -->
 		<Item>
 			<modelName>mammatus</modelName>
 			<txdName>mammatus</txdName>
@@ -14814,7 +14712,6 @@
 				<Item>PLANE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Jobuilt Phantom = Peterbilt 359 EXHD -->
 		<Item>
 			<modelName>phantom</modelName>
 			<txdName>phantom</txdName>
@@ -14945,7 +14842,6 @@
 				<Item>TRUCK_PACKER_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Jobuilt Rubble = Peterbilt 359 EXHD -->
 		<Item>
 			<modelName>rubble</modelName>
 			<txdName>rubble</txdName>
@@ -15068,7 +14964,6 @@
 				<Item>TRUCK_PACKER_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Jobuilt Trashmaster (Trash) = Peterbilt 320 COE -->
 		<Item>
 			<modelName>trash</modelName>
 			<txdName>trash</txdName>
@@ -15185,14 +15080,12 @@
 				<Item>HANGING_FIRETRUK_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Jobuilt Velum = Piper PA-46 Malibu Meridian -->
 		<Item>
 			<modelName>velum</modelName>
 			<txdName>velum</txdName>
 			<handlingId>VELUM</handlingId>
 			<gameName>VELUM</gameName>
-			<vehicleMakeName />
-			<!-- Updated from JOBUILT -->
+			<vehicleMakeName>JOBUILT</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>va_cuban800</animConvRoofDictName>
@@ -15312,8 +15205,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- KARIN = TOYOTA -->
-		<!-- Karin Asterope = Toyota Camry XV40 -->
+		<!-- KARIN -->
+
 		<Item>
 			<modelName>asterope</modelName>
 			<txdName>asterope</txdName>
@@ -15434,7 +15327,6 @@
 				<Item>STD_ORACLE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Karin BeeJay XL = Toyota FJ Cruiser XJ10 -->
 		<Item>
 			<modelName>bjxl</modelName>
 			<txdName>bjxl</txdName>
@@ -15561,7 +15453,6 @@
 				<Item>STD_BJXL_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Karin Dilettante = Toyota Prius -->
 		<Item>
 			<modelName>dilettante</modelName>
 			<txdName>dilettante</txdName>
@@ -15683,7 +15574,6 @@
 				<Item>STD_DILETTANTE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Karin Dilettante Security = Toyota Prius Security -->
 		<Item>
 			<modelName>dilettante2</modelName>
 			<txdName>dilettante2</txdName>
@@ -15805,7 +15695,6 @@
 				<Item>STD_DILETTANTE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Karin Futo = Toyota AE86 Corolla Levin -->
 		<Item>
 			<modelName>futo</modelName>
 			<txdName>futo</txdName>
@@ -15916,14 +15805,12 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Karin Intruder = Infiniti Q45 -->
 		<Item>
 			<modelName>intruder</modelName>
 			<txdName>intruder</txdName>
 			<handlingId>INTRUDER</handlingId>
 			<gameName>INTRUDER</gameName>
-			<vehicleMakeName>FATHOM</vehicleMakeName>
-			<!-- Updated from KARIN -->
+			<vehicleMakeName>KARIN</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -16039,7 +15926,6 @@
 				<Item>STD_EXEMPLAR_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Karin Rebel (Rusty) = Toyota Hilux -->
 		<Item>
 			<modelName>rebel</modelName>
 			<txdName>rebel</txdName>
@@ -16152,7 +16038,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Karin Rebel 2 = Toyota Hilux -->
 		<Item>
 			<modelName>rebel2</modelName>
 			<txdName>rebel2</txdName>
@@ -16265,7 +16150,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Karin Sultan = Toyota Altezza -->
 		<Item>
 			<modelName>sultan</modelName>
 			<txdName>sultan</txdName>
@@ -16389,7 +16273,7 @@
 		</Item>
 
 		<!-- KRAKEN -->
-		<!-- Submersible = Perry Oceanographic PC-1201 -->
+
 		<Item>
 			<modelName>submersible</modelName>
 			<txdName>submersible</txdName>
@@ -16490,8 +16374,8 @@
 			<pOverrideRagdollThreshold type="NULL" />
 		</Item>
 
-		<!-- LAMPADATI = MASERATI -->
-		<!-- Lampadati Felon = Maserati Quattroporte V -->
+		<!-- LAMPADATI -->
+
 		<Item>
 			<modelName>felon</modelName>
 			<txdName>felon</txdName>
@@ -16612,7 +16496,6 @@
 				<Item>STD_FELON_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Lampadati Felon GT = Maserati GranCabrio -->
 		<Item>
 			<modelName>felon2</modelName>
 			<txdName>felon2</txdName>
@@ -16729,8 +16612,8 @@
 			<numSeatsOverride value="2" />
 		</Item>
 
-		<!-- LCC = WCC -->
-		<!-- Liberty City Cycles Hexer = WCC CFL -->
+		<!-- LCC -->
+
 		<Item>
 			<modelName>hexer</modelName>
 			<txdName>hexer</txdName>
@@ -16839,15 +16722,14 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- MAIBATSU = MITSUBISHI -->
-		<!-- Maibatsu Frogger = Eurocopter EC130 -->
+		<!-- MAIBATSU -->
+
 		<Item>
 			<modelName>frogger</modelName>
 			<txdName>frogger</txdName>
 			<handlingId>FROGGER</handlingId>
 			<gameName>FROGGER</gameName>
-			<vehicleMakeName>EUROC</vehicleMakeName>
-			<!-- Updated from MAIBATSU -->
+			<vehicleMakeName>MAIBATSU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -16956,14 +16838,12 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="0.000000" z="-0.250000" />
 		</Item>
-		<!-- Maibatsu Frogger 2 = Eurocopter EC130 -->
 		<Item>
 			<modelName>frogger2</modelName>
 			<txdName>frogger2</txdName>
 			<handlingId>FROGGER2</handlingId>
 			<gameName>FROGGER</gameName>
-			<vehicleMakeName>EUROC</vehicleMakeName>
-			<!-- Updated from MAIBATSU -->
+			<vehicleMakeName>MAIBATSU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -17072,14 +16952,12 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="0.300000" z="-0.200000" />
 		</Item>
-		<!-- Maibatsu Mule = Isuzu Elf -->
 		<Item>
 			<modelName>mule</modelName>
 			<txdName>mule</txdName>
 			<handlingId>MULE</handlingId>
 			<gameName>MULE</gameName>
-			<vehicleMakeName />
-			<!-- Updated from MAIBATSU -->
+			<vehicleMakeName>MAIBATSU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -17204,14 +17082,12 @@
 				<Item>VAN_MULE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Maibatsu Mule Custom = Isuzu Elf Custom -->
 		<Item>
 			<modelName>mule2</modelName>
 			<txdName>mule2</txdName>
 			<handlingId>MULE2</handlingId>
 			<gameName>MULE</gameName>
-			<vehicleMakeName />
-			<!-- Updated from MAIBATSU -->
+			<vehicleMakeName>MAIBATSU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -17316,7 +17192,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Maibatsu Penumbra = Mitsubishi Eclipse 4G -->
 		<Item>
 			<modelName>penumbra</modelName>
 			<txdName>penumbra</txdName>
@@ -17426,14 +17301,13 @@
 				<Item>STD_PENUMBRA_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Maibatsu Sanchez = Yamaha YZ450F -->
 		<Item>
 			<modelName>sanchez</modelName>
 			<txdName>sanchez</txdName>
 			<handlingId>SANCHEZ</handlingId>
 			<gameName>SANCHEZ01</gameName>
-			<vehicleMakeName />
-			<!-- Updated from MAIBATSU -->
+			<!--<vehicleMakeName>MAIBATSU</vehicleMakeName>-->
+			<vehicleMakeName>YAMAHA</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -17543,14 +17417,13 @@
 				<Item>BIKE_DAEMON_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Maibatsu Sanchez (Livery) = Yamaha YZ450F (Livery) -->
 		<Item>
 			<modelName>sanchez2</modelName>
 			<txdName>sanchez2</txdName>
 			<handlingId>SANCHEZ2</handlingId>
 			<gameName>SANCHEZ02</gameName>
-			<vehicleMakeName />
-			<!-- Updated from MAIBATSU -->
+			<!--<vehicleMakeName>MAIBATSU</vehicleMakeName>-->
+			<vehicleMakeName>YAMAHA</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -17661,8 +17534,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- MAMMOTH = HUMMER -->
-		<!-- Mammoth Patriot = Hummer H2 -->
+		<!-- MAMMOTH -->
+
 		<Item>
 			<modelName>patriot</modelName>
 			<txdName>patriot</txdName>
@@ -17781,15 +17654,14 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- MTL = MACK -->
-		<!-- MTL Firetruck = Pierce Dash 2000 -->
+		<!-- MTL -->
+
 		<Item>
 			<modelName>firetruk</modelName>
 			<txdName>firetruk</txdName>
 			<handlingId>FIRETRUK</handlingId>
 			<gameName>FIRETRUK</gameName>
-			<vehicleMakeName />
-			<!-- Updated from MTL -->
+			<vehicleMakeName>MTL</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -17904,7 +17776,6 @@
 				<Item>TRUCK_PACKER_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- MTL Flatbed = Mack CH613 -->
 		<Item>
 			<modelName>flatbed</modelName>
 			<txdName>flatbed</txdName>
@@ -18019,7 +17890,6 @@
 				<Item>TRUCK_PACKER_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- MTL Packer = Mack CH613 -->
 		<Item>
 			<modelName>packer</modelName>
 			<txdName>packer</txdName>
@@ -18151,7 +18021,6 @@
 				<Item>TRUCK_PACKER_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- MTL Pounder = Mack CH613 -->
 		<Item>
 			<modelName>pounder</modelName>
 			<txdName>pounder</txdName>
@@ -18265,15 +18134,15 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- NAGASAKI = KAWASAKI -->
-		<!-- Nagasaki Blazer = Yamaha YFZ450 -->
+		<!-- NAGASAKI -->
+
 		<Item>
 			<modelName>blazer</modelName>
 			<txdName>blazer</txdName>
 			<handlingId>BLAZER</handlingId>
 			<gameName>BLAZER</gameName>
-			<vehicleMakeName />
-			<!-- Updated from NAGASAKI -->
+			<!--<vehicleMakeName>NAGASAKI</vehicleMakeName>-->
+			<vehicleMakeName>YAMAHA</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18376,14 +18245,13 @@
 				<Item>BIKE_BLAZER_FRONT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Nagasaki Blazer 2 (Lifeguard) = Honda Fourtrax 250 -->
 		<Item>
 			<modelName>blazer2</modelName>
 			<txdName>blazer2</txdName>
 			<handlingId>BLAZER2</handlingId>
 			<gameName>BLAZER2</gameName>
+			<!--<vehicleMakeName>NAGASAKI</vehicleMakeName>-->
 			<vehicleMakeName>DINKA</vehicleMakeName>
-			<!-- Updated from NAGASAKI -->
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18495,14 +18363,12 @@
 				<Item>BIKE_BLAZER_FRONT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Nagasaki Blazer Hot Rod = Yamaha YFZ450 Hotrod -->
 		<Item>
 			<modelName>blazer3</modelName>
 			<txdName>blazer3</txdName>
 			<handlingId>BLAZER3</handlingId>
 			<gameName>BLAZER03</gameName>
-			<vehicleMakeName />
-			<!-- Updated from NAGASAKI -->
+			<vehicleMakeName>NAGASAKI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18605,14 +18471,12 @@
 				<Item>BIKE_BLAZER3_FRONT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Nagasaki Buzzard Attack Helicopter = Boeing AH-6M Little Bird -->
 		<Item>
 			<modelName>buzzard</modelName>
 			<txdName>buzzard</txdName>
 			<handlingId>BUZZARD</handlingId>
 			<gameName>BUZZARD</gameName>
-			<vehicleMakeName>BOEING</vehicleMakeName>
-			<!-- Updated from NAGASAKI -->
+			<vehicleMakeName>NAGASAKI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18731,14 +18595,12 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="0.000000" z="-0.220000" />
 		</Item>
-		<!-- Nagasaki Buzzard 2 = Boeing AH-6M Little Bird -->
 		<Item>
 			<modelName>buzzard2</modelName>
 			<txdName>buzzard2</txdName>
 			<handlingId>BUZZARD2</handlingId>
 			<gameName>BUZZARD2</gameName>
-			<vehicleMakeName>BOEING</vehicleMakeName>
-			<!-- Updated from NAGASAKI -->
+			<vehicleMakeName>NAGASAKI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18857,14 +18719,12 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="0.000000" z="-0.200000" />
 		</Item>
-		<!-- Nagasaki Caddy = E-Z-Go TXT -->
 		<Item>
 			<modelName>caddy</modelName>
 			<txdName>caddy</txdName>
 			<handlingId>CADDY</handlingId>
 			<gameName>CADDY</gameName>
-			<vehicleMakeName />
-			<!-- Updated from NAGASAKI -->
+			<vehicleMakeName>NAGASAKI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -18980,14 +18840,12 @@
 				<Item>VAN_CADDY_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Nagasaki Caddy2 = E-Z-Go Marathon -->
 		<Item>
 			<modelName>caddy2</modelName>
 			<txdName>caddy2</txdName>
 			<handlingId>CADDY2</handlingId>
 			<gameName>CADDY</gameName>
-			<vehicleMakeName />
-			<!-- Updated from NAGASAKI -->
+			<vehicleMakeName>NAGASAKI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -19090,14 +18948,12 @@
 				<Item>VAN_CADDY_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Nagasaki Carbon RS = Ducati 1199 -->
 		<Item>
 			<modelName>carbonrs</modelName>
 			<txdName>carbonrs</txdName>
 			<handlingId>CARBON</handlingId>
 			<gameName>CARBON</gameName>
-			<vehicleMakeName>PRINCIPL</vehicleMakeName>
-			<!-- Updated from NAGASAKI -->
+			<vehicleMakeName>NAGASAKI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -19202,14 +19058,12 @@
 				<Item>BIKE_BATI_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Nagasaki Dinghy = Zodiac Hurricane CZ7 -->
 		<Item>
 			<modelName>dinghy</modelName>
 			<txdName>dinghy</txdName>
 			<handlingId>DINGHY</handlingId>
 			<gameName>DINGHY</gameName>
-			<vehicleMakeName />
-			<!-- Updated from NAGASAKI -->
+			<vehicleMakeName>NAGASAKI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -19318,14 +19172,12 @@
 				<Item>BOAT_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Nagasaki Dinghy 2 = Zodiac Hurricane CZ7 -->
 		<Item>
 			<modelName>dinghy2</modelName>
 			<txdName>dinghy2</txdName>
 			<handlingId>DINGHY2</handlingId>
 			<gameName>DINGHY</gameName>
-			<vehicleMakeName />
-			<!-- Updated from NAGASAKI -->
+			<vehicleMakeName>NAGASAKI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -19429,8 +19281,8 @@
 			<numSeatsOverride value="2" />
 		</Item>
 
-		<!-- OBEY = AUDI -->
-		<!-- Obey 9F = Audi R8 Coupe Type 42 2008 -->
+		<!-- OBEY -->
+
 		<Item>
 			<modelName>ninef</modelName>
 			<txdName>ninef</txdName>
@@ -19540,7 +19392,6 @@
 				<Item>LOW_RAPIDGT_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Obey 9F Cabrio = Audi R8 Spyder 2012 -->
 		<Item>
 			<modelName>ninef2</modelName>
 			<txdName>ninef2</txdName>
@@ -19653,7 +19504,6 @@
 				<Item>LOW_RAPIDGT_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Obey Rocoto = Audi Q5 -->
 		<Item>
 			<modelName>rocoto</modelName>
 			<txdName>rocoto</txdName>
@@ -19763,7 +19613,6 @@
 				<Item>STD_PRIMO_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Obey Tailgater = Audi A6 -->
 		<Item>
 			<modelName>tailgater</modelName>
 			<txdName>tailgater</txdName>
@@ -19887,8 +19736,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- OCELOT = JAGUAR -->
-		<!-- Ocelot F620 = Jaguar XK -->
+		<!-- OCELOT -->
+
 		<Item>
 			<modelName>f620</modelName>
 			<txdName>f620</txdName>
@@ -19998,7 +19847,6 @@
 				<Item>LOW_F620_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Ocelot Jackal = Jaguar XF -->
 		<Item>
 			<modelName>Jackal</modelName>
 			<txdName>Jackal</txdName>
@@ -20121,8 +19969,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- OVERFLOD = KOENIGSEGG -->
-		<!-- Overflod Entity XF = Koenigsegg CCX -->
+		<!-- OVERFLOD -->
+
 		<Item>
 			<modelName>entityxf</modelName>
 			<txdName>entityxf</txdName>
@@ -20233,15 +20081,14 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- PEGASSI = LAMBORGHINI -->
-		<!-- Pegassi Bati 801 = Ducati 1098 -->
+		<!-- PEGASSI -->
+
 		<Item>
 			<modelName>bati</modelName>
 			<txdName>bati</txdName>
 			<handlingId>BATI</handlingId>
 			<gameName>BATI</gameName>
-			<vehicleMakeName>PRINCIPL</vehicleMakeName>
-			<!-- Updated from PEGASSI -->
+			<vehicleMakeName>PEGASSI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -20343,14 +20190,12 @@
 				<Item>BIKE_BATI_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Pegassi Bati 801RR = Ducati 1098 R -->
 		<Item>
 			<modelName>bati2</modelName>
 			<txdName>bati2</txdName>
 			<handlingId>BATI2</handlingId>
 			<gameName>BATI2</gameName>
-			<vehicleMakeName>PRINCIPL</vehicleMakeName>
-			<!-- Updated from PEGASSI -->
+			<vehicleMakeName>PEGASSI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -20453,14 +20298,12 @@
 				<Item>BIKE_BATI_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Pegassi Faggio = Piaggio Vespa -->
 		<Item>
 			<modelName>faggio2</modelName>
 			<txdName>faggio2</txdName>
 			<handlingId>FAGGIO</handlingId>
 			<gameName>FAGGIO</gameName>
-			<vehicleMakeName>PIAGGIO</vehicleMakeName>
-			<!-- Updated from PEGASSI -->
+			<vehicleMakeName>PEGASSI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -20565,7 +20408,6 @@
 				<Item>BIKE_DAEMON_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Pegassi Infernus = Lamborghini Murciélago -->
 		<Item>
 			<modelName>infernus</modelName>
 			<txdName>infernus</txdName>
@@ -20675,7 +20517,6 @@
 				<Item>LOW_HOTKNIFE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Pegassi Monroe = Lamborghini Miura -->
 		<Item>
 			<modelName>monroe</modelName>
 			<txdName>monroe</txdName>
@@ -20785,14 +20626,12 @@
 				<Item>LOW_MONROE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Pegassi Ruffian = Ducati Monster 1100 Evo -->
 		<Item>
 			<modelName>ruffian</modelName>
 			<txdName>ruffian</txdName>
 			<handlingId>RUFFIAN</handlingId>
 			<gameName>RUFFIAN</gameName>
-			<vehicleMakeName>PRINCIPL</vehicleMakeName>
-			<!-- Updated from PEGASSI -->
+			<vehicleMakeName>PEGASSI</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -20895,7 +20734,6 @@
 				<Item>BIKE_BATI_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Pegassi Vacca = Lamborghini Gallardo Coupe -->
 		<Item>
 			<modelName>vacca</modelName>
 			<txdName>vacca</txdName>
@@ -21006,8 +20844,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- PFISTER = PORSCHE -->
-		<!-- Pfister Comet 2 = Porsche 996 Carrera -->
+		<!-- PFISTER -->
+
 		<Item>
 			<modelName>comet2</modelName>
 			<txdName>comet2</txdName>
@@ -21118,8 +20956,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- PRINCIPE = DUCATI -->
-		<!-- Principe Nemesis = Ducati Monster -->
+		<!-- PRINCIPE -->
+
 		<Item>
 			<modelName>nemesis</modelName>
 			<txdName>nemesis</txdName>
@@ -21231,8 +21069,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- SCHYSTER = CHRYSLER -->
-		<!-- Schyster Fusilade = Chrysler Crossfire -->
+		<!-- SCHYSTER -->
+
 		<Item>
 			<modelName>fusilade</modelName>
 			<txdName>fusilade</txdName>
@@ -21343,15 +21181,14 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- SHITZU = SUZUKI -->
-		<!-- Shitzu Jetmax = Chris Craft Stinger 260 -->
+		<!-- SHITZU -->
+
 		<Item>
 			<modelName>jetmax</modelName>
 			<txdName>jetmax</txdName>
 			<handlingId>JETMAX</handlingId>
 			<gameName>JETMAX</gameName>
-			<vehicleMakeName />
-			<!-- Updated from SHITZU -->
+			<vehicleMakeName>SHITZU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21453,14 +21290,12 @@
 				<Item>BOAT_JETMAX_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Shitzu PCJ 600 = Honda CB600F -->
 		<Item>
 			<modelName>pcj</modelName>
 			<txdName>pcj</txdName>
 			<handlingId>PCJ</handlingId>
 			<gameName>PCJ</gameName>
-			<vehicleMakeName />
-			<!-- Updated from SHITZU -->
+			<vehicleMakeName>SHITZU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21563,14 +21398,12 @@
 				<Item>BIKE_BATI_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Shitzu Squalo = Chris-Craft Stinger 390x -->
 		<Item>
 			<modelName>squalo</modelName>
 			<txdName>squalo</txdName>
 			<handlingId>SQUALO</handlingId>
 			<gameName>SQUALO</gameName>
-			<vehicleMakeName />
-			<!-- Updated from SHITZU -->
+			<vehicleMakeName>SHITZU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21672,14 +21505,12 @@
 				<Item>BOAT_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Shitzu Suntrap = Bryant 219 -->
 		<Item>
 			<modelName>suntrap</modelName>
 			<txdName>suntrap</txdName>
 			<handlingId>SUNTRAP</handlingId>
 			<gameName>SUNTRAP</gameName>
-			<vehicleMakeName />
-			<!-- Updated from SHITZU -->
+			<vehicleMakeName>SHITZU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21783,14 +21614,12 @@
 				<Item>BOAT_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Shitzu Tropic = Sea Ray 300 Sundancer -->
 		<Item>
 			<modelName>tropic</modelName>
 			<txdName>tropic</txdName>
 			<handlingId>TROPIC</handlingId>
 			<gameName>TROPIC</gameName>
-			<vehicleMakeName />
-			<!-- Updated from SHITZU -->
+			<vehicleMakeName>SHITZU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -21895,14 +21724,12 @@
 				<Item>BOAT_REAR_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Shitzu Vader = Kawasaki Z1000 -->
 		<Item>
 			<modelName>vader</modelName>
 			<txdName>vader</txdName>
 			<handlingId>VADER</handlingId>
 			<gameName>VADER</gameName>
-			<vehicleMakeName />
-			<!-- Updated from SHITZU -->
+			<vehicleMakeName>SHITZU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -22005,8 +21832,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- SPEEDOPHILE = BOMBARDIER -->
-		<!-- Speedophile Seashark = Bombardier Sea Doo RXT -->
+		<!-- SPEEDOPHILE -->
+
 		<Item>
 			<modelName>seashark</modelName>
 			<txdName>seashark</txdName>
@@ -22119,7 +21946,6 @@
 				<Item>BOAT_JETSKI_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Speedophile Seashark 2 = Bombardier Sea Doo RXT -->
 		<Item>
 			<modelName>seashark2</modelName>
 			<txdName>seashark2</txdName>
@@ -22237,15 +22063,14 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- STANLEY = FORDSON -->
-		<!-- Stanley Tractor = Fordson Model F -->
+		<!-- STANLEY -->
+
 		<Item>
 			<modelName>tractor</modelName>
 			<txdName>tractor</txdName>
 			<handlingId>TRACTOR</handlingId>
 			<gameName>TRACTOR</gameName>
-			<vehicleMakeName>VAPID</vehicleMakeName>
-			<!-- Updated from STANLEY -->
+			<vehicleMakeName>STANLEY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -22350,7 +22175,6 @@
 				<Item>UTIL_TRACTOR_FRONT_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Stanley Fieldmaster Tractor 2 = John Deere 7810 -->
 		<Item>
 			<modelName>tractor2</modelName>
 			<txdName>tractor2</txdName>
@@ -22469,7 +22293,6 @@
 				<Item>UTIL_TRACTOR_FRONT_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Stanley Fieldmaster Tractor 3 = John Deere 7810 (Snow) -->
 		<Item>
 			<modelName>tractor3</modelName>
 			<txdName>tractor3</txdName>
@@ -22599,8 +22422,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- TRUFFADE = BUGATTI -->
-		<!-- Truffade Adder = Bugatti Veyron Super Sport -->
+		<!-- TRUFFADE -->
+
 		<Item>
 			<modelName>adder</modelName>
 			<txdName>adder</txdName>
@@ -22710,7 +22533,6 @@
 				<Item>LOW_ADDER_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Truffade Z-Type = Bugatti Type 57SC Atlantic -->
 		<Item>
 			<modelName>ztype</modelName>
 			<txdName>ztype</txdName>
@@ -22821,8 +22643,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- UBERMACHT = BMW -->
-		<!-- Ubermacht Oracle = BMW 7 F01 -->
+		<!-- UBERMACHT -->
+
 		<Item>
 			<modelName>oracle</modelName>
 			<txdName>oracle</txdName>
@@ -22944,7 +22766,6 @@
 				<Item>STD_ORACLE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Ubermacht Oracle XS = BMW 5 E39 -->
 		<Item>
 			<modelName>oracle2</modelName>
 			<txdName>oracle2</txdName>
@@ -23066,7 +22887,6 @@
 				<Item>STD_ORACLE2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Ubermacht Sentinel = BMW 3 E93 -->
 		<Item>
 			<modelName>sentinel</modelName>
 			<txdName>sentinel</txdName>
@@ -23176,7 +22996,6 @@
 				<Item>STD_SENTINEL_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Ubermacht Sentinel XS = BMW 3 E92 -->
 		<Item>
 			<modelName>sentinel2</modelName>
 			<txdName>sentinel2</txdName>
@@ -23291,7 +23110,6 @@
 				<Item>STD_SENTINEL_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Ubermacht Zion = BMW 6 E63 -->
 		<Item>
 			<modelName>zion</modelName>
 			<txdName>zion</txdName>
@@ -23401,7 +23219,6 @@
 				<Item>LOW_ZION_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Ubermacht Zion Cabrio = BMW 6 E64 -->
 		<Item>
 			<modelName>zion2</modelName>
 			<txdName>zion2</txdName>
@@ -23518,14 +23335,13 @@
 		</Item>
 
 		<!-- VAPID -->
-		<!-- Vapid Benson = International 4000 -->
+
 		<Item>
 			<modelName>benson</modelName>
 			<txdName>benson</txdName>
 			<handlingId>BENSON</handlingId>
 			<gameName>BENSON</gameName>
-			<vehicleMakeName>INTERNATION</vehicleMakeName>
-			<!-- Updated from VAPID -->
+			<vehicleMakeName>VAPID</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -23642,14 +23458,12 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Vapid Bobcat XL = Chevrolet C/K -->
 		<Item>
 			<modelName>bobcatxl</modelName>
 			<txdName>bobcatxl</txdName>
 			<handlingId>BOBCATXL</handlingId>
 			<gameName>BOBCATXL</gameName>
-			<vehicleMakeName>DECLASSE</vehicleMakeName>
-			<!-- Updated from VAPID -->
+			<vehicleMakeName>VAPID</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -23761,7 +23575,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Vapid Bullet = Ford GT -->
 		<Item>
 			<modelName>bullet</modelName>
 			<txdName>bullet</txdName>
@@ -23871,7 +23684,6 @@
 				<Item>LOW_BULLET_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Dominator = Ford Mustang '09 -->
 		<Item>
 			<modelName>dominator</modelName>
 			<txdName>dominator</txdName>
@@ -23982,7 +23794,6 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Vapid Hotknife = Ford Model A '20 -->
 		<Item>
 			<modelName>hotknife</modelName>
 			<txdName>hotknife</txdName>
@@ -24094,7 +23905,6 @@
 				<Item>LOW_HOTKNIFE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Minivan = Ford Windstar -->
 		<Item>
 			<modelName>minivan</modelName>
 			<txdName>minivan</txdName>
@@ -24216,7 +24026,6 @@
 				<Item>STD_ASEA_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Peyote = Ford Thunderbird -->
 		<Item>
 			<modelName>peyote</modelName>
 			<txdName>peyote</txdName>
@@ -24326,7 +24135,6 @@
 				<Item>LOW_PEYOTE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Radius = Ford Edge -->
 		<Item>
 			<modelName>radi</modelName>
 			<txdName>radi</txdName>
@@ -24448,7 +24256,6 @@
 				<Item>STD_DILETTANTE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Sadler = Ford F-250 Super Duty -->
 		<Item>
 			<modelName>sadler</modelName>
 			<txdName>sadler</txdName>
@@ -24590,7 +24397,6 @@
 				<Item>RANGER_CRUSADER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Sadler 2 (Snow) = Ford F-250 Super Duty -->
 		<Item>
 			<modelName>sadler2</modelName>
 			<txdName>sadler2</txdName>
@@ -24742,7 +24548,6 @@
 				<Item>RANGER_CRUSADER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Sandking (XL) = Ford F-350 Super Duty -->
 		<Item>
 			<modelName>sandking</modelName>
 			<txdName>sandking</txdName>
@@ -24854,7 +24659,6 @@
 				<Item>RANGER_CRUSADER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Sandking 2 SWB = Ford F-350 Super Duty -->
 		<Item>
 			<modelName>sandking2</modelName>
 			<txdName>sandking2</txdName>
@@ -24965,14 +24769,12 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Vapid Scrap Truck = International Scraptruck -->
 		<Item>
 			<modelName>scrap</modelName>
 			<txdName>scrap</txdName>
 			<handlingId>SCRAP</handlingId>
 			<gameName>SCRAP</gameName>
-			<vehicleMakeName>INTERNATION</vehicleMakeName>
-			<!-- Updated from VAPID -->
+			<vehicleMakeName>VAPID</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -25081,7 +24883,6 @@
 				<Item>TRUCK_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Speedo = Ford E-Series -->
 		<Item>
 			<modelName>speedo</modelName>
 			<txdName>speedo</txdName>
@@ -25216,7 +25017,6 @@
 				<Item>VAN_PONY_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Speedo 2 = Ford E-Series -->
 		<Item>
 			<modelName>speedo2</modelName>
 			<txdName>speedo2</txdName>
@@ -25343,7 +25143,6 @@
 				<Item>VAN_PONY_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Stanier = Ford Crown Victoria -->
 		<Item>
 			<modelName>stanier</modelName>
 			<txdName>stanier</txdName>
@@ -25465,7 +25264,6 @@
 				<Item>STD_POLICE2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Towtruck = Ford F-Series Tow Truck -->
 		<Item>
 			<modelName>towtruck</modelName>
 			<txdName>towtruck</txdName>
@@ -25584,7 +25382,6 @@
 				<Item>TRUCK_TOWTRUCK_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Vapid Towtruck 2 = Ford F-Series Tow Truck -->
 		<Item>
 			<modelName>towtruck2</modelName>
 			<txdName>towtruck2</txdName>
@@ -25703,14 +25500,12 @@
 				<Item>TRUCK_TOWTRUCK2_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Brute Utility Truck = International 4700 Series -->
 		<Item>
 			<modelName>utillitruck</modelName>
 			<txdName>utillitruck</txdName>
 			<handlingId>UTILTRUC</handlingId>
 			<gameName>UTILTRUC</gameName>
-			<!--<vehicleMakeName>BRUTE</vehicleMakeName>-->
-			<vehicleMakeName>INTERNATION</vehicleMakeName>
+			<vehicleMakeName>VAPID</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -25828,14 +25623,12 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Brute Utility Truck 2 = International 4700 Series -->
 		<Item>
 			<modelName>utillitruck2</modelName>
 			<txdName>utillitruck2</txdName>
 			<handlingId>UTILTRUC2</handlingId>
 			<gameName>UTILTRUC</gameName>
-			<!--<vehicleMakeName>BRUTE</vehicleMakeName>-->
-			<vehicleMakeName>INTERNATION</vehicleMakeName>
+			<vehicleMakeName>VAPID</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -25951,13 +25744,11 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
-		<!-- Vapid Utlity Truck 3 = Ford F150 -->
 		<Item>
 			<modelName>utillitruck3</modelName>
 			<txdName>utillitruck3</txdName>
 			<handlingId>UTILTRUC3</handlingId>
-			<gameName>UTILTRUC3</gameName>
-			<!--<vehicleMakeName>BRUTE</vehicleMakeName>-->
+			<gameName>UTILTRUC</gameName>
 			<vehicleMakeName>VAPID</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
@@ -26075,8 +25866,8 @@
 			<numSeatsOverride value="2" />
 		</Item>
 
-		<!-- VULCAR = VOLVO -->
-		<!-- Vulcar Ingot = Volvo V70 -->
+		<!-- VULCAR -->
+
 		<Item>
 			<modelName>ingot</modelName>
 			<txdName>ingot</txdName>
@@ -26199,8 +25990,8 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- WEENY = MINI -->
-		<!-- Weeny Issi = Mini Cooper '06 -->
+		<!-- WEENY -->
+
 		<Item>
 			<modelName>issi2</modelName>
 			<txdName>issi2</txdName>
@@ -26317,15 +26108,14 @@
 			<numSeatsOverride value="2" />
 		</Item>
 
-		<!-- WESTERN = HARLEY-DAVIDSON -->
-		<!-- Western Annihilator = Sikorsky MH-60L DAP -->
+		<!-- WESTERN -->
+
 		<Item>
 			<modelName>annihilator</modelName>
 			<txdName>annihilator</txdName>
 			<handlingId>ANNIHL</handlingId>
 			<gameName>ANNIHL</gameName>
-			<vehicleMakeName />
-			<!-- Updated from WESTERN -->
+			<vehicleMakeName>WESTERN</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -26450,7 +26240,6 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="0.525000" z="-1.215000" />
 		</Item>
-		<!-- Western Bagger = Harley-Davidson Touring Road Glide Custom -->
 		<Item>
 			<modelName>bagger</modelName>
 			<txdName>bagger</txdName>
@@ -26560,14 +26349,12 @@
 				<Item>BIKE_BAGGER_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Western Cargobob (Marines) = Sikorsky MH-53 Pave Low -->
 		<Item>
 			<modelName>cargobob</modelName>
 			<txdName>cargobob</txdName>
 			<handlingId>CARGOBOB</handlingId>
 			<gameName>CARGOBOB</gameName>
-			<vehicleMakeName />
-			<!-- Updated from WESTERN -->
+			<vehicleMakeName>WESTERN</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -26689,14 +26476,12 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="1.000000" z="0.600000" />
 		</Item>
-		<!-- Western Cargobob 2 (JETSAM) = Sikorsky MH-53 Pave Low (MAERSK) -->
 		<Item>
 			<modelName>cargobob2</modelName>
 			<txdName>cargobob2</txdName>
 			<handlingId>CARGOBOB2</handlingId>
 			<gameName>CARGOBOB</gameName>
-			<vehicleMakeName />
-			<!-- Updated from WESTERN -->
+			<vehicleMakeName>WESTERN</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -26813,14 +26598,12 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="1.000000" z="0.600000" />
 		</Item>
-		<!-- Western Cargobob 3 (TP Industries) = Sikorsky MH-53 Pave Low -->
 		<Item>
 			<modelName>cargobob3</modelName>
 			<txdName>cargobob3</txdName>
 			<handlingId>CARGOBOB3</handlingId>
 			<gameName>CARGOBOB</gameName>
-			<vehicleMakeName />
-			<!-- Updated from WESTERN -->
+			<vehicleMakeName>WESTERN</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -26942,14 +26725,12 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="1.000000" z="0.600000" />
 		</Item>
-		<!-- Western Cuban 800 = Piper PA-30 Twin Comanche -->
 		<Item>
 			<modelName>cuban800</modelName>
 			<txdName>cuban800</txdName>
 			<handlingId>CUBAN800</handlingId>
 			<gameName>CUBAN800</gameName>
-			<vehicleMakeName />
-			<!-- Updated from WESTERN -->
+			<vehicleMakeName>WESTERN</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>va_cuban800</animConvRoofDictName>
@@ -27058,7 +26839,6 @@
 				<Item>PLANE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Western Motorcycle Company Daemon = Harley-Davidson Dyna Street Bob -->
 		<Item>
 			<modelName>daemon</modelName>
 			<txdName>daemon</txdName>
@@ -27167,14 +26947,12 @@
 				<Item>BIKE_DAEMON_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Western Duster = Stearman PT-17 -->
 		<Item>
 			<modelName>duster</modelName>
 			<txdName>duster</txdName>
 			<handlingId>DUSTER</handlingId>
 			<gameName>DUSTER</gameName>
-			<vehicleMakeName />
-			<!-- Updated from WESTERN -->
+			<vehicleMakeName>WESTERN</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -27297,15 +27075,14 @@
 			</firstPersonDrivebyData>
 		</Item>
 
-		<!-- ZIRCONIUM = MERCURY -->
-		<!-- Zirconium Journey = Fleetwood Pace Arrow -->
+		<!-- ZIRCONIUM -->
+
 		<Item>
 			<modelName>journey</modelName>
 			<txdName>journey</txdName>
 			<handlingId>JOURNEY</handlingId>
 			<gameName>JOURNEY</gameName>
-			<vehicleMakeName />
-			<!-- Updated from ZIRCONIU -->
+			<vehicleMakeName>ZIRCONIU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -27425,14 +27202,12 @@
 				<Item>VAN_JOURNEY_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Zirconium Stratum = Honda Accord -->
 		<Item>
 			<modelName>stratum</modelName>
 			<txdName>stratum</txdName>
 			<handlingId>STRATUM</handlingId>
 			<gameName>STRATUM</gameName>
-			<vehicleMakeName>DINKA</vehicleMakeName>
-			<!-- Updated from ZIRCONIU -->
+			<vehicleMakeName>ZIRCONIU</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -27677,7 +27452,6 @@
 				<Item>BUS_PASSENGER_RIGHT_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-		<!-- Brute Ambulance = Chevrolet Express 3500 -->
 		<Item>
 			<modelName>ambulance</modelName>
 			<txdName>ambulance</txdName>
@@ -27805,7 +27579,6 @@
 				<Item>VAN_BOXVILLE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>blimp</modelName>
 			<txdName>blimp</txdName>
@@ -27915,7 +27688,6 @@
 				<Item>BLIMP_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>BMX</modelName>
 			<txdName>bmx</txdName>
@@ -28038,7 +27810,6 @@
 				<Item>BICYCLE_BMX_FRONT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>bus</modelName>
 			<txdName>bus</txdName>
@@ -28165,7 +27936,6 @@
 				<Item>BUS_PASSENGER_RIGHT_REAR</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>cruiser</modelName>
 			<txdName>cruiser</txdName>
@@ -28271,7 +28041,6 @@
 				<Item>BICYCLE_CRUISER_FRONT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>coach</modelName>
 			<txdName>coach</txdName>
@@ -28392,7 +28161,6 @@
 				<Item>BUS_PASSENGER_RIGHT_MIDDLE</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>fbi</modelName>
 			<txdName>fbi</txdName>
@@ -28527,7 +28295,6 @@
 				<Item>STD_POLICE2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>fbi2</modelName>
 			<txdName>fbi2</txdName>
@@ -28662,7 +28429,6 @@
 				<Item>RANGER_PRANGER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>fixter</modelName>
 			<txdName>fixter</txdName>
@@ -28768,7 +28534,6 @@
 				<Item>BICYCLE_FIXTER_FRONT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>pbus</modelName>
 			<txdName>pbus</txdName>
@@ -28889,7 +28654,6 @@
 				<Item>BUS_PRISON_PASSENGER_RIGHT_OPEN</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>pranger</modelName>
 			<txdName>pranger</txdName>
@@ -29022,7 +28786,6 @@
 				<Item>RANGER_PRANGER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>police</modelName>
 			<txdName>police</txdName>
@@ -29153,7 +28916,6 @@
 				<Item>STD_POLICE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>police2</modelName>
 			<txdName>police2</txdName>
@@ -29284,7 +29046,6 @@
 				<Item>STD_POLICE2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>police3</modelName>
 			<txdName>police3</txdName>
@@ -29415,7 +29176,6 @@
 				<Item>STD_POLICE2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>police4</modelName>
 			<txdName>police4</txdName>
@@ -29546,7 +29306,6 @@
 				<Item>STD_POLICE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>policeb</modelName>
 			<txdName>policeb</txdName>
@@ -29663,7 +29422,6 @@
 				<Item>BIKE_POLICEB_FRONT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>policet</modelName>
 			<txdName>policet</txdName>
@@ -29792,7 +29550,6 @@
 				<Item>VAN_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>policeold1</modelName>
 			<txdName>policeold1</txdName>
@@ -29914,7 +29671,6 @@
 				<Item>RANGER_POLICEOLD1_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>policeold2</modelName>
 			<txdName>policeold2</txdName>
@@ -30046,7 +29802,6 @@
 				<Item>STD_POLICE2_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>rentalbus</modelName>
 			<txdName>rentalbus</txdName>
@@ -30196,7 +29951,6 @@
 				<Item>BUS_TOURBUS_PASSENGER_LEFT_OPEN</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>rhino</modelName>
 			<txdName>rhino</txdName>
@@ -30306,7 +30060,6 @@
 				<ThresholdMult value="1.500000" />
 			</pOverrideRagdollThreshold>
 		</Item>
-
 		<Item>
 			<modelName>riot</modelName>
 			<txdName>riot</txdName>
@@ -30435,7 +30188,6 @@
 				<Item>VAN_STOCKADE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>sheriff</modelName>
 			<txdName>sheriff</txdName>
@@ -30566,7 +30318,6 @@
 				<Item>STD_POLICE_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>sheriff2</modelName>
 			<txdName>sheriff2</txdName>
@@ -30687,13 +30438,13 @@
 				<Item>RANGER_PRANGER_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>taco</modelName>
 			<txdName>taco</txdName>
 			<handlingId>TACO</handlingId>
 			<gameName>TACO</gameName>
-			<vehicleMakeName />
+			<!--<vehicleMakeName />-->
+			<vehicleMakeName>BRUTE</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -30799,7 +30550,6 @@
 				<Item>VAN_TACO_FRONT_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>taxi</modelName>
 			<txdName>taxi</txdName>
@@ -30926,7 +30676,6 @@
 				<Item>STD_TAXI_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>tourbus</modelName>
 			<txdName>tourbus</txdName>
@@ -31081,7 +30830,6 @@
 				<Item>BUS_TOURBUS_PASSENGER_LEFT_OPEN</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>scorcher</modelName>
 			<txdName>scorcher</txdName>
@@ -31190,7 +30938,6 @@
 				<Item>BICYCLE_MOUNTAIN_FRONT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>tribike</modelName>
 			<txdName>tribike</txdName>
@@ -31296,7 +31043,6 @@
 				<Item>BICYCLE_TRIBIKE_FRONT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>tribike2</modelName>
 			<txdName>tribike2</txdName>
@@ -31402,7 +31148,6 @@
 				<Item>BICYCLE_TRIBIKE_FRONT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>tribike3</modelName>
 			<txdName>tribike3</txdName>
@@ -31639,7 +31384,6 @@
 				<Item>BOAT_PREDATOR_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>polmav</modelName>
 			<txdName>polmav</txdName>
@@ -31768,7 +31512,6 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="0.600000" z="-0.100000" />
 		</Item>
-
 		<Item>
 			<modelName>stunt</modelName>
 			<txdName>stunt</txdName>
@@ -31877,7 +31620,6 @@
 				<Item>STD_FRONT_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>jet</modelName>
 			<txdName>jet</txdName>
@@ -31990,7 +31732,6 @@
 				<Item>PLANE_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>titan</modelName>
 			<txdName>titan</txdName>
@@ -32110,7 +31851,6 @@
 			</firstPersonDrivebyData>
 			<lockOnPositionOffset x="0.000000" y="0.000000" z="-2.500000" />
 		</Item>
-
 		<Item>
 			<modelName>lazer</modelName>
 			<txdName>lazer</txdName>
@@ -32225,7 +31965,6 @@
 				<Item>STD_FRONT_LEFT</Item>
 			</firstPersonDrivebyData>
 		</Item>
-
 		<Item>
 			<modelName>cargoplane</modelName>
 			<txdName>cargoplane</txdName>
@@ -32457,7 +32196,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>armytrailer</modelName>
 			<txdName>armytrailer</txdName>
@@ -32557,7 +32295,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>armytrailer2</modelName>
 			<txdName>armytrailer2</txdName>
@@ -32657,7 +32394,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>baletrailer</modelName>
 			<txdName>baletrailer</txdName>
@@ -32754,7 +32490,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>boattrailer</modelName>
 			<txdName>vehshare_truck</txdName>
@@ -32854,7 +32589,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>cablecar</modelName>
 			<txdName>cablecar</txdName>
@@ -32959,7 +32693,6 @@
 			<buoyancySphereSizeScale value="1.000000" />
 			<pOverrideRagdollThreshold type="NULL" />
 		</Item>
-
 		<Item>
 			<modelName>docktrailer</modelName>
 			<txdName>docktrailer</txdName>
@@ -33056,7 +32789,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>freighttrailer</modelName>
 			<txdName>freighttrailer</txdName>
@@ -33156,7 +32888,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>freightcar</modelName>
 			<txdName>freightcar</txdName>
@@ -33253,7 +32984,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>freight</modelName>
 			<txdName>freight</txdName>
@@ -33359,7 +33089,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="2" />
 		</Item>
-
 		<Item>
 			<modelName>freightcont1</modelName>
 			<txdName>freightcont1</txdName>
@@ -33457,7 +33186,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="2" />
 		</Item>
-
 		<Item>
 			<modelName>freightcont2</modelName>
 			<txdName>freightcont2</txdName>
@@ -33555,7 +33283,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="2" />
 		</Item>
-
 		<Item>
 			<modelName>freightgrain</modelName>
 			<txdName>freightgrain</txdName>
@@ -33653,7 +33380,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="2" />
 		</Item>
-
 		<Item>
 			<modelName>graintrailer</modelName>
 			<txdName>graintrailer</txdName>
@@ -33752,7 +33478,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>metrotrain</modelName>
 			<txdName>metrotrain</txdName>
@@ -33862,7 +33587,6 @@
 			<buoyancySphereSizeScale value="1.000000" />
 			<pOverrideRagdollThreshold type="NULL" />
 		</Item>
-
 		<Item>
 			<modelName>proptrailer</modelName>
 			<txdName>proptrailer</txdName>
@@ -33962,7 +33686,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="2" />
 		</Item>
-
 		<Item>
 			<modelName>tankercar</modelName>
 			<txdName>tankercar</txdName>
@@ -34060,7 +33783,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="2" />
 		</Item>
-
 		<Item>
 			<modelName>trailers</modelName>
 			<txdName>trailers</txdName>
@@ -34157,7 +33879,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>trailers2</modelName>
 			<txdName>trailers2</txdName>
@@ -34257,7 +33978,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>trailers3</modelName>
 			<txdName>trailers3</txdName>
@@ -34356,7 +34076,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>tvtrailer</modelName>
 			<txdName>tvtrailer</txdName>
@@ -34456,7 +34175,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>raketrailer</modelName>
 			<txdName>null</txdName>
@@ -34553,7 +34271,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>tanker</modelName>
 			<txdName>tanker</txdName>
@@ -34650,7 +34367,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>trailerlogs</modelName>
 			<txdName>trailerlogs</txdName>
@@ -34747,7 +34463,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>tr2</modelName>
 			<txdName>tr2</txdName>
@@ -34850,7 +34565,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>tr3</modelName>
 			<txdName>tr3</txdName>
@@ -34947,7 +34661,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>tr4</modelName>
 			<txdName>tr4</txdName>
@@ -35050,7 +34763,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>trflat</modelName>
 			<txdName>trflat</txdName>
@@ -35147,7 +34859,6 @@
 			<pOverrideRagdollThreshold type="NULL" />
 			<numSeatsOverride value="0" />
 		</Item>
-
 		<Item>
 			<modelName>trailersmall</modelName>
 			<txdName>trailersmall</txdName>
