@@ -20,23 +20,11 @@ TIPTRUCK2: <!-- Updated from BRUTE -->
 VAPID
 
 
-MAVERICK: <!-- Updated from BUCKING -->
-<vehicleMakeName />
-
-
 AKUMA: <!-- Updated from DINKA -->
 <vehicleMakeName />
 
 
 MARQUIS: <!-- Updated from DINKA -->
-<vehicleMakeName />
-
-
-AIRTUG: <!-- Updated from HVY -->
-<vehicleMakeName />
-
-
-BARRACKS: <!-- Updated from HVY -->
 <vehicleMakeName />
 
 
@@ -52,14 +40,6 @@ CUTTER: <!-- Updated from HVY -->
 <vehicleMakeName />
 
 
-DOCKTUG: <!-- Updated from HVY -->
-<vehicleMakeName />
-
-
-HANDLER: <!-- Updated from HVY -->
-<vehicleMakeName />
-
-
 MIXER: <!-- Updated from HVY -->
 BRUTE
 
@@ -68,17 +48,8 @@ MIXER2: <!-- Updated from HVY -->
 <vehicleMakeName />
 
 
-RIPLEY: <!-- Updated from HVY -->
-<vehicleMakeName />
-
-
-
 SKYLIFT: <!-- Updated from HVY -->
 WESTERN
-
-
-VELUM: <!-- Updated from JOBUILT -->
-<vehicleMakeName />
 
 
 INTRUDER: <!-- Updated from KARIN -->
@@ -95,7 +66,6 @@ EUROC
 
 MULE: <!-- Updated from MAIBATSU -->
 <vehicleMakeName />
-
 
 
 MULE2: <!-- Updated from MAIBATSU -->
@@ -132,14 +102,6 @@ BOEING
 
 BUZZARD2: <!-- Updated from NAGASAKI -->
 BOEING
-
-
-CADDY: <!-- Updated from NAGASAKI -->
-<vehicleMakeName />
-
-
-CADDY2: <!-- Updated from NAGASAKI -->
-<vehicleMakeName />
 
 
 CARBON: <!-- Updated from NAGASAKI -->
@@ -210,30 +172,6 @@ SCRAP: <!-- Updated from VAPID -->
 INTERNATION
 
 
-ANNIHL: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
-CARGOBOB: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
-CARGOBOB2: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
-CARGOBOB3: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
-CUBAN800: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
-DUSTER: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
 JOURNEY: <!-- Updated from ZIRCONIU -->
 <vehicleMakeName />
 
@@ -241,5 +179,9 @@ JOURNEY: <!-- Updated from ZIRCONIU -->
 STRATUM: <!-- Updated from ZIRCONIU -->
 DINKA
 
+REGINA: <!-- Updated from DUNDREARY -->
+WILLARD
 
+CARBONRS: <!-- Updated from NAGASAKI -->
+PRINCIPL
 
