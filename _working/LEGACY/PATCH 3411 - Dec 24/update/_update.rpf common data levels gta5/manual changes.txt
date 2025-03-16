@@ -1,5 +1,20 @@
 If you already use a custom vehicles.meta, the changes are really simple. Find each vehicle below and change the <vehicleMakeName> to the one's suggested:
 
+
+
+******
+******
+******
+EMPEROR: 
+Change GAME NAME for all Emperor models to EMPEROR2.
+Otherwise all Emperors will be called "Cadillac Lexus".
+<gameName>EMPEROR2</gameName>
+******
+******
+******
+
+
+
 BUCCANEER: <!-- Updated from ALBANY -->
 DECLASSE
 
