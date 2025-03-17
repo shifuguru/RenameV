@@ -1,9 +1,10 @@
-<b>[RENAMEV]</b>
+<b>[RENAMEV]</b><br>
+A Truly Authentic Vehicle Names Overhaul with Real Life Locations Included<br>
+Changes brands and locations to their Real Life counterparts
+
 
 <b>[DISCLAIMER]</b><br>
-The Releases are intended to be updated every time I am getting an upload ready for gta5-mods.com, technically it is a misnomer because the latest version in the folder may not be ready for public release just yet as it is simply a working directory for when I do release the mod.
-<br>
-It goes without saying that these files are currently in development and to take caution with them, that being said I normally only upload to GitHub once I confirm the version is working, but mistakes do happen! 
+It goes without saying that these files are currently in development and to take caution when installing them, that being said I normally only push updates once I've confirmed the version is working, but mistakes do happen! It's a pretty simple mod but some vehicles.meta files have been known to crash the game, patch 3411, avoid this currently. Use the manual method!
 
 <br>
 
