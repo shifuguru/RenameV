@@ -9,12 +9,15 @@ It goes without saying that these files are currently in development and to take
 
 Now for installation, 
 
-I recommendd installing an <a href="https://www.gta5-mods.com/misc/replaced-game-names">official release</a> of the mod before installing the files for your game version, from the <b>_working</b> folder.<br>
+I recommendd installing an <a href="https://www.gta5-mods.com/misc/replaced-game-names">official release</a> of the mod before installing the files for your game version, from the <b>__working/LEGACY</b> folder.<br>
+
+<b>[Enhanced]</b><br>
+No huge changes really, but with split versions it may get trickier to manage, and updates for Legacy may take longer as priority drops. I will be moving onto Enhanced GTA 5 once modding support arrives for it.
 
 
 
 <br>
-<b></b>[LINKS]</b>
+<b>[My Links]</b><br>
 <a href="https://patreon.com/shifuguru">Patreon</a><br>
 <a href="https://www.gta5-mods.com/users/shifuguru">gta5-mods</a><br>
 <a href="https://github.com/shifuguru">GitHub</a><br>
