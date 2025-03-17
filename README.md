@@ -4,7 +4,14 @@ Changes brands and locations to their Real Life counterparts
 
 
 <b>[DISCLAIMER]</b><br>
-It goes without saying that these files are currently in development and to take caution when installing them, that being said I normally only push updates once I've confirmed the version is working, but mistakes do happen! It's a pretty simple mod but some vehicles.meta files have been known to crash the game, patch 3411, avoid this currently. Use the manual method!
+It goes without saying that these files are currently in development and to take caution when installing them, that being said I normally only push updates once I've confirmed the version is working, but mistakes do happen! It's a pretty simple mod but some vehicles.meta files have been known to crash the game:
+
+<b>[BUGS]</b><br>
+<b>March 2025</b><br>
+patch 3411, avoid this currently or use the <b>manual method</b> included in its archive!<br>
+Issues related to the file size or something, haven't quite worked out the issue.<br>
+Also the A_global dlcpack has a vehicles.meta file in it that I am trying to overwrite the dlcpatch folder vehicles.meta file values with, feel free to help me get it working by changing values in the content.xml file: <br>
+<b>dlcpacks/A_global/dlc.rpf/content.xml<b/>
 
 <br>
 
