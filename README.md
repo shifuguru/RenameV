@@ -3,6 +3,11 @@ A Truly Authentic Vehicle Names Overhaul with Real Life Locations Included<br>
 Changes brands and locations to their Real Life counterparts
 
 
+<b>[URGENT NOTICES]</b><br>
+<b>If anyone knows how to get the vehicles.meta file to overwrite the dlc_patch vehicles.meta files.. let me know asap! </b><br>
+<b>dlcpacks/A_global/dlc.rpf/content.xml</b>
+
+
 <b>[DISCLAIMER]</b><br>
 I'm going to assume that by you finding this location you are a Pro-Modder and do not require assistance with debugging mods.<br>
 However, it goes without saying that these files are currently **in development** and to take caution when installing them.<br>
@@ -11,10 +16,12 @@ With that being said I try to push updates once I've confirmed that version is w
 
 <b>[CURRENT BUGS]</b><br>
 <b>March 2025</b><br>
-**patch 3411**, avoid this currently or use the <b>manual method</b> included in its archive!<br>
-Issues related to the file size or something, haven't quite worked out the issue.<br>
-Also the A_global dlcpack has a vehicles.meta file in it that I am trying to overwrite the dlcpatch folder vehicles.meta file values with, feel free to help me get it working by changing values in the content.xml file: <br>
-<b>dlcpacks/A_global/dlc.rpf/content.xml</b>
+**patch 3411**, do not use the current upload of update.rpf/../vehicles.meta<br> 
+Use <b>manual.txt</b> to update your vehicles.meta file manually<br>
+<b>If you use RDE, the RDE vehicles.meta is currently working fine!</b><br>
+<br>
+<b>dlcpacks/A_global/dlc.rpf/content.xml</b><br>
+<b>If anyone knows how to get the vehicles.meta file to overwrite the dlc_patch vehicles.meta files.. let me know asap! </b>
 
 <br>
 
