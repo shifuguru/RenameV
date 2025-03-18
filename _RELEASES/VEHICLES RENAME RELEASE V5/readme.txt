@@ -1,14 +1,17 @@
-Created by ShifuGuru 13/03/2025
+Created by ShifuGuru 16/03/2025
 
 
 Real Vehicle, Location and Brand Names Overhaul
 https://www.gta5-mods.com/misc/replaced-game-names
 
+Beta testing available here:
+https://github.com/shifuguru/renamev
+
 
 [Info]
 English support only.
 
-Updated for patch 3411
+Updated for patch 3411 - Dec '24
 
 This mod will likely require updating every patch, sorry if it takes me a while to update.
 =ε/̵͇̿̿/’̿’̿ ̿ (˵ ͡° ͜ʖ ͡°˵)  ===> 
@@ -40,7 +43,6 @@ Navigate to the following folders and drag/drop to add/replace files from their 
 
 3. ..\mods\update\x64\dlcpacks\ 
 - Copy A_GLOBAL folder (dlc.rpf should be inside)
-- Copy A_GLOBAL2 folder (dlc.rpf should be inside)
 
 
 4. ..\mods\update\update.rpf\common\data\ 

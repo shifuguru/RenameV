@@ -127,7 +127,7 @@ BUZZARD2: <!-- Updated from NAGASAKI -->
 BOEING
 
 
-CARBON: <!-- Updated from NAGASAKI -->
+CARBONRS: <!-- Updated from NAGASAKI -->
 PRINCIPL
 
 
@@ -160,7 +160,7 @@ JETMAX: <!-- Updated from SHITZU -->
 
 
 PCJ: <!-- Updated from SHITZU -->
-<vehicleMakeName />
+DINKA
 
 
 SQUALO: <!-- Updated from SHITZU -->
@@ -203,10 +203,9 @@ STRATUM: <!-- Updated from ZIRCONIU -->
 DINKA
 
 
+SUPERD: <!-- Updated from ENUS -->
+ROLLS
+
 REGINA: <!-- Updated from DUNDREARY -->
 WILLARD
-
-
-CARBONRS: <!-- Updated from NAGASAKI -->
-PRINCIPL
 

@@ -219,6 +219,7 @@
 				<Item>LOW_CYCLONE2_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Imponte Arbiter GT = Pontiac GTO '70 -->
 		<Item>
 			<modelName>arbitergt</modelName>
 			<txdName>arbitergt</txdName>
@@ -323,6 +324,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Pegassi Ignus 2 Weaponized = Lamborghini Sián FKP 37 Weaponized -->
 		<Item>
 			<modelName>ignus2</modelName>
 			<txdName>ignus2</txdName>
@@ -425,6 +427,7 @@
 				<Item>LOW_IGNUS2_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Karin S95 = Toyota 86 -->
 		<Item>
 			<modelName>s95</modelName>
 			<txdName>s95</txdName>
