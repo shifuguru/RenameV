@@ -1,5 +1,18 @@
 ﻿Version 2 30
 {
+	0x05071B2D = Piper PA-36 Pawnee Brave
+	0x6CBD1D6D = Aero L-39 Albatros
+	0x5B0A4EF2 = Lockheed Martin
+	0x96E6932D = GR Supra Drift
+	0x42D623C7 = N Vision 74
+	0xD8A914D3 = Viper ACR
+	0x0796B7A5 = C6
+	0x8B44BEFB = C1
+	0xC79C754A = Continental GT '21
+	0x15D42A85 = 3 E30 LTO Drift
+	0x0F626001 = 2 F87 Drift
+	0x8C2D5851 = Mustang '82 Interceptor
+	0x6FDA2FC5 = Estrema
 	0xA71D0D4F = Macan GTS
 	0x61F03617 = Antonov
 	0xF684BC7D = Silverado 1500
@@ -26,7 +39,7 @@
 	0x097E5533 = Esprit '93
 	0x09E478B3 = Charger Daytona SRT
 	0x09FC300D = Wrangler Unlimited Rubicon
-	0x0B706A72 = De Havilland Canada DHC-6 Twin Otter
+	0x0B706A72 = Canada DHC-6 Twin Otter
 	0x0BBA2261 = GT-R R32
 	0x0CAD8C49 = Fiat
 	0x0D4EA603 = Chevelle '70 Custom

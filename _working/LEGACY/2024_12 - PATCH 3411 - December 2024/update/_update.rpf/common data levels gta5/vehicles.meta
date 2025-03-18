@@ -4503,6 +4503,7 @@
 				<Item>LOW_BUCCANEER_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Bravado Buffalo = Dodge Charger '10 -->
 		<Item>
 			<modelName>buffalo</modelName>
 			<txdName>buffalo</txdName>
@@ -4626,6 +4627,7 @@
 				<Item>STD_BUFFALO_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Bravado Buffalo 3 (Sprunk) = Dodge Charger '10 (Sprite) -->
 		<Item>
 			<modelName>buffalo2</modelName>
 			<txdName>buffalo2</txdName>

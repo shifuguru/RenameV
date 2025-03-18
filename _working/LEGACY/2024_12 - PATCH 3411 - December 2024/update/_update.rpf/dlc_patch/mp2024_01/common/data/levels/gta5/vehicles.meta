@@ -3,6 +3,7 @@
 	<residentTxd>vehshare</residentTxd>
 	<residentAnims />
 	<InitDatas>
+		<!-- Vapid Dominator FX Interceptor = Ford Mustang '82 Interceptor -->
 		<Item>
 			<modelName>poldominator10</modelName>
 			<txdName>poldominator10</txdName>
@@ -115,6 +116,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Declasse Yosemite 1500 = Chevrolet Silverado 1500 -->
 		<Item>
 			<modelName>yosemite1500</modelName>
 			<txdName>yosemite1500</txdName>
@@ -234,6 +236,7 @@
 				<Item>STD_YOSEMITE1500_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Pegassi Faggio Pizza Boy = Piaggio Zip Pizza -->
 		<Item>
 			<modelName>pizzaboy</modelName>
 			<txdName>pizzaboy</txdName>
@@ -345,6 +348,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="1" />
 		</Item>
+		<!-- Bravado Poldorado Dorado Cruiser = Dodge Durango '01 Cruiser -->
 		<Item>
 			<modelName>poldorado</modelName>
 			<txdName>poldorado</txdName>
@@ -462,6 +466,7 @@
 				<Item>STD_POLDORADO_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Enus Paragon 3 S = Bentley Continental GT '21 -->
 		<Item>
 			<modelName>paragon3</modelName>
 			<txdName>paragon3</txdName>
@@ -566,6 +571,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Bollokan Envisage = Hyundai N Vision 74 -->
 		<Item>
 			<modelName>envisage</modelName>
 			<txdName>envisage</txdName>
@@ -672,6 +678,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Declasse Impaler Polimpaler6 LX Cruiser = Chevrolet Impala '85 Cruiser -->
 		<Item>
 			<modelName>polimpaler6</modelName>
 			<txdName>polimpaler6</txdName>
@@ -788,6 +795,7 @@
 				<Item>STD_POLIMPALER6_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Annis Euros X32 = Nissan 300ZX -->
 		<Item>
 			<modelName>eurosX32</modelName>
 			<txdName>eurosX32</txdName>
@@ -891,12 +899,13 @@
 				<Item>LOW_EUROSX32_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Overflod Pipistrello = Estrema Fulminea -->
 		<Item>
 			<modelName>pipistrello</modelName>
 			<txdName>pipistrello</txdName>
 			<handlingId>PIPISTRELLO</handlingId>
 			<gameName>PIPISTRELLO</gameName>
-			<vehicleMakeName>OVERFLOD</vehicleMakeName>
+			<vehicleMakeName>ESTREMA</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -994,6 +1003,7 @@
 				<Item>LOW_PIPISTRELLO_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Declasse Burrito Bail Enforcement Policet3 = GMC Savana Transport (Bail Enforcement) -->
 		<Item>
 			<modelName>policet3</modelName>
 			<txdName>policet3</txdName>
@@ -1122,6 +1132,7 @@
 				<Item>VAN_POLICET3_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Canis Castigator = Jeep Avenger -->
 		<Item>
 			<modelName>castigator</modelName>
 			<txdName>castigator</txdName>
@@ -1234,6 +1245,7 @@
 				<Item>STD_CASTIGATOR_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Vapid Dominator 10 FX Interceptor = Ford Mustang '82 Interceptor -->
 		<Item>
 			<modelName>dominator10</modelName>
 			<txdName>dominator10</txdName>
@@ -1341,6 +1353,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Ubermacht Niobe = BMW i8 Coupé -->
 		<Item>
 			<modelName>niobe</modelName>
 			<txdName>niobe</txdName>
@@ -1447,6 +1460,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Declasse Impaler Polimpaler5 SZ Cruiser = Chevrolet Impala SS Cruiser -->
 		<Item>
 			<modelName>polimpaler5</modelName>
 			<txdName>polimpaler5</txdName>
@@ -1561,6 +1575,7 @@
 				<Item>STD_POLIMPALER5_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Bravado Polgreenwood Greenwood Cruiser = Dodge Monaco '78 Cruiser -->
 		<Item>
 			<modelName>polgreenwood</modelName>
 			<txdName>polgreenwood</txdName>
@@ -1677,6 +1692,7 @@
 				<Item>STD_GREENWOOD_REAR_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
+		<!-- Vulcar Nebula (Drift) = Volvo 242 (Drift) -->
 		<Item>
 			<modelName>driftnebula</modelName>
 			<txdName>driftnebula</txdName>
@@ -1781,6 +1797,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Ubermacht Sentinel Classic Widebody Driftsentinel = BMW 3 E30 LTO Drift -->
 		<Item>
 			<modelName>driftsentinel</modelName>
 			<txdName>driftsentinel</txdName>
@@ -1891,6 +1908,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Ubermacht Cypher (Drift) = BMW 2 F87 (Drift) -->
 		<Item>
 			<modelName>driftcypher</modelName>
 			<txdName>driftcypher</txdName>
@@ -1996,6 +2014,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Benefactor Vorschlaghammer = Mercedes-Benz W124 -->
 		<Item>
 			<modelName>vorschlaghammer</modelName>
 			<txdName>vorschlaghammer</txdName>
@@ -2104,6 +2123,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Invetero Coquette 5 D1 = Chevrolet Corvette C1 -->
 		<Item>
 			<modelName>coquette5</modelName>
 			<txdName>coquette5</txdName>
@@ -2210,6 +2230,7 @@
 			</firstPersonDrivebyData>
 			<numSeatsOverride value="2" />
 		</Item>
+		<!-- Benefactor Vorschlaghammer (Drift) = Mercedes-Benz W124 (Drift) -->
 		<Item>
 			<modelName>driftvorschlag</modelName>
 			<txdName>driftvorschlag</txdName>
