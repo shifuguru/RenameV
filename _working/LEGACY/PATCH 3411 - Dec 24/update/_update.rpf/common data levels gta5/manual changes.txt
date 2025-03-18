@@ -28,7 +28,7 @@ VAPID
 
 
 RUMPO2: <!-- Updated from BRAVADO -->
-<vehicleMakeName />
+VAPID
 
 
 TIPTRUCK2: <!-- Updated from BRUTE -->
@@ -36,7 +36,7 @@ VAPID
 
 
 AKUMA: <!-- Updated from DINKA -->
-<vehicleMakeName />
+BUELL
 
 
 MARQUIS: <!-- Updated from DINKA -->
@@ -64,7 +64,15 @@ MIXER2: <!-- Updated from HVY -->
 
 
 SKYLIFT: <!-- Updated from HVY -->
-WESTERN
+<vehicleMakeName />
+
+
+MAVERICK: <!-- Updated from BUCKINGHAM -->
+BELL
+
+
+JET: 
+BOEING
 
 
 INTRUDER: <!-- Updated from KARIN -->
@@ -194,8 +202,10 @@ JOURNEY: <!-- Updated from ZIRCONIU -->
 STRATUM: <!-- Updated from ZIRCONIU -->
 DINKA
 
+
 REGINA: <!-- Updated from DUNDREARY -->
 WILLARD
+
 
 CARBONRS: <!-- Updated from NAGASAKI -->
 PRINCIPL

@@ -1,5 +1,19 @@
 ﻿Version 2 30
 {
+	0xA71D0D4F = Macan GTS
+	0x61F03617 = Antonov
+	0xF684BC7D = Silverado 1500
+	0x0409D787 = K-series
+	0xAD6065C0 = Vampire
+	0xCA495705 = Canada DHC-2
+	0x4B526863 = Cirrus
+	0xE8983F9F = 300c
+	0x12FD8824 = Seawind
+	0xC5DD6967 = T-6 Texan II
+	0xA09E15FD = UH-1Y Venom
+	0xBF6C6983 = W124 Drift
+	0xF5C04959 = W124
+	0x70241EEA = i8 Coupé
 	0x00675ED7 = Chimera
 	0x00E83C17 = Eight
 	0x00E827DE = Abarth 500
@@ -15,7 +29,6 @@
 	0x0B706A72 = De Havilland Canada DHC-6 Twin Otter
 	0x0BBA2261 = GT-R R32
 	0x0CAD8C49 = Fiat
-	0x0D4E5F4D = 512 TR
 	0x0D4EA603 = Chevelle '70 Custom
 	0x0D8C328B = Monte Carlo
 	0x0D17099D = E-Series Custom
@@ -55,7 +68,6 @@
 	0x4ABEBF23 = Velociraptor 6x6
 	0x4BFCF28B = FF
 	0x4C3FFF49 = AMX Defiant
-	0xC769D9FD = Javelin
 	0x4DC079D7 = 718 Cayman
 	0x4EE74355 = Senna
 	0x4FA9970B = Challenger SRT TA2
@@ -91,12 +103,12 @@
 	0x8EBE6A4A = Kaman
 	0x8F1D6CC4 = Kamov
 	0x8F27E89C = International
+	0x9A726473 = F-150
 	0x9C32EB57 = Crown Victoria Interceptor
 	0x9D1D9872 = MD 969 Twin Attack
 	0x9F3273F4 = Silvia S13 Drift
 	0x11CBC051 = Arctic Cat Aleterra 5703
 	0x11F58A5A = Triazuma
-	0xAB98C63C = Lazareth
 	0x23CA25F2 = Coupe '33
 	0x25A2EE58 = Lotus
 	0x25C5AF13 = Viper '10
@@ -157,7 +169,6 @@
 	0x147DA840 = Gibbs
 	0x177DA45C = DB5 Q Branch
 	0x185E2FF3 = Maverick
-	0xCC1C66AF = Can-Am
 	0x196F9418 = Mustang SVT Cobra R
 	0x258C9364 = Macan
 	0x268D09BB = Pagani
@@ -194,6 +205,7 @@
 	0x5097F589 = M8 E31 '95
 	0x5216AD5E = Silvia S13
 	0x5285D628 = MT500
+	0x5414BAB5 = AC
 	0x5649FF41 = Roma
 	0x6838FC1D = Jesko
 	0x7980BDD5 = 370Z
@@ -251,13 +263,13 @@
 	0xA1355F67 = Quadski
 	0xA6297CC8 = AE86 Trueno
 	0xA5325278 = Mountain Moto FX5
+	0xAB98C63C = Lazareth
 	0xAC33179C = Diablo
 	0xAE2CC02A = Sienna XL40
 	0xAED64A63 = Continental Custom
 	0xAF0B8D48 = P72
 	0xAF1FA439 = 3 E30 LTO
 	0xAF966F3C = F-150
-	0x9A726473 = F-150
 	0xB2CF7250 = Citation X
 	0xB4F32118 = Focus RS RX
 	0xB5D306A4 = RS3
@@ -272,7 +284,6 @@
 	0xB2499163 = Cessna
 	0xBA50BBDC = E-Z-Go Industrial
 	0xBA5334AC = Urus
-	0xBB78956A = SF90
 	0xBC5DC07E = Venom F5
 	0xBC7C0A00 = Nathalie
 	0xBCDE91F0 = Windstar
@@ -291,14 +302,15 @@
 	0xC96CF411 = Citroen
 	0xC98BBAD6 = W123 Custom
 	0xC575DF11 = F40
+	0xC769D9FD = Javelin
 	0xC820BFF6 = Alfa Romeo
 	0xC972A155 = Victor
-	0xC4810400 = Daytona SP3
 	0xCA6F01EF = Mercedes-Benz
 	0xCA7C4AE9 = Top 3.0i
 	0xCA62927A = Mark V Custom
 	0xCAB6E261 = R8 V10 '15
 	0xCB0E7CD9 = S 65 AMG (Armored)
+	0xCC1C66AF = Can-Am
 	0xCC8A305C = L460
 	0xCCE5C8FA = Dart A-Bone Kart
 	0xCDC46B21 = Stepvan (LSDS)
@@ -322,7 +334,7 @@
 	0xDB0C9B04 = Charger '15
 	0xDBA9DBFC = 1199 Panigale
 	0xDE05FB87 = Fat Bob B
-	0xE00BADAB = Brenthel Industriess Class 1 Buggy
+	0xE00BADAB = Class 1 Buggy
 	0xE0A20B41 = Buell
 	0xE1C03AB0 = AMG GT
 	0xE1E2E6D7 = e-tron GT
@@ -331,7 +343,7 @@
 	0xE5BA6858 = Spy Racing Quad
 	0xE6E967F8 = H2 Limousine
 	0xE7D2A16E = C-01 Light Cycle
-	0xE8A8BA94 = Pantera
+	0xE8A8BA94 = Pantera GT5
 	0xE9FB1E98 = Eurocopter
 	0xE33A477B = 570S GT4
 	0xE43C11E5 = G35 Drift
@@ -342,11 +354,12 @@
 	0xE505CF99 = S2000
 	0xE3788BB1 = Impala SS
 	0xE18195B2 = 7 E65
-	0xEAA19FB4 = AMC
 	0xE99011C2 = Arrow
 	0xE550775B = Continental GT '18
 	0xE6401328 = GL-Class (Armored)
 	0xEA6A047F = Patrol Safari
+	0xEAA19FB4 = AMC
+	0x322CF98F = Pacer
 	0xEAFB0146 = Red Bull
 	0xEC3E3404 = 812 Superfast
 	0xEC67D408 = Martin
@@ -394,6 +407,7 @@
 	BUCKING = Learjet
 	CANIS = Jeep
 	CASCO = 3500 GT
+	CHEETAH2 = 512 TR
 	CHEVAL = Holden
 	CHINO = Continental
 	COG55 = Continental GTC
@@ -430,6 +444,7 @@
 	IMPONTE = Pontiac
 	INNOVATION = Innovation
 	INVERTO = Corvette
+	ITALIRSX = SF90
 	JACKAL = XF
 	JACKSHP = John Deere
 	JESTER = NSX
@@ -447,7 +462,6 @@
 	LUXOR2 = 45 Deluxe
 	MAIBATSU = Mitsubishi
 	MAMBA = Shelby Cobra MKIII
-	0x5414BAB5 = AC
 	MAMMOTH = Hummer
 	MARSHALL = Marshall
 	MASSACRO = Vanquish
@@ -487,6 +501,7 @@
 	VINDICATOR = NM4
 	VIRGO = Eldorado
 	VIRGO3 = Mark V
+	VISIONE = Daytona SP3
 	VOODOO2 = Impala '64 Lowrider
 	VULCAR = Volvo
 	WARRENER = 510

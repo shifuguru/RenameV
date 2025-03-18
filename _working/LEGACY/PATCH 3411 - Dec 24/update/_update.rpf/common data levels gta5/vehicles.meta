@@ -9109,7 +9109,7 @@
 			<modelName>emperor3</modelName>
 			<txdName>emperor3</txdName>
 			<handlingId>EMPEROR</handlingId>
-			<gameName>EMPEROR3</gameName>
+			<gameName>EMPEROR2</gameName>
 			<vehicleMakeName>ALBANY</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
@@ -18653,7 +18653,7 @@
 			<txdName>rumpo2</txdName>
 			<handlingId>RUMPO</handlingId>
 			<gameName>RUMPO</gameName>
-			<vehicleMakeName></vehicleMakeName>
+			<vehicleMakeName>VAPID</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -27061,7 +27061,7 @@
 			<txdName>akuma</txdName>
 			<handlingId>AKUMA</handlingId>
 			<gameName>AKUMA</gameName>
-			<vehicleMakeName></vehicleMakeName>
+			<vehicleMakeName>BUELL</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -28600,7 +28600,7 @@
 			<txdName>buzzard</txdName>
 			<handlingId>BUZZARD</handlingId>
 			<gameName>BUZZARD</gameName>
-			<vehicleMakeName />
+			<vehicleMakeName>BOEING</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -28724,7 +28724,7 @@
 			<txdName>buzzard2</txdName>
 			<handlingId>BUZZARD2</handlingId>
 			<gameName>BUZZARD2</gameName>
-			<vehicleMakeName />
+			<vehicleMakeName>BOEING</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -29224,7 +29224,7 @@
 			<txdName>skylift</txdName>
 			<handlingId>SKYLIFT</handlingId>
 			<gameName>SKYLIFT</gameName>
-			<vehicleMakeName>WESTERN</vehicleMakeName>
+			<vehicleMakeName></vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -29459,7 +29459,7 @@
 			<txdName>maverick</txdName>
 			<handlingId>MAVERICK</handlingId>
 			<gameName>MAVERICK</gameName>
-			<vehicleMakeName />
+			<vehicleMakeName>BELL</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -30394,7 +30394,7 @@
 			<txdName>jet</txdName>
 			<handlingId>JET</handlingId>
 			<gameName>JET</gameName>
-			<vehicleMakeName />
+			<vehicleMakeName>BOEING</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
