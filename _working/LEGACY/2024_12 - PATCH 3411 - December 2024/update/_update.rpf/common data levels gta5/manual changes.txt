@@ -1,0 +1,212 @@
+If you already use a custom vehicles.meta, the changes are really simple. Find each vehicle below and change the <vehicleMakeName> to the one's suggested:
+
+
+
+******
+******
+******
+EMPEROR: 
+Change GAME NAME for all Emperor models to EMPEROR2.
+Otherwise all Emperors will be called "Cadillac Lexus".
+<gameName>EMPEROR2</gameName>
+******
+******
+******
+
+
+
+BUCCANEER: <!-- Updated from ALBANY -->
+DECLASSE
+
+
+WASHINGTON: <!-- Updated from ALBANY -->
+DUNDREAR
+
+
+RUMPO: <!-- Updated from BRAVADO -->
+VAPID
+
+
+RUMPO2: <!-- Updated from BRAVADO -->
+VAPID
+
+
+TIPTRUCK2: <!-- Updated from BRUTE -->
+VAPID
+
+
+AKUMA: <!-- Updated from DINKA -->
+BUELL
+
+
+MARQUIS: <!-- Updated from DINKA -->
+<vehicleMakeName />
+
+
+BARRACKS2: <!-- Updated from HVY -->
+<vehicleMakeName />
+
+
+BIFF: <!-- Updated from HVY -->
+<vehicleMakeName />
+
+
+CUTTER: <!-- Updated from HVY -->
+<vehicleMakeName />
+
+
+MIXER: <!-- Updated from HVY -->
+BRUTE
+
+
+MIXER2: <!-- Updated from HVY -->
+<vehicleMakeName />
+
+
+SKYLIFT: <!-- Updated from HVY -->
+<vehicleMakeName />
+
+
+MAVERICK: <!-- Updated from BUCKINGHAM -->
+BELL
+
+
+JET: 
+BOEING
+
+
+INTRUDER: <!-- Updated from KARIN -->
+FATHOM
+
+
+FROGGER: <!-- Updated from MAIBATSU -->
+EUROC
+
+
+FROGGER2: <!-- Updated from MAIBATSU -->
+EUROC
+
+
+MULE: <!-- Updated from MAIBATSU -->
+<vehicleMakeName />
+
+
+MULE2: <!-- Updated from MAIBATSU -->
+<vehicleMakeName />
+
+
+SANCHEZ: <!-- Updated from MAIBATSU -->
+<vehicleMakeName />
+
+
+SANCHEZ2: <!-- Updated from MAIBATSU -->
+<vehicleMakeName />
+
+
+FIRETRUK: <!-- Updated from MTL -->
+<vehicleMakeName />
+
+
+BLAZER: <!-- Updated from NAGASAKI -->
+<vehicleMakeName />
+
+
+BLAZER2: <!-- Updated from NAGASAKI -->
+DINKA
+
+
+BLAZER3: <!-- Updated from NAGASAKI -->
+<vehicleMakeName />
+
+
+BUZZARD: <!-- Updated from NAGASAKI -->
+BOEING
+
+
+BUZZARD2: <!-- Updated from NAGASAKI -->
+BOEING
+
+
+CARBON: <!-- Updated from NAGASAKI -->
+PRINCIPL
+
+
+DINGHY: <!-- Updated from NAGASAKI -->
+<vehicleMakeName />
+
+
+DINGHY2: <!-- Updated from NAGASAKI -->
+<vehicleMakeName />
+
+
+BATI: <!-- Updated from PEGASSI -->
+PRINCIPL
+
+
+BATI2: <!-- Updated from PEGASSI -->
+PRINCIPL
+
+
+FAGGIO: <!-- Updated from PEGASSI -->
+PIAGGIO
+
+
+RUFFIAN: <!-- Updated from PEGASSI -->
+PRINCIPL
+
+
+JETMAX: <!-- Updated from SHITZU -->
+<vehicleMakeName />
+
+
+PCJ: <!-- Updated from SHITZU -->
+<vehicleMakeName />
+
+
+SQUALO: <!-- Updated from SHITZU -->
+<vehicleMakeName />
+
+
+SUNTRAP: <!-- Updated from SHITZU -->
+<vehicleMakeName />
+
+
+TROPIC: <!-- Updated from SHITZU -->
+<vehicleMakeName />
+
+
+VADER: <!-- Updated from SHITZU -->
+<vehicleMakeName />
+
+
+TRACTOR: <!-- Updated from STANLEY -->
+VAPID
+
+
+BENSON: <!-- Updated from VAPID -->
+INTERNATION
+
+
+BOBCATXL: <!-- Updated from VAPID -->
+DECLASSE
+
+
+SCRAP: <!-- Updated from VAPID -->
+INTERNATION
+
+
+JOURNEY: <!-- Updated from ZIRCONIU -->
+<vehicleMakeName />
+
+
+STRATUM: <!-- Updated from ZIRCONIU -->
+DINKA
+
+
+REGINA: <!-- Updated from DUNDREARY -->
+WILLARD
+
+
+CARBONRS: <!-- Updated from NAGASAKI -->
+PRINCIPL
+
