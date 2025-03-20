@@ -29,7 +29,7 @@ Copy the files over the original mod.
 **ENHANCED**
 <br>
 Instructions coming soon... tm
-
+https://github.com/shifuguru/GTAVEnhancedModding
 
 
 <br>
