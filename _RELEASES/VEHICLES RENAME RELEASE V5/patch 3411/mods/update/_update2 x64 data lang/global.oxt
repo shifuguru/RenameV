@@ -83,7 +83,7 @@
 	0x0058F9A1 = AVENGER RETURN OPTIONS
 	0x00599EDC = The Imposer
 	0x005AC627 = Once serviced, you can deliver the bike to the customer to receive payment. Alternative modifications can be installed but may affect the customer's satisfaction resulting in a higher or lower reward.
-	0x005BF3D2 = Roosevelt Valor
+	0x005BF3D2 = 341A Town Sedan Valor
 	0x005CAC81 = Sensational press coverage attracted intense public attention to the case, with a few lunatics confessing to the crime just to get their picture in the papers.
 	0x005D5FDD = Wreck Site
 	0x005E2D03 = High strength carbon fiber frame, super-stable fork, alloy rims, this road bike will let people know you are serious about a sport made obsolete by combustion engines years ago.<BR>Get serious about working out by spending a lot of money on gear right now.
@@ -1298,7 +1298,7 @@
 	0x068E072C = WEB STOP
 	0x06904C20 = Exit
 	0x06928C55 = Unavailable. All car lifts are already in use.
-	0x0694A9AD = Buffalo EVX
+	0x0694A9AD = Charger Daytona SRT
 	0x0695333C = Downhill Helmet
 	0x06958BC0 = Press ~INPUT_CONTEXT~ to take the bolt cutters.
 	0x0695FFCB = The Port of LA Heist
@@ -2589,7 +2589,7 @@
 	0x0D8A240E = You can't purchase this Office Garage at this time.
 	0x0D8B2A75 = @violethump All I want for my birthday this year is for the tears to stop.
 	0x0D8D6212 = Aim preference has reverted back to Free Aim - Assisted.
-	0x0D8DE99E = The altimeter on the radar shows how high you are flying the Dodo. Remain below the upper horizon line to avoid detection.
+	0x0D8DE99E = The altimeter on the radar shows how high you are flying the De Havilland Canada DHC-2. Remain below the upper horizon line to avoid detection.
 	0x0D8E7397 = Set up a private party in your penthouse for your fellow casino members.
 	0x0D9D09A6 = The global signal will be jammed while you're inside the search area ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~
 	0x0D9D259C = Participate in Hunting Pack (Remix)
@@ -12481,7 +12481,7 @@
 	0x9B1C4E10 = Press ~INPUT_CONTEXT~ to inspect the map.
 	0x9B1DD073 = Are you sure you want to exit the Vehicle Workshop?
 	0x9B1DFE24 = Are you sure you want to modify this customer's vehicle for $~1~?
-	0x9B1E538E = Charger R/T
+	0x9B1E538E = Charger R/T Sprite
 	0x9B1FD8FD = Sculpture by Tim Bernard
 	0x9B2C0AE6 = Pink Vest
 	0x9B2C4602 = Choose a new name for your Acid Product.
@@ -42225,7 +42225,7 @@
 	0xDADD6BAD = CASH ACCUMULATED
 	0xDADFE1B4 = Entering Bolingbroke without a prison guard outfit will risk alerting the Cops.
 	0xDAE6EB98 = croupier
-	0xDAE9EF4D = Jester Classic
+	0xDAE9EF4D = Supra
 	0xDAE304AF = Rolls-Royce Phantom VII
 	0xDAE599EA = Respray cost: $~1~
 	0xDAE2669C = Steal 10 vehicles as part of the Salvage Yard Robberies as leader.
@@ -50353,7 +50353,7 @@
 	BERD_P2_3_0 = Big Mustache
 	BERD_P2_4_0 = Handlebar
 	BERD_P2_5_0 = The Gerry
-	BESRA = McDonnell Douglas T-45 Goshawk
+	BESRA = Aero L-39 Albatros
 	BETS_WON = Bets Won
 	BET_P_USR_H = Mollis and Betta Pharmaceuticals on a strong rise as Bilkinton struggles to stay firm.
 	BF = VW
@@ -50952,7 +50952,6 @@
 	BUCKING = Learjet
 	BUD_BAILPOLC = Unable to join the game, you must first accept the GTA Online user policy.
 	BUFFALO = Charger '10
-	BUFFALO3 = Charger R/T Sprite
 	BULLDOZE = Dozer
 	BULLET = GT
 	BULLPUP_KILLS = Bullpup Shotgun kills
@@ -52320,7 +52319,7 @@
 	CHEAT_SPAWN_VEH9 = Spawn Stretch Limo.
 	CHEAT_SPAWN_VEH10 = Spawn Stunt Plane.
 	CHEAT_SPAWN_VEH11 = Spawn Trashmaster.
-	CHEAT_SPAWN_VEH12 = Spawn Dodo Sea Plane.
+	CHEAT_SPAWN_VEH12 = Spawn De Havilland Canada DHC-2.
 	CHEAT_SPAWN_VEH13 = Spawn Duke O'Death.
 	CHEAT_SPAWN_VEH14 = Spawn Kraken submersible.
 	CHEAT_SPECIAL_ABILITY = Special ability recharged.
@@ -55562,7 +55561,7 @@
 	GBTER_KILL = ~HUD_COLOUR_RED~<C>~a~</C>~s~ is the target. Take them out.
 	GBTER_SAFE = You survived being terminated by ~a~~s~.
 	GBTER_START = Your VIP has requested the termination of a Bodyguard. Kill the target.
-	GBURRITO = Gang Burrito
+	GBURRITO = Express Van Lost MC
 	GBURRITO2 = Express Van
 	GB_1M_HLP = You have the option to register as a VIP. Choose to register as a VIP and start your own Organization via the SecuroServ section of the Interaction Menu.
 	GB_1M_TXT = Your name was given to SecuroServ as a possible candidate for our VIP Protection Program. If you register as a VIP you will be able to recruit your own VIP Protection Detail to do the work that no one else will. VIP Protection answers to you first and international law second.
@@ -58375,7 +58374,7 @@
 	JBIB_P1_10_15 = Feud Gray T-Shirt
 	JESTER = NSX
 	JESTER2 = NSX (Racecar)
-	JET = Jet
+	JET = 747-400
 	JETMAX = Chris Craft Stinger 260
 	JH1A_FRNK = Hey kid, the prep work is underway for this job, just one loose end to tie up. Be ready to move.
 	JH2_P = Meet me at my place. Your cut will be in your account as soon as Lester's done some creative accounting.
@@ -58547,7 +58546,7 @@
 	LAST_CHASE_TIME = Last Wanted Level duration
 	LAST_MISSION_NAME = Last Mission completed
 	LAVA_RED = Lava Red
-	LAZER = P-996 LAZER
+	LAZER = F-16C Fighting Falcon
 	LAZER_BULLET_KILLS = Lazer Cannon kills
 	LAZER_ROCKET_KILLS = Lazer Missile kills
 	LBD_ACC = ACCURACY
@@ -63520,7 +63519,7 @@
 	SIXAXIS_HELI = Aircraft
 	SIXAXIS_LOAD = Reload
 	SKID = Skid Row
-	SKYLIFT = Skylift
+	SKYLIFT = Sikorsky S-64 Skycrane/Aircrane
 	SLAB = Slab City
 	SLAMVAN = F-Series
 	SLSANT = South Los Angeles

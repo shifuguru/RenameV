@@ -1,5 +1,20 @@
 If you already use a custom vehicles.meta, the changes are really simple. Find each vehicle below and change the <vehicleMakeName> to the one's suggested:
 
+
+
+******
+******
+******
+EMPEROR: 
+Change GAME NAME for all Emperor models to EMPEROR2.
+Otherwise all Emperors will be called "Cadillac Lexus".
+<gameName>EMPEROR2</gameName>
+******
+******
+******
+
+
+
 BUCCANEER: <!-- Updated from ALBANY -->
 DECLASSE
 
@@ -13,30 +28,18 @@ VAPID
 
 
 RUMPO2: <!-- Updated from BRAVADO -->
-<vehicleMakeName />
+VAPID
 
 
 TIPTRUCK2: <!-- Updated from BRUTE -->
 VAPID
 
 
-MAVERICK: <!-- Updated from BUCKING -->
-<vehicleMakeName />
-
-
 AKUMA: <!-- Updated from DINKA -->
-<vehicleMakeName />
+BUELL
 
 
 MARQUIS: <!-- Updated from DINKA -->
-<vehicleMakeName />
-
-
-AIRTUG: <!-- Updated from HVY -->
-<vehicleMakeName />
-
-
-BARRACKS: <!-- Updated from HVY -->
 <vehicleMakeName />
 
 
@@ -52,14 +55,6 @@ CUTTER: <!-- Updated from HVY -->
 <vehicleMakeName />
 
 
-DOCKTUG: <!-- Updated from HVY -->
-<vehicleMakeName />
-
-
-HANDLER: <!-- Updated from HVY -->
-<vehicleMakeName />
-
-
 MIXER: <!-- Updated from HVY -->
 BRUTE
 
@@ -68,17 +63,16 @@ MIXER2: <!-- Updated from HVY -->
 <vehicleMakeName />
 
 
-RIPLEY: <!-- Updated from HVY -->
-<vehicleMakeName />
-
-
-
 SKYLIFT: <!-- Updated from HVY -->
-WESTERN
-
-
-VELUM: <!-- Updated from JOBUILT -->
 <vehicleMakeName />
+
+
+MAVERICK: <!-- Updated from BUCKINGHAM -->
+BELL
+
+
+JET: 
+BOEING
 
 
 INTRUDER: <!-- Updated from KARIN -->
@@ -95,7 +89,6 @@ EUROC
 
 MULE: <!-- Updated from MAIBATSU -->
 <vehicleMakeName />
-
 
 
 MULE2: <!-- Updated from MAIBATSU -->
@@ -134,15 +127,7 @@ BUZZARD2: <!-- Updated from NAGASAKI -->
 BOEING
 
 
-CADDY: <!-- Updated from NAGASAKI -->
-<vehicleMakeName />
-
-
-CADDY2: <!-- Updated from NAGASAKI -->
-<vehicleMakeName />
-
-
-CARBON: <!-- Updated from NAGASAKI -->
+CARBONRS: <!-- Updated from NAGASAKI -->
 PRINCIPL
 
 
@@ -175,7 +160,7 @@ JETMAX: <!-- Updated from SHITZU -->
 
 
 PCJ: <!-- Updated from SHITZU -->
-<vehicleMakeName />
+DINKA
 
 
 SQUALO: <!-- Updated from SHITZU -->
@@ -210,30 +195,6 @@ SCRAP: <!-- Updated from VAPID -->
 INTERNATION
 
 
-ANNIHL: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
-CARGOBOB: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
-CARGOBOB2: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
-CARGOBOB3: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
-CUBAN800: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
-DUSTER: <!-- Updated from WESTERN -->
-<vehicleMakeName />
-
-
 JOURNEY: <!-- Updated from ZIRCONIU -->
 <vehicleMakeName />
 
@@ -242,4 +203,9 @@ STRATUM: <!-- Updated from ZIRCONIU -->
 DINKA
 
 
+SUPERD: <!-- Updated from ENUS -->
+ROLLS
+
+REGINA: <!-- Updated from DUNDREARY -->
+WILLARD
 
