@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+	<Item>
+      <filename>dlc_a_global:/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+ </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>A_GLOBAL_AUTOGEN</changeSetName>
+	  <filesToEnable>
+		<Item>dlc_a_global:/data/dlctext.meta</Item>
+	  </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>	
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>
