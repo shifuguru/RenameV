@@ -8,14 +8,16 @@ These files are currently **in development** - take caution when installing<br>
 I try to push updates once I've confirmed that version is working, but mistakes do happen!<br>
 
 
-<b>[INSTALLATION]</b><br>
-<b>[LEGACY]</b><br>
+**[INSTALLATION]**<br>
+**[LEGACY]**<br>
 Install an <a href="https://www.gta5-mods.com/misc/replaced-game-names">Official Release</a> version of the mod.<br>
+Or find the version you want to use from RELEASES.
+**[TESTING]**<br>
 Download the desired Patch Version from the <b>__working/LEGACY</b> folder.<br>
-Copy le pasta!
+Copy the files over the original mod.
 
 <b>[ENHANCED]</b><br>
-
+Instructions coming soon... tm
 
 
 <br>
