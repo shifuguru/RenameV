@@ -2164,7 +2164,7 @@
 	0x0B0E5719 = Bounty Hit
 	0x0B0EB844 = Pistol - Flashlight
 	0x0B0F6355 = Bunker Hill
-	0x0B1AB0E0 = Richards Majestic
+	0x0B1AB0E0 = Constellation Place
 	0x0B1B3B01 = Black Rack/Spotlights
 	0x0B1B5014 = Lucky Roll Poker Table
 	0x0B1C3C0C = Enter ~HUD_COLOUR_YELLOW~Humane Labs and Research.~s~
@@ -2294,7 +2294,7 @@
 	0x0BBAA877 = Front and Sides
 	0x0BBCE25E = Gold Weapon Tint
 	0x0BBE9904 = ~a~~s~ sent the photo to Dax.
-	0x0BBFA898 = Apt: Richards Majestic 4
+	0x0BBFA898 = Apt: Constellation Place 4
 	0x0BBFCFAF = Your new ~a~ is now confirmed as having been delivered to the Personal Vehicle Storage bay in your Mobile Operations Center.
 	0x0BC1D7BF = Rappel equipment acquired
 	0x0BC3B5B0 = The Shatterproof
@@ -7495,7 +7495,7 @@
 	0x4EB1473D = Yo, got something for you. Things are heating up in the Hills. Usual gang and drug bullshit. Help me out with this and I'll make it worth your while. G.
 	0x4EB23080 = Take out the ~r~enemies.
 	0x4EB43894 = The Ford Thunderbird Gasser is now available on southernsanandreassuperautos.com.
-	0x4EB75528 = Someone's selling a one-off print of an old Richards Majestic picture. Worth a fortune, and the CEO is getting in on it. Make sure the deal goes according to plan.
+	0x4EB75528 = Someone's selling a one-off print of an old MGM picture. Worth a fortune, and the CEO is getting in on it. Make sure the deal goes according to plan.
 	0x4EBCAC18 = Race to ~a~.
 	0x4EBEDF82 = Yes
 	0x4EBF62A5 = Driver
@@ -7579,7 +7579,7 @@
 	0x4F7BB615 = This vehicle can be modified in The Freakshop.
 	0x4F7C1523 = Save your created character and join GTA Online.
 	0x4F7C3050 = fuck the whole depot! cant be no coming back from this! BDKD!!
-	0x4F7D24F8 = Richards Majestic considering romcom slasher flick.
+	0x4F7D24F8 = MGM considering romcom slasher flick.
 	0x4F7D5011 = You earned an additional wage payment of $~1~ for helping your VIP sell Weapons.
 	0x4F7E1D0C = You can't sell Special Cargo at this time.
 	0x4F7E3D08 = (data expired)
@@ -7765,7 +7765,7 @@
 	0x5A8A54B4 = Flare
 	0x5A8D06FA = Air Emu considering charging for bathrooms.
 	0x5A8D4874 = Sports Grille
-	0x5A8FC63F = Garage: Richards Majestic 4
+	0x5A8FC63F = Garage: Constellation Place 4
 	0x5A8FCF4E = Your invite has been sent to ~1~ players.
 	0x5A8FFBC1 = You can't enter the Agency with this vehicle.
 	0x5A9C101A = You retrieved the briefcase
@@ -9018,7 +9018,7 @@
 	0x6AD95F37 = IMAGE ATTACHMENT ~nrt~ <img src='img://heist3_cashier4/heist3_cashier4' vspace='0' width='256' height='352'/> ~nrt~
 	0x6AD810B3 = second
 	0x6AD845E9 = Custom Rear Mudguard
-	0x6AD9591F = Wait for Dixon to exit the ~HUD_COLOUR_YELLOW~Richman Hotel.
+	0x6AD9591F = Wait for Dixon to exit the ~HUD_COLOUR_YELLOW~Beverly Hills Hotel.
 	0x6ADD9CFF = Triple Exit Exhaust
 	0x6ADD185F = Ain't no money in fowl Trevor!  $~1~ is the most I can give you.
 	0x6ADD1393 = Media Room
@@ -9052,7 +9052,7 @@
 	0x6AF5B4AC = MISSION OVER
 	0x6AF5DE7C = You reached Rank 25 in GTA Online.
 	0x6AF9D238 = I was hoping you'd teach him a lesson but not that kind of lesson!
-	0x6AF34DCD = Dear Resident,~n~Shoot Animals photography is open for submissions!~n~As you may know, California has been placed in the bottom ranks of America's Safest States. But the LA Tourist Board has a plan: a portfolio of wildlife photography to prove how peaceful our home really is. So get out there and snap restful boars, tranquil mountain lions and serene coyotes as they scavenge for scraps. Whatever the creature, they're all equally beautiful according to our policy. Send us your best shots today!~n~From everyone in the LS Tourist Board family~n~<img src='img://CELLPHONE_BADGER/u' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/u' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/t' height="32" width="32" vspace='-10'/>~a~
+	0x6AF34DCD = Dear Resident,~n~Shoot Animals photography is open for submissions!~n~As you may know, California has been placed in the bottom ranks of America's Safest States. But the LA Tourist Board has a plan: a portfolio of wildlife photography to prove how peaceful our home really is. So get out there and snap restful boars, tranquil mountain lions and serene coyotes as they scavenge for scraps. Whatever the creature, they're all equally beautiful according to our policy. Send us your best shots today!~n~From everyone in the LA Tourist Board family~n~<img src='img://CELLPHONE_BADGER/u' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/u' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/t' height="32" width="32" vspace='-10'/>~a~
 	0x6AF5136F = Please donate 500 dollars.
 	0x6AF6408A = ~BLIP_ROULETTE_31~
 	0x6AF6560B = Crew Mission Challenges
@@ -11937,7 +11937,7 @@
 	0x8E9FC334 = Press ~INPUT_CONTEXT~ to collect the Cargo.
 	0x8E10CEDA = ~a~~HUD_COLOUR_WHITE~ has started ~a~.
 	0x8E12AD2C = Height
-	0x8E13ABFE = Apt: Richards Majestic 51
+	0x8E13ABFE = Apt: Constellation Place 51
 	0x8E15CBAF = Civic Type-R FK8
 	0x8E17EEDF = This vehicle cannot be stored in this slot.
 	0x8E22DCB8 = ~a~ ~s~have started Joust. Go to the starting area ~a~ ~s~and prepare to take them out on motorcycles to earn cash and RP.
@@ -13759,7 +13759,7 @@
 	0x14D2875E = Operation Bonus complete:~n~Virus uploaded
 	0x14D13719 = Looking good jefe. The boat is stocked, payment should be with you now. Lets go again soon.
 	0x14D49970 = No excess weapon parts will be manufactured while business operations are shut down.
-	0x14D69964 = Richman Hotel
+	0x14D69964 = Beverly Hills Hotel
 	0x14D91908 = Friends in session: ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~
 	0x14DB0421 = LA Car Meet Membership
 	0x14DB4DA9 = Too close to the destination.
@@ -14204,7 +14204,7 @@
 	0x21A65C78 = Cooked!
 	0x21A77C48 = Secure or eliminate 10 bounty targets.
 	0x21A86CF5 = In order to purchase this vehicle you must own the Arena Workshop.
-	0x21A107FD = Richman Hotel
+	0x21A107FD = Beverly Hills Hotel
 	0x21A61629 = 4 new items
 	0x21A83685 = Virus software delivered
 	0x21AAF802 = Wait for ~a~ to detonate the EMP charges.
@@ -15093,7 +15093,7 @@
 	0x33F070A8 = Glossy Black Off-road
 	0x33F0D093 = Press ~INPUT_FRONTEND_ACCEPT~ to access the Nightclub Management app.~n~Press ~INPUT_FRONTEND_X~ to watch DJ live stream.~n~Press ~INPUT_SCRIPT_RRIGHT~ to stand up.
 	0x33F0F2F0 = Press ~INPUT_CONTEXT~ to loot the crate.
-	0x33F3DEA9 = Apt: Richards Majestic 2
+	0x33F3DEA9 = Apt: Constellation Place 2
 	0x33F6D755 = The Bat
 	0x33F9A2B8 = Green Marble Bugs
 	0x33F33E5D = Mugshot
@@ -17839,7 +17839,7 @@
 	0x72ACE9A7 = The Spruce
 	0x72AEF1DE = Press ~INPUT_CONTEXT~ to play Three Card Poker.
 	0x72AF8801 = Green EP
-	0x72B0D193 = Movies could make money - Richards Majestic stocks up.
+	0x72B0D193 = Movies could make money - MGM stocks up.
 	0x72B0DEDB = Max Bet
 	0x72B34DC0 = Deathmatch Creator Tutorial
 	0x72B47FE2 = The Special Cargo ~HUD_COLOUR_BLUE~~BLIP_CONTRABAND~~HUD_COLOUR_WHITE~ has been transferred to the delivery vehicle. Deliver the goods to the drop-offs to receive payment.
@@ -18670,7 +18670,7 @@
 	0x83C129CC = Exit the ~HUD_COLOUR_YELLOW~penthouse.~s~
 	0x83C150B6 = @JimmyBoston Cris Fromage is actually like a really cool guy + religion does not come up when we hang #bros
 	0x83C77078 = Purchase of this Nightclub has been canceled.
-	0x83C99930 = Patriarch of the Richards Majestic movie dynasty
+	0x83C99930 = Patriarch of the MGM movie dynasty
 	0x83CA0C17 = Mobile Operation
 	0x83CA30F0 = Dubbed
 	0x83CEDE8B = ~a~ ~a~ ~a~ (Storage)
@@ -19874,7 +19874,7 @@
 	0x99FA151C = Weaponized Ford Mustang Hoonicorn RTR '65
 	0x99FA1107 = Some of our hard-working staff are being hauled off to jail for nothing more than doing a good day's labor. Find the van and set the people free!
 	0x99FAC7CE = TIME SURVIVED
-	0x99FB704A = - Richman Hotel
+	0x99FB704A = - Beverly Hills Hotel
 	0x99FD95A0 = HIT
 	0x99FEEA5E = I nearly didn't text you, but am I glad I did!
 	0x100AECB5 = 4 new items
@@ -20157,7 +20157,7 @@
 	0x159A6F14 = Go to ~HUD_COLOUR_YELLOW~East Los Angeles.~s~
 	0x159A1940 = Arena War Career
 	0x159ADB66 = Mrs Philips
-	0x159B0DF9 = Beverly Glen Blvd
+	0x159B0DF9 = Brentwood Glen Blvd
 	0x159B10EC = Meet this support crew member as the owner of a Mercedes-Benz Zetros 6x6 Expedition.
 	0x159C1B18 = Be Conscious of Your Bias!
 	0x159D4121 = grams of fat
@@ -20645,7 +20645,7 @@
 	0x269FDEE5 = North Calafia Way
 	0x270A7DC8 = Grass Roots - Trevor
 	0x270AD4B7 = Customize the look of your roof.
-	0x270B37F4 = Von Crastenburg Richman
+	0x270B37F4 = Beverly Hilton
 	0x270D7076 = Counterfeit Goods
 	0x270DB3AE = Signal the Lost MC to open the gate.
 	0x270F2182 = Infiltrate the FBI headquarters and retrieve any data that could lead to Dr. Dre's stolen phone.
@@ -20711,7 +20711,7 @@
 	0x283A78D7 = New vehicle mods
 	0x283A153F = More tons of contraband enter and leave California via LAX than any other point in the state, so if you were looking for the high stakes table, you just found it. Time to pull up a chair.
 	0x283E49F4 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Homies Sharp Top
-	0x284CD97B = Richman St
+	0x284CD97B = Charles E Young Dr N
 	0x285A1464 = Narcotics
 	0x285BF4CE = PENNED IN
 	0x285C39BA = gold
@@ -21266,7 +21266,7 @@
 	0x412DE23D = Engine - 4 liter<br>Power - 441hp<br>Top Speed - 189mph<br>0-60 - 4.8 seconds
 	0x412EEF07 = Fly steady and help your people take down the bad guys on the quiet... then some of them are gonna drop the cargo!
 	0x413C2EF8 = We still got someone flying. Do not let them escape.
-	0x413D4F8F = Head of fabled Richards Majestic studio in scandal nobody cares about.
+	0x413D4F8F = Head of fabled MGM studio in scandal nobody cares about.
 	0x413E0C79 = Lindsay Circus
 	0x414A36FE = Beverly Hills Police Station
 	0x414F0670 = Identity-Based Hate or Discrimination
@@ -21982,7 +21982,7 @@
 	0x571F5321 = Use the image Lester sent to identify the maid's apartment door.
 	0x571FE04D = Continue scoping the island or return to Los Angeles.
 	0x572A2677 = Invite an individual Player above to work for you.
-	0x572B1ADB = A crime has occurred at Richards Majestic. Visit Solomon Richards' office ~HUD_COLOUR_PURE_WHITE~~BLIP_MOVIE_COLLECTIBLES~~s~ to investigate further.
+	0x572B1ADB = A crime has occurred at MGM Studios. Visit Solomon Richards' office ~HUD_COLOUR_PURE_WHITE~~BLIP_MOVIE_COLLECTIBLES~~s~ to investigate further.
 	0x572BC1B5 = Tourist
 	0x572BDC57 = Enjoy your renovated Auto Shop!
 	0x572D7657 = --- Choose From Our Top End HIGH PERFORMANCE CARS At Great Prices ---
@@ -23433,7 +23433,7 @@
 	0x884E1EC9 = Turn Head
 	0x884F8F9F = Vehicle EMS Upgrade Level 2
 	0x884FA16C = Maude will be in touch again soon with details on your reward.
-	0x885C8BA1 = Richman Mansion
+	0x885C8BA1 = Playboy mansion
 	0x885D6180 = Season's Greetings
 	0x885E075B = Business
 	0x885FCB46 = LEFT BRACKET
@@ -23632,7 +23632,7 @@
 	0x933B2D53 = ~a~~s~ photographed the freight train.
 	0x933C800C = Distance
 	0x933CC44B = The Lost think they can steal your guns. Take them out or lose them.
-	0x933E9067 = West Mirror Drive
+	0x933E9067 = West Silver Lake Drive
 	0x933F5873 = Drift Right Sign
 	0x934AA99C = Do you have the endurance to lie with nine partners a week?
 	0x934B9D8B = Use ~INPUT_SCRIPT_LEFT_AXIS_X~ to change pose.~n~Press ~INPUT_FRONTEND_X~ to watch DJ live stream.~n~Press ~INPUT_FRONTEND_RIGHT~ to stand up.
@@ -24351,7 +24351,7 @@
 	0x2530BC03 = Acquired a way into the party
 	0x2535D2E0 = Wait for dispatch.
 	0x2544DC47 = Use the cell door key to unlock the cell door.
-	0x2551F8D9 = Von Crastenburg Richman
+	0x2551F8D9 = Beverly Hilton
 	0x2554AE0A = Sport Quattro S1
 	0x2555E61E = Venice Boulevard Bridge
 	0x2555F075 = Manage the Salvage Yard.
@@ -25051,7 +25051,7 @@
 	0x4955DD52 = ~INPUTGROUP_FRONTEND_DPAD_LR~ Dance style: ~a~~n~~INPUTGROUP_FRONTEND_DPAD_UD~ Switch action: ~a~~n~~INPUTGROUP_MOVE~ Dance moves~n~~INPUT_SCRIPT_RT~+~INPUTGROUP_MOVE~ Rotate~n~~INPUT_SCRIPT_RB~ Perform action~n~~INPUT_SCRIPT_RDOWN~ Boost intensity~n~~INPUT_SCRIPT_RUP~ Toggle lock: ~a~~n~~INPUT_SCRIPT_RLEFT~ Hide controls
 	0x4957C856 = Search the ~a~~s~ for the ~a~.
 	0x4957F4C7 = 31st Place
-	0x4958D35C = LSCM Laptop
+	0x4958D35C = LACM Laptop
 	0x4960B4A8 = SMG - Suppressor
 	0x4961F2F7 = Adjust
 	0x4964DE06 = Use Trackify to search for the ~a~.
@@ -25309,7 +25309,7 @@
 	0x5844EB0F = An error has occurred. You have already salvaged this vehicle.
 	0x5845E424 = MAKE PAYMENT
 	0x5847E999 = Everything should be in wooden crates. You don't have a crowbar on you, do you? If not better start lookin'..
-	0x5848A878 = Dear Resident,~n~Shoot Animals photography is open for submissions!~n~As you may know, California has been placed in the bottom ranks of America's Safest States. But the LS Tourist Board has a plan: a portfolio of wildlife photography to prove how peaceful our home really is. So get out there and snap restful boars, tranquil mountain lions and serene coyotes as they scavenge for scraps. Whatever the creature, they're all equally beautiful according to our policy. Send us your best shots today!~n~From everyone in the LS Tourist Board family~n~<img src='img://CELLPHONE_BADGER/u' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/u' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/u' height="32" width="32" vspace='-10'/>~a~
+	0x5848A878 = Dear Resident,~n~Shoot Animals photography is open for submissions!~n~As you may know, California has been placed in the bottom ranks of America's Safest States. But the LA Tourist Board has a plan: a portfolio of wildlife photography to prove how peaceful our home really is. So get out there and snap restful boars, tranquil mountain lions and serene coyotes as they scavenge for scraps. Whatever the creature, they're all equally beautiful according to our policy. Send us your best shots today!~n~From everyone in the LA Tourist Board family~n~<img src='img://CELLPHONE_BADGER/u' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/u' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/u' height="32" width="32" vspace='-10'/>~a~
 	0x5848BE6B = Collect 700000 treasures during a single play of The Wizard's Ruin.
 	0x5848CAC6 = 16:81 THIRD
 	0x5850ABB9 = Collect the weapons ~HUD_COLOUR_GREEN~~BLIP_CONTRABAND~~s~ using the Brenthel Industriess Class 1 Buggy as the shipment is dropped from the smuggler plane.
@@ -25995,7 +25995,7 @@
 	0x8365ED48 = Rylee Rose
 	0x8367E8C5 = Press ~INPUT_CONTEXT~ to play Defender of The Faith for $1.
 	0x8367E325 = You can't renovate your Arcade while on this mission.
-	0x8369BE87 = Backlot City
+	0x8369BE87 = Century City
 	0x8377F1F3 = Silver Retro Bubble
 	0x8380CA10 = Custom Grille 5
 	0x8386CD85 = The project is too long to export. Projects need to be less than 30 minutes in duration.
@@ -28343,7 +28343,7 @@
 	0x287191D1 = Black Parachute
 	0x287353F2 = Exit the Duggans' ~a~.
 	0x287710C5 = 17th
-	0x288496E2 = @ActorJoeThornton Casting call tomorrow for henchman role in next movie. If any hopefuls want a late night runthrough of their lines? ;) I'm staying at the Richman. Room under Mo Milton
+	0x288496E2 = @ActorJoeThornton Casting call tomorrow for henchman role in next movie. If any hopefuls want a late night runthrough of their lines? ;) I'm staying at the Beverly Hills Hotel. Room under Mo Milton
 	0x288553EC = Give Them the Fuchsia V
 	0x291023F5 = It's not central, it's not safe, and it's not sanitary. But it's the closest mod shop to the LACM in all of California. If you're looking to set up shop next to your target demographic, this right here is your stop.
 	0x291529B6 = Fargo Cemetery Survival
@@ -29141,7 +29141,7 @@
 	0x1457157E = Kult FM
 	0x1460739E = You can't enter The Diamond Casino & Resort while selling goods from a Bunker.
 	0x1463350A = Sharp
-	0x1479512F = Richards Majestic
+	0x1479512F = Constellation Place
 	0x1494712F = ~a~ ~s~Cargo is now visible to all players in session.
 	0x1574811B = HOME
 	0x1589280F = Your vehicle is not currently available.
@@ -29663,7 +29663,7 @@
 	0x8970174E = Floral Denim Jacket
 	0x9023087A = Pink Tie Dye T-Shirt
 	0x9063667B = ~INPUT_SCRIPT_RT~ Fire~n~~INPUT_SCRIPT_RB~ Cycle turret right~n~~INPUT_SCRIPT_LB~ Cycle turret left~n~~INPUT_SCRIPT_LS~ Zoom~n~~INPUT_SCRIPT_RRIGHT~ Exit
-	0x9065342F = Collect Dixon from the Richman Hotel
+	0x9065342F = Collect Dixon from the Beverly Hilton Hotel
 	0x9076162A = Von Crastenburg Hotel
 	0x9090126C = Garage: Innocence Blvd
 	0x9093071B = Business Battles
@@ -29778,7 +29778,7 @@
 	0x14680920 = Sea Doos ~HUD_COLOUR_WHITE~~BLIP_SEASHARK~~s~ nearby can be used to access the yacht.
 	0x14797016 = Miranda's Assistant
 	0x14826996 = Owner has requested all Organization members leave the Office.
-	0x14861408 = Collect Dixon from the ~HUD_COLOUR_YELLOW~Richman Hotel.~s~
+	0x14861408 = Collect Dixon from the ~HUD_COLOUR_YELLOW~Beverly Hilton Hotel.~s~
 	0x14964733 = Complete The Doomsday Heist in order, with the same team of 3 players, on Hard difficulty, without losing any lives on Setups and Finales.
 	0x15014902 = Help find the VIP at ~HUD_COLOUR_YELLOW~~a~.~s~
 	0x15076855 = Search the ~HUD_COLOUR_YELLOW~substation~s~ for the schematics.
@@ -30072,7 +30072,7 @@
 	0x38105608 = Pistol
 	0x38118304 = Barber Shop
 	0x38230100 = @ellekeyfuzz My dad just told me lesbians don't have periods.
-	0x38270742 = Help collect Dixon from the ~HUD_COLOUR_YELLOW~Richman Hotel.~s~
+	0x38270742 = Help collect Dixon from the ~HUD_COLOUR_YELLOW~Beverly Hilton Hotel.~s~
 	0x38302786 = Police Officer
 	0x38356380 = Where To Access
 	0x38368536 = You delivered the supplies.
@@ -30143,7 +30143,7 @@
 	0x43411075 = You're the Victim!
 	0x43483452 = Oi oi! If I didn't know better I'd say you pulled it off. At least, the blonde man appears to be on the world's biggest downer. Permanently locked in his compound. Chakras all over the shop. Anyway, just to say, no matter what happens up there, the party don't stop for long down on the beach. Keinemusik are flying back in and you know what that means. Get a flight over whenever you fancy!
 	0x43484252 = online
-	0x43528276 = No clear motive, although many believe that, given all the rumors of corruption, evidence-tampering and blackmail surrounding the case, the murderer was someone in the movie industry with the kind of sway, wealth and connections to throw the investigation. Richards allegedly sent money to her family in late March 1975, which also seems very suspicious, especially in the light of the new information concerning his knowledge of a confession letter, but Leonora had appeared in a number of Richards Majestic productions and he was always known for his kindheartedness and generosity.
+	0x43528276 = No clear motive, although many believe that, given all the rumors of corruption, evidence-tampering and blackmail surrounding the case, the murderer was someone in the movie industry with the kind of sway, wealth and connections to throw the investigation. Richards allegedly sent money to her family in late March 1975, which also seems very suspicious, especially in the light of the new information concerning his knowledge of a confession letter, but Leonora had appeared in a number of MGM productions and he was always known for his kindheartedness and generosity.
 	0x43581822 = The croupier escaped
 	0x43609751 = ~a~~s~ collected the hazardous chemicals.
 	0x43643369 = Stashed Bomb
@@ -32359,7 +32359,7 @@
 	0xA5448D76 = Construction Site
 	0xA5550DFF = Gray Jug Vase
 	0xA5591B3A = You are too far from a suitable road.
-	0xA5594CC9 = Stock as unsteady as the actors in Richards Majestic movies.
+	0xA5594CC9 = Stock as unsteady as the actors in MGM movies.
 	0xA5664F43 = You have not yet unlocked Arena Modes.
 	0xA5801E5E = Sculpture by Gaspar Losa
 	0xA5883BDE = Peaceful St
@@ -33155,7 +33155,7 @@
 	0xAC815FBF = Gemstones
 	0xAC854C6A = A waypoint could not be added for your Arena Workshop at this time.
 	0xAC932C55 = Press ~INPUT_CONTEXT~ to cut the power.
-	0xAC2652E3 = Richman Hotel
+	0xAC2652E3 = Beverly Hilton Hotel
 	0xAC3549D4 = Executive Assistant
 	0xAC3828A5 = Ride in Open formation. For 2-8 players.
 	0xAC6152BF = You have no vehicle storage available for this vehicle, please purchase a garage to store this vehicle.
@@ -34378,7 +34378,7 @@
 	0xB6E2546E = Meet Franklin ~HUD_COLOUR_YELLOW~~BLIP_FRANKLIN_FAMILY~~s~ at the Brentwood Country Club to discuss the VIP client.
 	0xB6E6804C = VERTICAL JUMP
 	0xB6EBB73A = Gray Woodland Tactical Ski
-	0xB6EBC711 = Return Dixon's bag to the ~HUD_COLOUR_YELLOW~Richman Hotel.~s~
+	0xB6EBC711 = Return Dixon's bag to the ~HUD_COLOUR_YELLOW~Beverly Hilton Hotel.~s~
 	0xB6EC2463 = Hollywood Sign
 	0xB6EC7180 = Call a Mugger on another player.
 	0xB6ED06B7 = Press ~INPUT_CONTEXT~ to play Diamond Miner using your CEO's casino membership.
@@ -35140,7 +35140,7 @@
 	0xB476FED6 = Sculpture by Magda Spiros
 	0xB477F433 = LOCKED: COMPLETE DELUXOS
 	0xB479DA62 = Blue Accent Athletic Shoes
-	0xB490C2C3 = Recover the copy of Dr. Dre's stolen music from the Richman mansion.
+	0xB490C2C3 = Recover the copy of Dr. Dre's stolen music from the Playboy mansion.
 	0xB492DC7B = Protect the staff ~HUD_COLOUR_BLUE~~BLIP_FRIEND~~s~ as they are transported to the Nightclub in the vehicle.
 	0xB500E8C3 = Wait for your Motorcycle Club to exit the ~HUD_COLOUR_YELLOW~stash house.
 	0xB503F6A3 = Strip Club
@@ -35274,7 +35274,7 @@
 	0xB950B248 = Press ~INPUT_CONTEXT~ to sit down.
 	0xB951F8AC = You collected the weapons.
 	0xB957BF1C = The Ferrari SF90 Stradale is now available on legendarymotorsport.net.
-	0xB961B00A = Richards Majestic
+	0xB961B00A = Constellation Place
 	0xB963B2C7 = Your Special/Personal Vehicle is impounded.
 	0xB967DE59 = Unavailable. Your Organization is too close to the job location.
 	0xB970E193 = (~1~/~1~) ~a~
@@ -35603,7 +35603,7 @@
 	0xB618372A = RESPOND
 	0xB625913C = Purse dropped.
 	0xB634103D = The Dealer has ~a~. You lose.
-	0xB641638A = Help deliver the LSDS van to the ~y~Salvage Yard.~s~
+	0xB641638A = Help deliver the LADS van to the ~y~Salvage Yard.~s~
 	0xB661545F = CIA Pass
 	0xB689813D = Help deliver the ~a~ to the ~HUD_COLOUR_YELLOW~Facility.
 	0xB705896B = Race against your MC to deliver the Product to the drop-off first to win a cash bonus.
@@ -36149,7 +36149,7 @@
 	0xBC2CC095 = <C>~a~</C>~s~ collected Cargo.
 	0xBC2CC953 = The cash was not recovered
 	0xBC2F44AA = Terminal
-	0xBC3A098A = Richards Majestic, 4
+	0xBC3A098A = Constellation Place, 4
 	0xBC3BD5FC = You didn't collect any cargo crates
 	0xBC3D6D85 = You have not Bookmarked any HSW Races.
 	0xBC3FB157 = Cars / Bikes / Boats
@@ -37076,7 +37076,7 @@
 	0xC0F80516 = You must be a member of the LA Car Meet to start a Time Trial.
 	0xC0FB4637 = the Cargo
 	0xC0FBA1D2 = He clutches his mighty sword and vows:
-	0xC0FC3F5A = Dear Resident,~n~Shoot Animals photography is open for submissions!~n~As you may know, San Andreas has been placed in the bottom ranks of America's Safest States. But the LS Tourist Board has a plan: a portfolio of wildlife photography to prove how peaceful our home really is. So get out there and snap restful boars, tranquil mountain lions and serene coyotes as they scavenge for scraps. Whatever the creature, they're all equally beautiful according to our policy. Send us your best shots today!~n~From everyone in the LS Tourist Board family~n~<img src='img://CELLPHONE_BADGER/t' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/t' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/t' height="32" width="32" vspace='-10'/>~a~
+	0xC0FC3F5A = Dear Resident,~n~Shoot Animals photography is open for submissions!~n~As you may know, San Andreas has been placed in the bottom ranks of America's Safest States. But the LA Tourist Board has a plan: a portfolio of wildlife photography to prove how peaceful our home really is. So get out there and snap restful boars, tranquil mountain lions and serene coyotes as they scavenge for scraps. Whatever the creature, they're all equally beautiful according to our policy. Send us your best shots today!~n~From everyone in the LA Tourist Board family~n~<img src='img://CELLPHONE_BADGER/t' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/t' height="32" width="32" vspace='-10'/>~a~~n~<img src='img://CELLPHONE_BADGER/t' height="32" width="32" vspace='-10'/>~a~
 	0xC0FE2DAC = First Person Third Person Cover
 	0xC0FE6FC4 = Koreatown
 	0xC0FF16DB = Well don't you look silly. Silly, but anonymous. Works for me.
@@ -37897,7 +37897,7 @@
 	0xC43C483B = Prep: Paramedic Equipment
 	0xC43D2F4B = Charger
 	0xC43D3B9F = Water Quality
-	0xC43FFF7B = Garage: Richards Majestic 2
+	0xC43FFF7B = Garage: Constellation Place 2
 	0xC44D19E9 = Blue Duffel Bag
 	0xC44DB9FA = Honestly?
 	0xC44FFDD4 = ~a~ alerted the Casino security.
@@ -38715,7 +38715,7 @@
 	0xC174555D = Well, so much for an abandoned car. This one's got an entourage. You should probably take of them before you bring it in.
 	0xC182166D = Painting by Florine Barre
 	0xC228268E = ~HUD_COLOUR_ORANGE~C
-	0xC320962B = Richards Majestic, 51
+	0xC320962B = Constellation Place, 51
 	0xC322313E = You can't start an Available Job when Wanted.
 	0xC330718E = Rockford Plaza
 	0xC348576F = Stock Rear Fender
@@ -39238,7 +39238,7 @@
 	0xCBF352AD = Big parts shipment!
 	0xCBF501B4 = TIME TO COLLECT
 	0xCBF1770E = Mud Dragon
-	0xCBF5137C = Help return Dixon's bag to the ~HUD_COLOUR_YELLOW~Richman Hotel.~s~
+	0xCBF5137C = Help return Dixon's bag to the ~HUD_COLOUR_YELLOW~Beverly Hilton Hotel.~s~
 	0xCBF70571 = Visit the Casino ~BLIP~ to see the full deck of Playing Cards used in Blackjack.
 	0xCBFCD671 = Faux Hawk Auburn
 	0xCBFD81C2 = My name is Brother Adrian. I knew you were coming FRANKLIN. Look down at me and you see a fool. Look up at the lie you live and you see the mountain. Can a man push a boulder up a mountain? Why would he? Insights like that have made me a very big name on the self-improvement scene. I used to be a full-time tax accountant. Now I am a poet, musician, vegetarian chef, yogi, and expert in henna tattoos. I use my unique knowledge of human spirituality and development to transform lives. I've personally led over one million people to utilize their completeness through something magical – a weekend seminar. A seminar that, thanks to the internet, you can now attend from anywhere in the world.~n~~n~Congratulations on making it this far. You are through to the third stage of a patented 4-stage process, and are already well on your way to utilizing your completeness.~n~~n~First, let me set some ground rules. There will be no bathroom breaks, eating or over-the-counter drugs during this class. If I'm going to give you the tools to discover the divine within, you can give me the courtesy of your undivided attention. Otherwise you forfeit your right to expect transformation.~n~~n~Good. Now let's start with a short exercise.
@@ -41477,7 +41477,7 @@
 	0xD600B681 = LAX
 	0xD606E568 = Take the Cargo to the shore where it can be transferred to the delivery vehicle provided by Ron.
 	0xD607CC10 = This request is not currently available.
-	0xD608ADF6 = Go to ~HUD_COLOUR_YELLOW~Richman.~s~
+	0xD608ADF6 = Go to ~HUD_COLOUR_YELLOW~Brentwood.~s~
 	0xD614B3DF = BOLT CUTTERS
 	0xD614C669 = Press ~INPUT_CONTEXT~ to open the safe.
 	0xD615A27B = BattlEye is required to play GTA Online. Please restart Grand Theft Auto V to enable BattlEye.
@@ -45350,7 +45350,7 @@
 	0xEAFB4FF4 = 5 minutes
 	0xEAFB9A24 = Armament
 	0xEAFED780 = Unavailable while working as a member of an Organization or Motorcycle Club.
-	0xEAFF4CF9 = Richards Majestic, 2
+	0xEAFF4CF9 = Constellation Place, 2
 	0xEAFFE428 = Choose to hide or show specific purchased Sniper Rifles in your weapon wheel.
 	0xEB016639 = Your use of this software is subject to the following policies and terms, including transfer of your data to countries that may have different levels of privacy protection than your own:
 	0xEB018BC5 = Tracey's car is gone. Not cool, bro.
@@ -45869,7 +45869,7 @@
 	0xEDA56835 = Destroy the ~HUD_COLOUR_RED~Armored Boxville.
 	0xEDAC3D19 = Press ~INPUT_CONTEXT~ to disable the security cameras.
 	0xEDADBA87 = Cris was a foundling, he had no parents, he can meditate for a really long time, the first time he played golf, he hit 7 holes in one, he has written several great books and sired many children. He has also fought mythical beasts. He is too humble to describe his divinity, but we aren't so bashful.<br>An expert in judo, tantric sex and tax law, Cris founded Epsilonism as a truly American religion – emanating from Hollywood, celebrating celebrity worship and franchising to the far reaches of the Earth.<br>Cris established the first Epsilon Center in Hollywood and quickly learned an eternal truth.<br>Epsilonism is the world's newest oldest religion, reimagining a better past and future for all who want it and can afford it.
-	0xEDB05641 = Backlot City
+	0xEDB05641 = Century City
 	0xEDB1B2F4 = You can't enter the Hangar while selling goods from another business.
 	0xEDB4F653 = View and change your Personal Vehicle options.
 	0xEDB13B26 = ~1~ seconds left to return to the ~b~bike.
@@ -46557,7 +46557,7 @@
 	0xF1C89C53 = Ok
 	0xF1C115A8 = 4th
 	0xF1C481E8 = Recover the body ~HUD_COLOUR_WHITE~~BLIP_BOUNTY_TARGET~~s~ and take it to the LA County Coroners.
-	0xF1CA3D35 = Find a way to infiltrate the gathering at the Richman mansion.
+	0xF1CA3D35 = Find a way to infiltrate the gathering at the Playboy mansion.
 	0xF1CB3277 = Business
 	0xF1CC81CA = Yeti Hunt
 	0xF1CCE545 = You do not have enough money. It costs $~1~ to use Spectator Cam.
@@ -46779,7 +46779,7 @@
 	0xF4C2015F = ~BLIP_INFO_ICON~ In Director Mode, once you've chosen a character and started playing hold ~INPUT_INTERACTION_MENU~ to customize the time of day and weather, enable cheats and more.
 	0xF4CA597F = ~1~ of ~1~ drone parts delivered
 	0xF4CC7D9E = Camo Bikini
-	0xF4CC7972 = Garage: Richards Majestic 51
+	0xF4CC7972 = Garage: Constellation Place 51
 	0xF4CFB014 = This will unlock when you have completed any Contract Job.
 	0xF4D2AB13 = Smugglers
 	0xF4D5F3AE = Can Mitsubishi pull through? Share price unsteady.
@@ -46813,7 +46813,7 @@
 	0xF4FC369E = Failed to destroy the counterfeit operation
 	0xF4FD17E9 = Black Plaid Pleated
 	0xF5A5CB98 = The trailer has become disconnected from the truck cab. Shoot the hinges on the trailer ~HUD_COLOUR_RED~~BLIP_TRAILER~~s~ to release the Rolls-Royce Silver Cloud.
-	0xF5A9B2E7 = Visit the LS Tourist Board ~HUD_COLOUR_NET_PLAYER2~~BLIP_LSTB~~s~ to view the wildlife required to complete the daily Shoot Animals photography challenge.
+	0xF5A9B2E7 = Visit the LA Tourist Board ~HUD_COLOUR_NET_PLAYER2~~BLIP_LSTB~~s~ to view the wildlife required to complete the daily Shoot Animals photography challenge.
 	0xF5A85F9C = Your techs might have something. Get back to the lab and look at the fruits of their research.
 	0xF5A88B37 = You delivered the ~a~.
 	0xF5A7600C = Grab a trash bag from the rear of the ~HUD_COLOUR_BLUE~Trashmaster.~s~
@@ -47543,7 +47543,7 @@
 	0xF92B4013 = BULLPUP RIFLE
 	0xF92BA4FA = So, one of this butcher's guards will have the key. Take them out one by one until you find it. And do it quiet if you can.
 	0xF92EF37E = Beechcraft T-6 Texan II
-	0xF93AC3E0 = West Mirror Drive
+	0xF93AC3E0 = West Silver Lake Drive
 	0xF93B116C = Carnage
 	0xF93CC439 = Roulette 18
 	0xF93CCA52 = $~a~
@@ -50664,9 +50664,9 @@
 	BSS_BSTR_37 = Slaughter,Slaughter&Slaughter
 	BSS_BSTR_38 = SSS
 	BSS_BSTR_39 = WestCoastCustoms
-	BSS_BSTR_40 = LSC
+	BSS_BSTR_40 = LAC
 	BSS_BSTR_41 = LATransport
-	BSS_BSTR_42 = LST
+	BSS_BSTR_42 = LAT
 	BSS_BSTR_43 = GulfOilCorpLtd
 	BSS_BSTR_44 = LTD
 	BSS_BSTR_45 = MitsubishiCorp
@@ -51037,7 +51037,7 @@
 	CAR1_ALL = Confirming your appointment with Devin Weston at his new development on Power St in Los Feliz.  Please be prompt, and arrive ready to work.
 	CAR2_DONE = I did you a solid, kid. Martin Madrazo needs help w sumthin, he wanted you, I got Trevor on board.  Don't mention it. we gotta go up to his ranch off Senora Rd.
 	CAR3_F_REM = Mr Westin would like to remind you that the Aston Martin DB5 at Richard's Majestic is still outstanding.  He would be grateful if you could secure it as soon as possible.
-	CAR3_MT_REM = Mr Westin is concerned that Mr Clinton still has not secured the Aston Martin DB5 from Richards Majestic.   You will receive payment as soon as we have all the cars.
+	CAR3_MT_REM = Mr Westin is concerned that Mr Clinton still has not secured the Aston Martin DB5 from MGM Studios.   You will receive payment as soon as we have all the cars.
 	CARBON = 1199
 	CARBONIZ = California
 	CARGOBOB = MH-53 Pave Low
@@ -52865,7 +52865,7 @@
 	CM_LOC_13 = Morro Bay
 	CM_LOC_14 = The Lighthouse
 	CM_LOC_15 = Vineyard
-	CM_LOC_16 = Richards Majestic Studio
+	CM_LOC_16 = MGM Studio
 	CM_LOC_17 = Golf Club
 	CM_LOC_18 = Altruist Camp
 	CM_LOC_19 = Power Station
@@ -56884,11 +56884,11 @@
 	HO_PRI_OFF_0 = The Prison Officer
 	HO_REF_COL_0 = The Collector
 	HO_REF_COL_1 = The Trash
-	HO_SHA_S_0 = The Richman
-	HO_SHA_S_1 = The Portola
+	HO_SHA_S_0 = The Brentwood
+	HO_SHA_S_1 = The Rodeo
 	HO_SHA_S_2 = The Venice
-	HO_SHA_S_3 = The Rockford
-	HO_SLO_S_0 = The Bluffs
+	HO_SHA_S_3 = The Beverly
+	HO_SLO_S_0 = The Palisades
 	HO_SLO_S_1 = The Burro
 	HO_SLO_S_2 = The Alta
 	HO_SLO_S_3 = The Dakota
@@ -59183,7 +59183,7 @@
 	MOUSE_LEFT = LMB
 	MOUSE_MIDDLE = MMB
 	MOUSE_RIGHT = RMB
-	MOVIE = Richards Majestic
+	MOVIE = MGM Studios
 	MOWER = Lawn Mower
 	MO_AIRCRAFT = IN AIRCRAFT
 	MO_AUD_NAME = Audio Adapter:
@@ -59676,9 +59676,9 @@
 	MP_PROP_38DES = No dropped calls here! This luxury condo is located in the same building as AT&T Mobile's headquarters in the new real estate hotspot of Downtown Los Angeles. This is such an up-and-coming neighborhood, you can literally see the construction from your window!~n~Includes 10-car garage.
 	MP_PROP_39 = 4 Integrity Way, Apt 35
 	MP_PROP_39DES = This beautiful Downtown triplex apartment has spectacular views of Los Angeles and the iconic Hollywood log in the distance. Watch all the people chasing the dream while you live it! Includes 10-car garage.
-	MP_PROP_40 = Richards Majestic, Apt 4
-	MP_PROP_40DES = This breathtaking luxury condo on Movie Star Way in Beverly Hills is a stone's throw from Richards Majestic Movie Studios, AKAN Records and a Sperm Donor Clinic. The ultimate trifecta of dying industries! Includes 10-car garage.
-	MP_PROP_41 = Richards Majestic, Apt 51
+	MP_PROP_40 = Constellation Place, Apt 4
+	MP_PROP_40DES = This breathtaking luxury condo on Movie Star Way in Beverly Hills is a stone's throw from MGM Movie Studios, AKAN Records and a Sperm Donor Clinic. The ultimate trifecta of dying industries! Includes 10-car garage.
+	MP_PROP_41 = Constellation Place, Apt 51
 	MP_PROP_41DES = A luxury condo on Movie Star Way in Beverly Hills? This is one of the trendiest addresses in Los Angeles! Imagine if all your neighbors were hedge fund managers and celebrities? Come on, live the dream. Includes 10-car garage.
 	MP_PROP_42 = Tinsel Towers, Apt 45
 	MP_PROP_42DES = Your split personality will be right at home in this retro-slash-ultramodern apartment building on Santa Monica Boulevard. Go mad in style. Includes 10-car garage.
@@ -59722,7 +59722,7 @@
 	MP_PROP_67DES = Part of The High Life Update. Perfectly proportioned, beautifully presented lateral living opportunity on exquisite Sunset Strip. This apartment is as unique as the new cheekbones your surgeon just gave you... by that we mean you'll see them all over town. Includes 10-car garage.
 	MP_PROP_68 = Santa Monica Heights, Apt 4
 	MP_PROP_68DES = Part of The High Life Update. Enjoy ocean views far above the fray of tourists and bums on Santa Monica Beach with this lateral living opportunity for the super rich. If we can overpay for something, we have, and we're passing the expense on down to you. Includes 10-car garage.
-	MP_PROP_69 = Richards Majestic, Apt 2
+	MP_PROP_69 = Constellation Place, Apt 2
 	MP_PROP_69DES = Part of The High Life Update. Own a piece of glamorous old Hollywood, albeit a very small and expensive piece that's been made to look just like the other super-rich corners of Los Angeles. A contemporary lateral living experience with one foot in the past. Includes 10-car garage.
 	MP_PROP_70 = Tinsel Towers, Apt 42
 	MP_PROP_70DES = Part of The High Life Update. A picture-perfect lateral living experience in one of Los Angeles' most sought-after tower blocks. These gorgeous lateral apartments only become available when hedgefunder residents have massive drug-induced heart attacks or get arrested for killing hookers. Includes 10-car garage.
@@ -62768,7 +62768,7 @@
 	RE_HANDOVER = If you retrieve a stolen item, you can choose to keep it or return it for a reward.
 	RE_REWARD = Some Random Events will reward the player with stat boosts or money.
 	RE_TITLE = Random Event
-	RGLEN = Bel-Air
+	RGLEN = Brentwood Glen
 	RHAPSODY = AMC Pacer
 	RHINO = Leopard 2A4
 	RHINO_ROCKET_KILLS = Leopard 2A4 Gun kills
@@ -62778,7 +62778,7 @@
 	RH_SPEED = Speed
 	RH_TATT = ~s~You have unlocked a new tattoo.~n~To try it out visit one of the Tattoo Parlors ~BLIP_TATTOO~ located around the city.
 	RH_WEAPONS = ~s~You have unlocked a new weapon.~n~Go to Ammu-Nation to purchase.
-	RICHM = Richman
+	RICHM = Brentwood
 	RIOT = Police Riot
 	RIPLEY = Ripley
 	RLOADER = Rat-Loader
@@ -65869,7 +65869,7 @@
 	WINDF = Ron Alternates Wind Farm
 	WINDSOR = Wraith
 	WINE_RED = Wine Red
-	WMIRROR = West Mirror Drive
+	WMIRROR = West Silver Lake Drive
 	WM_MAX_STICKY = Maximum of ~1~ active explosives.
 	WM_TINT0 = Black tint
 	WM_TINT1 = Green tint
