@@ -36809,7 +36809,7 @@
 	0xBFB6A162 = Assign Warehouse Technicians to manage these Goods in order for them to automatically accrue over time.
 	0xBFB17B6F = Green
 	0xBFB72FB7 = Go to your Penthouse Garage.
-	0A79 = Tataviam Truckstop
+	0xBFB80A79 = Tataviam Truckstop
 	0xBFB88C34 = Your CEO has the option to punish you if you destroy their Special Cargo shipment. If punished you will be removed from the Organization and not be able to become a CEO or join any Organization again for some time.
 	0xBFB5869E = Chapter 11
 	0xBFBAAF49 = Deliver the gas masks to the ~HUD_COLOUR_YELLOW~Salvage Yard.~s~
@@ -66200,4 +66200,13 @@
 	ZIRCONIU = Mercury
 	ZP_ORT = Port of Los Angeles
 	ZTYPE = Type 57SC Atlantic
+	0x95AAE7C4 = Vagos VIII
+	0x553CE4D6 = Take the Taco Van to ~HUD_COLOUR_YELLOW~Vincent's Lockup.~s~
+	0x939405F9 = Collect the ~HUD_COLOUR_GREEN~tiki statue.~s~
+	0xC313AB3B = There is a short delay before you can start this again.
+	0xC8923DA2 = RC Controller
+	0xD38FA8FB = REROUTING
+	0xE8DF2551 = Hack the keypad.~s~
+	0xE70B88D6 = The fingerprint found will help bypass the control panel for the vault.
+	0xF96E6A9D = Share
 }
