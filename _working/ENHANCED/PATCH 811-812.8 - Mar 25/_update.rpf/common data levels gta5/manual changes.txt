@@ -5,7 +5,7 @@ If you already use a custom vehicles.meta, the changes are really simple. Find e
 ******
 ******
 ******
-EMPEROR: 
+EMPEROR:
 Change GAME NAME for all Emperor models to EMPEROR2.
 Otherwise all Emperors will be called "Cadillac Lexus".
 <gameName>EMPEROR2</gameName>
@@ -67,11 +67,15 @@ SKYLIFT: <!-- Updated from HVY -->
 <vehicleMakeName />
 
 
+POLMAV:
+EUROC
+
+
 MAVERICK: <!-- Updated from BUCKINGHAM -->
 BELL
 
 
-JET: 
+JET:
 BOEING
 
 
@@ -208,4 +212,3 @@ ROLLS
 
 REGINA: <!-- Updated from DUNDREARY -->
 WILLARD
-

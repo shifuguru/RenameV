@@ -29334,7 +29334,7 @@
 			<txdName>polmav</txdName>
 			<handlingId>POLMAV</handlingId>
 			<gameName>POLMAV</gameName>
-			<vehicleMakeName />
+			<vehicleMakeName>EUROC</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
